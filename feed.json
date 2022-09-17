@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2022/09/16/202439.html",
+				
+				"content_html": "<p>🐕‍🦺</p>\n\n<p><img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" /></p>\n",
+				"content_text": "🐕‍🦺\n\n<img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
+				"date_published": "2022-09-16T20:24:39-05:00",
+				"url": "https://msmprojects.com/2022/09/16/202439.html",
+				"tags": ["dogs","photos"]
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2022/06/30/data-science-at.html",
+				
+				"content_html": "<p>Data science at its most relevant: <a href=\"http://colinmorris.github.io/blog/compound-curse-words\">Compound Pejoratives on Reddit</a> (NSFW: language)</p>\n",
+				"content_text": "Data science at its most relevant: [Compound Pejoratives on Reddit](http://colinmorris.github.io/blog/compound-curse-words) (NSFW: language)\n",
+				"date_published": "2022-06-30T10:23:52-05:00",
+				"url": "https://msmprojects.com/2022/06/30/data-science-at.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2022/06/30/well-this-is.html",
+				
+				"content_html": "<p>Well, this is just sad. I used to go to the Parkette when I lived in Lexington. I have photos of the sign I took for a project back in the early 90s. <a href=\"https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKMjR2RUJSRUlVcjcxV3VhWERTZ0FQAQ?ceid=US:en&amp;oc=3\">Lexington&rsquo;s Iconic Parkette Drive-In Closes</a></p>\n",
+				"content_text": "Well, this is just sad. I used to go to the Parkette when I lived in Lexington. I have photos of the sign I took for a project back in the early 90s. [Lexington's Iconic Parkette Drive-In Closes](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKMjR2RUJSRUlVcjcxV3VhWERTZ0FQAQ?ceid=US:en&oc=3)\n",
+				"date_published": "2022-06-30T10:05:39-05:00",
+				"url": "https://msmprojects.com/2022/06/30/well-this-is.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2022/06/26/from-devlawyer-legal.html",
 				
 				"content_html": "<p>From /dev/lawyer: <a href=\"https://writing.kemitchell.com/2022/06/26/Legal-Sources-Not-a-Lawyers\">Legal Sources for Not-a-Lawyers</a></p>\n\n<blockquote>\n<p>&ldquo;It’s your law, people. Don’t let lawyers scare you off of reading it!&rdquo;</p>\n</blockquote>\n",
