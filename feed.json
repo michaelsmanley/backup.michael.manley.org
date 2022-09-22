@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2022/09/20/currently-reading-nova.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553904291\">Nova Swing</a> by M. John Harrison 📚</p>\n",
+				"content_text": "Currently reading: [Nova Swing](https://micro.blog/books/9780553904291) by M. John Harrison 📚\n",
+				"date_published": "2022-09-20T11:34:41-05:00",
+				"url": "https://msmprojects.com/2022/09/20/currently-reading-nova.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2022/09/16/202439.html",
 				
-				"content_html": "<p>🐕‍🦺</p>\n\n<p><img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" /></p>\n",
-				"content_text": "🐕‍🦺\n\n<img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
+				"content_html": "<p>🐶\n<!-- raw HTML omitted --></p>\n",
+				"content_text": "🐶\n<img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2022-09-16T20:24:39-05:00",
 				"url": "https://msmprojects.com/2022/09/16/202439.html",
 				"tags": ["dogs","photos"]
@@ -34,7 +42,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2022/06/26/from-devlawyer-legal.html",
 				
-				"content_html": "<p>From /dev/lawyer: <a href=\"https://writing.kemitchell.com/2022/06/26/Legal-Sources-Not-a-Lawyers\">Legal Sources for Not-a-Lawyers</a></p>\n\n<blockquote>\n<p>&ldquo;It’s your law, people. Don’t let lawyers scare you off of reading it!&rdquo;</p>\n</blockquote>\n",
+				"content_html": "<p>From /dev/lawyer: <a href=\"https://writing.kemitchell.com/2022/06/26/Legal-Sources-Not-a-Lawyers\">Legal Sources for Not-a-Lawyers</a></p>\n<blockquote>\n<p>&ldquo;It’s your law, people. Don’t let lawyers scare you off of reading it!&rdquo;</p>\n</blockquote>\n",
 				"content_text": "From /dev/lawyer: [Legal Sources for Not-a-Lawyers](https://writing.kemitchell.com/2022/06/26/Legal-Sources-Not-a-Lawyers)\r\n\r\n> \"It’s your law, people. Don’t let lawyers scare you off of reading it!\"\n",
 				"date_published": "2022-06-26T19:17:09-05:00",
 				"url": "https://msmprojects.com/2022/06/26/from-devlawyer-legal.html"
@@ -82,7 +90,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/05/08/fellow-children-of.html",
 				
-				"content_html": "<p>Fellow children of the 80s, read this and say it with me: &ldquo;No shit, Sherlock.&rdquo; 1980s pop culture was all about impending, inevitable nuclear doom. <a href=\"https://www.theatlantic.com/ideas/archive/2021/05/my-mtv-cold-war-retrospective/618812/\">Tom Nichols at The Atlantic: I Want My Mutually Assured Destruction</a></p>\n\n<p>I have a vivid memory &ndash; cir. 1983, so I&rsquo;d&rsquo;ve been 14 &ndash; walking into the room while Reagan was on the TV &amp; asking my grandmother if he&rsquo;d announced the war with Russia had started. I didn&rsquo;t think there&rsquo;d be any other reason for him to be on in the middle of the day.</p>\n\n<p>I remember a (delusional) sense of relief when the Soviet Union broke up. There was just enough of the weight of that dread finally lifting. I think this is why these constant existential threats don&rsquo;t send me into a panic. It was always going to happen.</p>\n",
+				"content_html": "<p>Fellow children of the 80s, read this and say it with me: &ldquo;No shit, Sherlock.&rdquo; 1980s pop culture was all about impending, inevitable nuclear doom. <a href=\"https://www.theatlantic.com/ideas/archive/2021/05/my-mtv-cold-war-retrospective/618812/\">Tom Nichols at The Atlantic: I Want My Mutually Assured Destruction</a></p>\n<p>I have a vivid memory &ndash; cir. 1983, so I&rsquo;d&rsquo;ve been 14 &ndash; walking into the room while Reagan was on the TV &amp; asking my grandmother if he&rsquo;d announced the war with Russia had started. I didn&rsquo;t think there&rsquo;d be any other reason for him to be on in the middle of the day.</p>\n<p>I remember a (delusional) sense of relief when the Soviet Union broke up. There was just enough of the weight of that dread finally lifting. I think this is why these constant existential threats don&rsquo;t send me into a panic. It was always going to happen.</p>\n",
 				"content_text": "Fellow children of the 80s, read this and say it with me: \"No shit, Sherlock.\" 1980s pop culture was all about impending, inevitable nuclear doom. [Tom Nichols at The Atlantic: I Want My Mutually Assured Destruction](https://www.theatlantic.com/ideas/archive/2021/05/my-mtv-cold-war-retrospective/618812/)\n\nI have a vivid memory -- cir. 1983, so I'd've been 14 -- walking into the room while Reagan was on the TV & asking my grandmother if he'd announced the war with Russia had started. I didn't think there'd be any other reason for him to be on in the middle of the day.\n\nI remember a (delusional) sense of relief when the Soviet Union broke up. There was just enough of the weight of that dread finally lifting. I think this is why these constant existential threats don't send me into a panic. It was always going to happen.\n",
 				"date_published": "2021-05-08T10:17:00-05:00",
 				"url": "https://msmprojects.com/2021/05/08/fellow-children-of.html"
@@ -98,7 +106,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/04/10/i-dont-mind.html",
 				
-				"content_html": "<p>I don&rsquo;t mind if Matt Bors&rsquo; comics come out weekly or annually. I&rsquo;ll be there to read them nonetheless. Happy that he&rsquo;s going to continue running The Nib, one of the best publications out there. <a href=\"https://mattbors.medium.com/im-quitting-political-cartooning-65e587c2157a\">Matt Bors: I&rsquo;m Quitting Politcial Cartooning</a></p>\n",
+				"content_html": "<p>I don&rsquo;t mind if Matt Bors' comics come out weekly or annually. I&rsquo;ll be there to read them nonetheless. Happy that he&rsquo;s going to continue running The Nib, one of the best publications out there. <a href=\"https://mattbors.medium.com/im-quitting-political-cartooning-65e587c2157a\">Matt Bors: I&rsquo;m Quitting Politcial Cartooning</a></p>\n",
 				"content_text": "I don't mind if Matt Bors' comics come out weekly or annually. I'll be there to read them nonetheless. Happy that he's going to continue running The Nib, one of the best publications out there. [Matt Bors: I'm Quitting Politcial Cartooning](https://mattbors.medium.com/im-quitting-political-cartooning-65e587c2157a)\n",
 				"date_published": "2021-04-10T09:28:59-05:00",
 				"url": "https://msmprojects.com/2021/04/10/i-dont-mind.html"
@@ -106,7 +114,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/03/31/new-shirt-old.html",
 				"title": "New Shirt, Old Memories",
-				"content_html": "<p>Prior to <a href=\"https://www.holidayworld.com/\">Holiday World</a>, my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour &ndash; minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) &ndash; swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, <a href=\"https://michael.manley.org/writing/fiction/believing_in_santa_claus/\">“Believing in Santa Claus”</a>, that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.</p>\n\n<p>So when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.</p>\n\n<p><img src=\"uploads/2021/2b899f9a07.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_html": "<p>Prior to <a href=\"https://www.holidayworld.com/\">Holiday World</a>, my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour &ndash; minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) &ndash; swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, <a href=\"https://michael.manley.org/writing/fiction/believing_in_santa_claus/\">“Believing in Santa Claus”</a>, that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.</p>\n<p>So when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Prior to [Holiday World](https://www.holidayworld.com/), my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour -- minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) -- swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, [“Believing in Santa Claus”](https://michael.manley.org/writing/fiction/believing_in_santa_claus/), that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.\n\nSo when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.\n\n\n<img src=\"uploads/2021/2b899f9a07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-31T20:00:19-05:00",
 				"url": "https://msmprojects.com/2021/03/31/new-shirt-old.html",
@@ -171,7 +179,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/02/04/finally-there-is.html",
 				
-				"content_html": "<p>&lt;<a href=\"https://medium.com/pragmatic-programmers\">medium.com/pragmatic&hellip;</a>&gt;</p>\n\n<p>I&rsquo;ll admit that I bought a membership to Medium solely out of annoyance. I ran into too many articles on software development lodged behind the paywall. (In particular, discussions of open source projects.) I considered the annual fee a nuisance cost.</p>\n\n<p>With this content, Medium made that cost deliver much more value than the price. The Programmatic Programmer influenced much of my journeyman thinking in software development, and many other books in the press&rsquo;s line helped my career over the years.</p>\n\n<p>In particular, the book Behind Closed Doors by Johanna Rothman and Esther Derby is still a resource I would hand to any young engineer facing their first management job.</p>\n\n<p>I&rsquo;m not certain I would consume a lot of technical publications this way, but I applaud the PragProg publishers for trying this experiment.</p>\n",
+				"content_html": "<p>&lt;<a href=\"https://medium.com/pragmatic-programmers\">medium.com/pragmatic&hellip;</a>&gt;</p>\n<p>I&rsquo;ll admit that I bought a membership to Medium solely out of annoyance. I ran into too many articles on software development lodged behind the paywall. (In particular, discussions of open source projects.) I considered the annual fee a nuisance cost.</p>\n<p>With this content, Medium made that cost deliver much more value than the price. The Programmatic Programmer influenced much of my journeyman thinking in software development, and many other books in the press&rsquo;s line helped my career over the years.</p>\n<p>In particular, the book Behind Closed Doors by Johanna Rothman and Esther Derby is still a resource I would hand to any young engineer facing their first management job.</p>\n<p>I&rsquo;m not certain I would consume a lot of technical publications this way, but I applaud the PragProg publishers for trying this experiment.</p>\n",
 				"content_text": "<[medium.com/pragmatic...](https://medium.com/pragmatic-programmers)>\n\nI'll admit that I bought a membership to Medium solely out of annoyance. I ran into too many articles on software development lodged behind the paywall. (In particular, discussions of open source projects.) I considered the annual fee a nuisance cost.\n\nWith this content, Medium made that cost deliver much more value than the price. The Programmatic Programmer influenced much of my journeyman thinking in software development, and many other books in the press's line helped my career over the years.\n\nIn particular, the book Behind Closed Doors by Johanna Rothman and Esther Derby is still a resource I would hand to any young engineer facing their first management job.\n\nI'm not certain I would consume a lot of technical publications this way, but I applaud the PragProg publishers for trying this experiment.\n",
 				"date_published": "2021-02-04T20:14:00-05:00",
 				"url": "https://msmprojects.com/2021/02/04/finally-there-is.html"
@@ -187,7 +195,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/02/01/not-a-bad.html",
 				
-				"content_html": "<p>Not a bad <a href=\"https://chriskiehl.com/article/thoughts-after-6-years\">list</a> for only six years on the job.</p>\n\n<p>Most everything is subject to endless debate, but two things I find true after over thirty years doing this:</p>\n\n<ol>\n<li><p>If your software doesn&rsquo;t solve a real problem that real people have, no matter how well-written it may be, it isn&rsquo;t interesting. Real problems include exercises that help you learn how to build software, and many games, but not 90% of the stuff launched on ProductHunt (looking at you, &ldquo;Squat-O-Meter&rdquo;).</p></li>\n\n<li><p>Don&rsquo;t just reflect on what went wrong in retrospectives: Celebrate what went right, too. That&rsquo;s not a waste of time. Ignoring a team&rsquo;s successes is just as damaging long-term as ignoring a team&rsquo;s dysfunctions.</p></li>\n</ol>\n",
+				"content_html": "<p>Not a bad <a href=\"https://chriskiehl.com/article/thoughts-after-6-years\">list</a> for only six years on the job.</p>\n<p>Most everything is subject to endless debate, but two things I find true after over thirty years doing this:</p>\n<ol>\n<li>\n<p>If your software doesn&rsquo;t solve a real problem that real people have, no matter how well-written it may be, it isn&rsquo;t interesting. Real problems include exercises that help you learn how to build software, and many games, but not 90% of the stuff launched on ProductHunt (looking at you, &ldquo;Squat-O-Meter&rdquo;).</p>\n</li>\n<li>\n<p>Don&rsquo;t just reflect on what went wrong in retrospectives: Celebrate what went right, too. That&rsquo;s not a waste of time. Ignoring a team&rsquo;s successes is just as damaging long-term as ignoring a team&rsquo;s dysfunctions.</p>\n</li>\n</ol>\n",
 				"content_text": "Not a bad [list](https://chriskiehl.com/article/thoughts-after-6-years) for only six years on the job. \n\nMost everything is subject to endless debate, but two things I find true after over thirty years doing this:\n\n1. If your software doesn't solve a real problem that real people have, no matter how well-written it may be, it isn't interesting. Real problems include exercises that help you learn how to build software, and many games, but not 90% of the stuff launched on ProductHunt (looking at you, \"Squat-O-Meter\").\n\n2. Don't just reflect on what went wrong in retrospectives: Celebrate what went right, too. That's not a waste of time. Ignoring a team's successes is just as damaging long-term as ignoring a team's dysfunctions.\n",
 				"date_published": "2021-02-01T16:53:00-05:00",
 				"url": "https://msmprojects.com/2021/02/01/not-a-bad.html"
@@ -203,7 +211,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/01/26/i-spend-entirely.html",
 				
-				"content_html": "<p>I spend entirely too much time thinking about the &ldquo;Six-Fingered Hand&rdquo; storyline in &ldquo;The Defenders&rdquo; from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.</p>\n\n<p><img src=\"uploads/2021/ce77cf350b.jpg\" width=\"355\" height=\"311\" alt=\"\" /></p>\n",
+				"content_html": "<p>I spend entirely too much time thinking about the &ldquo;Six-Fingered Hand&rdquo; storyline in &ldquo;The Defenders&rdquo; from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "I spend entirely too much time thinking about the \"Six-Fingered Hand\" storyline in \"The Defenders\" from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.\n\n<img src=\"uploads/2021/ce77cf350b.jpg\" width=\"355\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2021-01-26T14:19:01-05:00",
 				"url": "https://msmprojects.com/2021/01/26/i-spend-entirely.html",
@@ -252,7 +260,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/01/19/amanda-gorman-will.html",
 				
-				"content_html": "<p>Amanda Gorman will read at the inauguration, the youngest poet to receive the honor. Just going by her poem <a href=\"https://poets.org/poem/place-american-lyric\">&ldquo;In This Place (An American Lyric)&rdquo;</a>, I&rsquo;d argue that she understands actual patriotism a hell of a lot better than most folks who rage behind the word.</p>\n",
+				"content_html": "<p>Amanda Gorman will read at the inauguration, the youngest poet to receive the honor. Just going by her poem <a href=\"https://poets.org/poem/place-american-lyric\">&ldquo;In This Place (An American Lyric)&quot;</a>, I&rsquo;d argue that she understands actual patriotism a hell of a lot better than most folks who rage behind the word.</p>\n",
 				"content_text": "Amanda Gorman will read at the inauguration, the youngest poet to receive the honor. Just going by her poem [\"In This Place (An American Lyric)\"](https://poets.org/poem/place-american-lyric), I'd argue that she understands actual patriotism a hell of a lot better than most folks who rage behind the word.\n",
 				"date_published": "2021-01-19T11:24:00-05:00",
 				"url": "https://msmprojects.com/2021/01/19/amanda-gorman-will.html"
@@ -341,7 +349,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/10/03/amazon-i-dont.html",
 				
-				"content_html": "<p>Amazon, I don&rsquo;t think that word means what you think it means.</p>\n\n<p><img src=\"uploads/2020/ad934c6c18.png\" width=\"600\" height=\"59\" alt=\"\" /></p>\n",
+				"content_html": "<p>Amazon, I don&rsquo;t think that word means what you think it means.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Amazon, I don't think that word means what you think it means.\n\n<img src=\"uploads/2020/ad934c6c18.png\" width=\"600\" height=\"59\" alt=\"\" />\n",
 				"date_published": "2020-10-03T16:35:17-05:00",
 				"url": "https://msmprojects.com/2020/10/03/amazon-i-dont.html",
@@ -350,7 +358,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/09/30/so-glad-you.html",
 				
-				"content_html": "<p>So glad you have your metadata all squared away, Amazon and Hachette.</p>\n\n<p><img src=\"uploads/2020/b75b0f6794.png\" width=\"600\" height=\"61\" alt=\"\" /></p>\n",
+				"content_html": "<p>So glad you have your metadata all squared away, Amazon and Hachette.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "So glad you have your metadata all squared away, Amazon and Hachette.\n\n<img src=\"uploads/2020/b75b0f6794.png\" width=\"600\" height=\"61\" alt=\"\" />\n",
 				"date_published": "2020-09-30T10:46:00-05:00",
 				"url": "https://msmprojects.com/2020/09/30/so-glad-you.html",
@@ -375,8 +383,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/08/30/my-bartender-ronniecraig.html",
 				
-				"content_html": "<p>My bartender, @ronniecraig, created a drink that we’re calling a Summer Quarantine: 1 cup watermelon juice, 1 cup @JourneymanDist Humdinger Jalapeño Spirit, juice of 2 fresh limes. Shake with ice &amp; 2-4 seeded fresh jalapeño slices. Makes 2. Serve on the rocks.🍹</p>\n\n<p><img src=\"uploads/2020/ad8d2f78cd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My bartender, @ronniecraig, created a drink that we’re calling a Summer Quarantine: 1 cup watermelon juice, 1 cup @JourneymanDist Humdinger Jalapeño Spirit, juice of 2 fresh limes. Shake with ice & 2-4 seeded fresh jalapeño slices. Makes 2. Serve on the rocks.🍹\n\n<img src=\"uploads/2020/ad8d2f78cd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My bartender, @ronniecraig, created a drink that we’re calling a Summer Quarantine: 1 cup watermelon juice, 1 cup @JourneymanDist Humdinger Jalapeño Spirit, juice of 2 fresh limes. Shake with ice &amp; 2-4 seeded fresh jalapeño slices. Makes 2. Serve on the rocks.🍹</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My bartender, @ronniecraig, created a drink that we’re calling a Summer Quarantine: 1 cup watermelon juice, 1 cup @JourneymanDist Humdinger Jalapeño Spirit, juice of 2 fresh limes. Shake with ice & 2-4 seeded fresh jalapeño slices. Makes 2. Serve on the rocks.🍹\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2020/ad8d2f78cd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-30T17:20:43-05:00",
 				"url": "https://msmprojects.com/2020/08/30/my-bartender-ronniecraig.html",
 				"tags": ["photos"]
@@ -504,7 +512,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/03/08/if-you-really.html",
 				
-				"content_html": "<p>If you really want to help, wash your hands, cover your mouth, &amp; share good information: <a href=\"https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/\">Don’t Panic: The comprehensive Ars Technica guide to the coronavirus</a></p>\n",
+				"content_html": "<p>If you really want to help, wash your hands, cover your mouth, &amp; share good information: [Don’t Panic: The comprehensive Ars Technica guide to the coronavirus] (<a href=\"https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/\">https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/</a>)</p>\n",
 				"content_text": "If you really want to help, wash your hands, cover your mouth, & share good information: [Don’t Panic: The comprehensive Ars Technica guide to the coronavirus] (https://arstechnica.com/science/2020/03/dont-panic-the-comprehensive-ars-technica-guide-to-the-coronavirus/)\n",
 				"date_published": "2020-03-08T19:36:51-05:00",
 				"url": "https://msmprojects.com/2020/03/08/if-you-really.html"
@@ -576,8 +584,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/02/14/this-seems-just.html",
 				
-				"content_html": "<p>This seems just a little bit off today, unless there’s a different temperature unit in our current dystopia.</p>\n\n<p><img src=\"uploads/2020/c97b2ff0c8.jpg\" width=\"288\" height=\"340\" alt=\"\" /></p>\n",
-				"content_text": "This seems just a little bit off today, unless there’s a different temperature unit in our current dystopia. \n\n<img src=\"uploads/2020/c97b2ff0c8.jpg\" width=\"288\" height=\"340\" alt=\"\" />\n",
+				"content_html": "<p>This seems just a little bit off today, unless there’s a different temperature unit in our current dystopia.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This seems just a little bit off today, unless there’s a different temperature unit in our current dystopia. \n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2020/c97b2ff0c8.jpg\" width=\"288\" height=\"340\" alt=\"\" />\n",
 				"date_published": "2020-02-14T08:53:08-05:00",
 				"url": "https://msmprojects.com/2020/02/14/this-seems-just.html",
 				"tags": ["photos"]
@@ -601,8 +609,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/01/09/what-appears-to.html",
 				
-				"content_html": "<p>What appears to contain the cover painting of every paperback I read in high school: <a href=\"https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/art.html\">Space Colony Art from the 1970s</a></p>\n\n<p><img src=\"uploads/2020/b82670861b.jpg\" width=\"450\" height=\"356\" alt=\"\" /></p>\n",
-				"content_text": "What appears to contain the cover painting of every paperback I read in high school: [Space Colony Art from the 1970s](https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/art.html)\r\n\r\n\n\n<img src=\"uploads/2020/b82670861b.jpg\" width=\"450\" height=\"356\" alt=\"\" />\n",
+				"content_html": "<p>What appears to contain the cover painting of every paperback I read in high school: <a href=\"https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/art.html\">Space Colony Art from the 1970s</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What appears to contain the cover painting of every paperback I read in high school: [Space Colony Art from the 1970s](https://settlement.arc.nasa.gov/70sArtHiRes/70sArt/art.html)\r\n\r\n\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2020/b82670861b.jpg\" width=\"450\" height=\"356\" alt=\"\" />\n",
 				"date_published": "2020-01-09T20:22:16-05:00",
 				"url": "https://msmprojects.com/2020/01/09/what-appears-to.html",
 				"tags": ["photos"]
@@ -626,8 +634,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/12/14/nurse-rembert-taking.html",
 				
-				"content_html": "<p>Nurse Rembert taking care of his sick bubba.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/3c4fa51dd8.jpg\"><img src=\"uploads/2019/3c4fa51dd8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Nurse Rembert taking care of his sick bubba. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/3c4fa51dd8.jpg\"><img src=\"uploads/2019/3c4fa51dd8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Nurse Rembert taking care of his sick bubba.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Nurse Rembert taking care of his sick bubba. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/3c4fa51dd8.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/3c4fa51dd8.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-12-14T21:24:16-05:00",
 				"url": "https://msmprojects.com/2019/12/14/nurse-rembert-taking.html",
 				"tags": ["photos"]
@@ -635,7 +643,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/11/30/another-favorite-in.html",
 				
-				"content_html": "<p>Another favorite in my list of old-fashioned, obsessive blogs: <a href=\"http://spaceythompson.blogspot.com/\">Hardboiled Wonderland</a></p>\n\n<p>The “30 Days Has Noirvember” series there has been a wonderfully deep dive into noir movies that should keep us busy for months.</p>\n",
+				"content_html": "<p>Another favorite in my list of old-fashioned, obsessive blogs: <a href=\"http://spaceythompson.blogspot.com/\">Hardboiled Wonderland</a></p>\n<p>The “30 Days Has Noirvember” series there has been a wonderfully deep dive into noir movies that should keep us busy for months.</p>\n",
 				"content_text": "Another favorite in my list of old-fashioned, obsessive blogs: [Hardboiled Wonderland](http://spaceythompson.blogspot.com/)\n\nThe “30 Days Has Noirvember” series there has been a wonderfully deep dive into noir movies that should keep us busy for months.\n",
 				"date_published": "2019-11-30T16:10:00-05:00",
 				"url": "https://msmprojects.com/2019/11/30/another-favorite-in.html"
@@ -651,7 +659,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/11/17/a-flatearth-conference.html",
 				
-				"content_html": "<p><a href=\"https://www.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html\">&ldquo;[A] flat-Earth conference is invariably also a gathering of anti-vaxxers, 9/11 truthers and Illuminati subscribers, to name a few.&rdquo;</a> What a surprise.</p>\n",
+				"content_html": "<p><a href=\"https://www.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html\">&quot;[A] flat-Earth conference is invariably also a gathering of anti-vaxxers, 9/11 truthers and Illuminati subscribers, to name a few.&quot;</a> What a surprise.</p>\n",
 				"content_text": "[\"[A] flat-Earth conference is invariably also a gathering of anti-vaxxers, 9/11 truthers and Illuminati subscribers, to name a few.\"](https://www.cnn.com/2019/11/16/us/flat-earth-conference-conspiracy-theories-scli-intl/index.html) What a surprise.\n",
 				"date_published": "2019-11-17T12:56:54-05:00",
 				"url": "https://msmprojects.com/2019/11/17/a-flatearth-conference.html"
@@ -659,8 +667,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/11/14/dogs-with-broom.html",
 				
-				"content_html": "<p>Dogs with Broom</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/d958b85785.jpg\"><img src=\"uploads/2019/d958b85785.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Dogs with Broom\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/d958b85785.jpg\"><img src=\"uploads/2019/d958b85785.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Dogs with Broom</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Dogs with Broom\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/d958b85785.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/d958b85785.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-11-14T18:26:07-05:00",
 				"url": "https://msmprojects.com/2019/11/14/dogs-with-broom.html",
 				"tags": ["photos"]
@@ -684,7 +692,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/10/21/public-good-is.html",
 				
-				"content_html": "<p>Public Good is looking to fill a couple of media positions. See <a href=\"the Public Good blog\">https://publicgood.com/blog/2019/10/20/join-our-team/</a> or ask and I can forward job descriptions or tell you about the company.</p>\n",
+				"content_html": "<p>Public Good is looking to fill a couple of media positions. See [https://publicgood.com/blog/2019/10/20/join-our-team/](the Public Good blog) or ask and I can forward job descriptions or tell you about the company.</p>\n",
 				"content_text": "Public Good is looking to fill a couple of media positions. See [https://publicgood.com/blog/2019/10/20/join-our-team/](the Public Good blog) or ask and I can forward job descriptions or tell you about the company.\n",
 				"date_published": "2019-10-21T14:04:44-05:00",
 				"url": "https://msmprojects.com/2019/10/21/public-good-is.html"
@@ -692,7 +700,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/10/16/capitalism-ruins-everything.html",
 				"title": "Capitalism Ruins Everything: Podcasting's Turn in the Barrel",
-				"content_html": "<p>From <a href=\"https://digiday.com/media/platforms-ad-tech-circle-podcastings-small-beautiful-age-drawing-close/\">As platforms and ad tech circle, podcasting’s small, beautiful age is drawing to a close\n</a>:</p>\n\n<blockquote>\n<p>[Podcasting] will inevitably become more like the display ad ecosystem: commoditized, automated, audience-driven rather than contextual. The podcast ad world has been craft; it’s destined to be mechanized.”</p>\n</blockquote>\n\n<p>Mind you, the folks at Digiday see this as a good thing.</p>\n\n<p>Eventually, every creative utterance will be &ldquo;platformed” if the gray goo of advertising has its way.</p>\n",
+				"content_html": "<p>From <a href=\"https://digiday.com/media/platforms-ad-tech-circle-podcastings-small-beautiful-age-drawing-close/\">As platforms and ad tech circle, podcasting’s small, beautiful age is drawing to a close\n</a>:</p>\n<blockquote>\n<p>[Podcasting] will inevitably become more like the display ad ecosystem: commoditized, automated, audience-driven rather than contextual. The podcast ad world has been craft; it’s destined to be mechanized.”</p>\n</blockquote>\n<p>Mind you, the folks at Digiday see this as a good thing.</p>\n<p>Eventually, every creative utterance will be &ldquo;platformed” if the gray goo of advertising has its way.</p>\n",
 				"content_text": "From [As platforms and ad tech circle, podcasting’s small, beautiful age is drawing to a close\n](https://digiday.com/media/platforms-ad-tech-circle-podcastings-small-beautiful-age-drawing-close/): \n\n> \\[Podcasting] will inevitably become more like the display ad ecosystem: commoditized, automated, audience-driven rather than contextual. The podcast ad world has been craft; it’s destined to be mechanized.”\n\nMind you, the folks at Digiday see this as a good thing. \n\nEventually, every creative utterance will be \"platformed” if the gray goo of advertising has its way.\n",
 				"date_published": "2019-10-16T09:58:03-05:00",
 				"url": "https://msmprojects.com/2019/10/16/capitalism-ruins-everything.html"
@@ -708,7 +716,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/10/10/annual-reminder-i.html",
 				
-				"content_html": "<p>Annual Reminder: I just had a flu shot. And soon I will have that flu stuffed and displayed over my fireplace.</p>\n\n<p>(Get your flu shot.)</p>\n",
+				"content_html": "<p>Annual Reminder: I just had a flu shot. And soon I will have that flu stuffed and displayed over my fireplace.</p>\n<p>(Get your flu shot.)</p>\n",
 				"content_text": "Annual Reminder: I just had a flu shot. And soon I will have that flu stuffed and displayed over my fireplace.\n\n(Get your flu shot.)\n",
 				"date_published": "2019-10-10T10:40:33-05:00",
 				"url": "https://msmprojects.com/2019/10/10/annual-reminder-i.html"
@@ -724,8 +732,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/10/06/every-year-the.html",
 				
-				"content_html": "<p>Every year the alderman sends around a public service flyer: Do Not Feed the Shelobs. And every year someone feeds the shelobs.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/533f7b3d20.jpg\"><img src=\"uploads/2019/533f7b3d20.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Every year the alderman sends around a public service flyer: Do Not Feed the Shelobs. And every year someone feeds the shelobs.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/533f7b3d20.jpg\"><img src=\"uploads/2019/533f7b3d20.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Every year the alderman sends around a public service flyer: Do Not Feed the Shelobs. And every year someone feeds the shelobs.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Every year the alderman sends around a public service flyer: Do Not Feed the Shelobs. And every year someone feeds the shelobs.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/533f7b3d20.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/533f7b3d20.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-10-06T19:39:45-05:00",
 				"url": "https://msmprojects.com/2019/10/06/every-year-the.html",
 				"tags": ["photos"]
@@ -758,8 +766,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/09/28/the-first-years.html",
 				
-				"content_html": "<p>The first year’s harvest.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/41ada1446b.jpg\"><img src=\"uploads/2019/41ada1446b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "The first year’s harvest. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/41ada1446b.jpg\"><img src=\"uploads/2019/41ada1446b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>The first year’s harvest.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The first year’s harvest. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/41ada1446b.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/41ada1446b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-09-28T12:44:24-05:00",
 				"url": "https://msmprojects.com/2019/09/28/the-first-years.html",
 				"tags": ["photos"]
@@ -815,7 +823,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/09/05/late-capitalism-infects.html",
 				
-				"content_html": "<p>Late Capitalism infects &amp; kills everything it touches. Evidence: <a href=\"https://www.vincentavanzi.com/\">Chief Poetic Officer</a>. Note that the site is &copy; 2023. I suspect that 2020 goes so poorly that the collective agony rents a hole in spacetime and this effluent has flooded back.</p>\n",
+				"content_html": "<p>Late Capitalism infects &amp; kills everything it touches. Evidence: <a href=\"https://www.vincentavanzi.com/\">Chief Poetic Officer</a>. Note that the site is © 2023. I suspect that 2020 goes so poorly that the collective agony rents a hole in spacetime and this effluent has flooded back.</p>\n",
 				"content_text": "Late Capitalism infects & kills everything it touches. Evidence: [Chief Poetic Officer](https://www.vincentavanzi.com/). Note that the site is &copy; 2023. I suspect that 2020 goes so poorly that the collective agony rents a hole in spacetime and this effluent has flooded back.\n",
 				"date_published": "2019-09-05T14:16:16-05:00",
 				"url": "https://msmprojects.com/2019/09/05/late-capitalism-infects.html"
@@ -831,8 +839,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/30/bubbas.html",
 				
-				"content_html": "<p>Bubbas</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/e9a9e800f9.jpg\"><img src=\"uploads/2019/e9a9e800f9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Bubbas\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/e9a9e800f9.jpg\"><img src=\"uploads/2019/e9a9e800f9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Bubbas</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bubbas\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/e9a9e800f9.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/e9a9e800f9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-30T10:57:43-05:00",
 				"url": "https://msmprojects.com/2019/08/30/bubbas.html",
 				"tags": ["photos"]
@@ -882,8 +890,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/18/you-gotta-take.html",
 				
-				"content_html": "<p>You gotta take your comfy where you find it, I guess.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/0bda35c28f.jpg\"><img src=\"uploads/2019/0bda35c28f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "You gotta take your comfy where you find it, I guess.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/0bda35c28f.jpg\"><img src=\"uploads/2019/0bda35c28f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>You gotta take your comfy where you find it, I guess.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "You gotta take your comfy where you find it, I guess.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/0bda35c28f.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/0bda35c28f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-18T13:33:00-05:00",
 				"url": "https://msmprojects.com/2019/08/18/you-gotta-take.html",
 				"tags": ["dogs","photos"]
@@ -891,8 +899,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/16/calm-boys-friday.html",
 				"title": "Calm Boys",
-				"content_html": "<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/f0f28bf9bc.jpg\"><img src=\"uploads/2019/f0f28bf9bc.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/9b6ff33e9b.jpg\"><img src=\"uploads/2019/9b6ff33e9b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "<a href=\"https://michaelsmanley.micro.blog/uploads/2019/f0f28bf9bc.jpg\"><img src=\"uploads/2019/f0f28bf9bc.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/9b6ff33e9b.jpg\"><img src=\"uploads/2019/9b6ff33e9b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://michaelsmanley.micro.blog/uploads/2019/f0f28bf9bc.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/f0f28bf9bc.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/9b6ff33e9b.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/9b6ff33e9b.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-16T15:03:00-05:00",
 				"url": "https://msmprojects.com/2019/08/16/calm-boys-friday.html",
 				"tags": ["dogs","photos"]
@@ -900,8 +908,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/15/201328.html",
 				
-				"content_html": "<p><img src=\"uploads/2019/69e93dbb61.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2019/69e93dbb61.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2019/69e93dbb61.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-15T20:13:28-05:00",
 				"url": "https://msmprojects.com/2019/08/15/201328.html",
 				"tags": ["photos"]
@@ -909,8 +917,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/11/dim-sum-dinner.html",
 				"title": "Dim Sum Dinner Club",
-				"content_html": "<p>Had a wonderful dinner this weekend at Brian Moy’s Dim Sum Dinner Club pop-up. Somehow managed to forget to snap a pic of one course, but everything was just delicious. Cannot wait to see what he does with his plans. Great wine pairings offered by Diversey Wine, too.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/8b6e42a140.jpg\"><img src=\"uploads/2019/8b6e42a140.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/0f5dae5c83.jpg\"><img src=\"uploads/2019/0f5dae5c83.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/044a97727d.jpg\"><img src=\"uploads/2019/044a97727d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/6eb2588362.jpg\"><img src=\"uploads/2019/6eb2588362.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/3fb6bfe4af.jpg\"><img src=\"uploads/2019/3fb6bfe4af.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/12258c293e.jpg\"><img src=\"uploads/2019/12258c293e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/916188cc44.jpg\"><img src=\"uploads/2019/916188cc44.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/c4eef807ad.jpg\"><img src=\"uploads/2019/c4eef807ad.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Had a wonderful dinner this weekend at Brian Moy’s Dim Sum Dinner Club pop-up. Somehow managed to forget to snap a pic of one course, but everything was just delicious. Cannot wait to see what he does with his plans. Great wine pairings offered by Diversey Wine, too.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/8b6e42a140.jpg\"><img src=\"uploads/2019/8b6e42a140.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/0f5dae5c83.jpg\"><img src=\"uploads/2019/0f5dae5c83.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/044a97727d.jpg\"><img src=\"uploads/2019/044a97727d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/6eb2588362.jpg\"><img src=\"uploads/2019/6eb2588362.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/3fb6bfe4af.jpg\"><img src=\"uploads/2019/3fb6bfe4af.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/12258c293e.jpg\"><img src=\"uploads/2019/12258c293e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/916188cc44.jpg\"><img src=\"uploads/2019/916188cc44.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/c4eef807ad.jpg\"><img src=\"uploads/2019/c4eef807ad.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Had a wonderful dinner this weekend at Brian Moy’s Dim Sum Dinner Club pop-up. Somehow managed to forget to snap a pic of one course, but everything was just delicious. Cannot wait to see what he does with his plans. Great wine pairings offered by Diversey Wine, too.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Had a wonderful dinner this weekend at Brian Moy’s Dim Sum Dinner Club pop-up. Somehow managed to forget to snap a pic of one course, but everything was just delicious. Cannot wait to see what he does with his plans. Great wine pairings offered by Diversey Wine, too.\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/8b6e42a140.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/8b6e42a140.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/0f5dae5c83.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/0f5dae5c83.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/044a97727d.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/044a97727d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/6eb2588362.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/6eb2588362.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/3fb6bfe4af.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/3fb6bfe4af.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/12258c293e.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/12258c293e.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/916188cc44.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/916188cc44.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/c4eef807ad.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/c4eef807ad.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-11T12:03:19-05:00",
 				"url": "https://msmprojects.com/2019/08/11/dim-sum-dinner.html",
 				"tags": ["photos"]
@@ -967,7 +975,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/07/20/sunday-reading.html",
 				"title": "Sunday Reading 2019-07-21 📚",
-				"content_html": "<p><a href=\"https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/\">Uber&rsquo;s Path of Destruction</a>, Hubert Horan, American Affairs Journal. I feel guilty any time I use Uber rather than a traditional taxi or mass transit. The dire state of ridesharing companies like Uber and Lyft further cements my belief that the age of individual automobile has hit its twilight years. There&rsquo;s no greater a civilization-ending waste than the automobile, at least in urban areas. Also, any time some SV sociopath tells you he&rsquo;s (it&rsquo;s almost always a he) &ldquo;disrupting&rdquo; some market segment, kick him somewhere painful and then get the hell away.</p>\n\n<p><a href=\"https://longreads.com/bundyville/\">Bundyville, Season Two</a>, Leah Sottile, Longreads. Read this, listen to this, and understand that this is totally not fiction, that some of your fellow citizens actually believe in the American Redoubt as a plan rather than bad dystopian storytelling.</p>\n\n<p><a href=\"https://thenib.com/planet-nemesis-conspiracy-youtube\">How to Make Up Planets and Accidentally Influence People</a>, Kayne Lynch, The Nib. Touching upon a similar species of idiot surveyed in Bundyville, from another direction.</p>\n\n<p><a href=\"https://www.tor.com/series/rereading-gene-wolfe/\">Rereading Gene Wolfe</a>, Tor.com. I&rsquo;m still working on rereading Iain M. Banks&rsquo;s Culture novels, but Wolfe is on the list to read through someday.</p>\n\n<p><a href=\"https://www.creativenonfiction.org/brevity/past%20issues/brev16/handler_moon.htm\">To the Moon</a>, Jessica Handler, Brevity. Jessica is an instructor and patio drummer at Wildacres, the writing workshop we attend each summer. She posted this older piece in honor of the Apollo anniversary. From another Wildacres instructor, John Kessel, a reminder to all writers that &ldquo;the moon is not an ornament.&rdquo;</p>\n",
+				"content_html": "<p><a href=\"https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/\">Uber&rsquo;s Path of Destruction</a>, Hubert Horan, American Affairs Journal. I feel guilty any time I use Uber rather than a traditional taxi or mass transit. The dire state of ridesharing companies like Uber and Lyft further cements my belief that the age of individual automobile has hit its twilight years. There&rsquo;s no greater a civilization-ending waste than the automobile, at least in urban areas. Also, any time some SV sociopath tells you he&rsquo;s (it&rsquo;s almost always a he) &ldquo;disrupting&rdquo; some market segment, kick him somewhere painful and then get the hell away.</p>\n<p><a href=\"https://longreads.com/bundyville/\">Bundyville, Season Two</a>, Leah Sottile, Longreads. Read this, listen to this, and understand that this is totally not fiction, that some of your fellow citizens actually believe in the American Redoubt as a plan rather than bad dystopian storytelling.</p>\n<p><a href=\"https://thenib.com/planet-nemesis-conspiracy-youtube\">How to Make Up Planets and Accidentally Influence People</a>, Kayne Lynch, The Nib. Touching upon a similar species of idiot surveyed in Bundyville, from another direction.</p>\n<p><a href=\"https://www.tor.com/series/rereading-gene-wolfe/\">Rereading Gene Wolfe</a>, Tor.com. I&rsquo;m still working on rereading Iain M. Banks&rsquo;s Culture novels, but Wolfe is on the list to read through someday.</p>\n<p><a href=\"https://www.creativenonfiction.org/brevity/past%20issues/brev16/handler_moon.htm\">To the Moon</a>, Jessica Handler, Brevity. Jessica is an instructor and patio drummer at Wildacres, the writing workshop we attend each summer. She posted this older piece in honor of the Apollo anniversary. From another Wildacres instructor, John Kessel, a reminder to all writers that &ldquo;the moon is not an ornament.&rdquo;</p>\n",
 				"content_text": "[Uber's Path of Destruction](https://americanaffairsjournal.org/2019/05/ubers-path-of-destruction/), Hubert Horan, American Affairs Journal. I feel guilty any time I use Uber rather than a traditional taxi or mass transit. The dire state of ridesharing companies like Uber and Lyft further cements my belief that the age of individual automobile has hit its twilight years. There's no greater a civilization-ending waste than the automobile, at least in urban areas. Also, any time some SV sociopath tells you he's (it's almost always a he) \"disrupting\" some market segment, kick him somewhere painful and then get the hell away.\n\n[Bundyville, Season Two](https://longreads.com/bundyville/), Leah Sottile, Longreads. Read this, listen to this, and understand that this is totally not fiction, that some of your fellow citizens actually believe in the American Redoubt as a plan rather than bad dystopian storytelling.\n\n[How to Make Up Planets and Accidentally Influence People](https://thenib.com/planet-nemesis-conspiracy-youtube), Kayne Lynch, The Nib. Touching upon a similar species of idiot surveyed in Bundyville, from another direction. \n\n[Rereading Gene Wolfe](https://www.tor.com/series/rereading-gene-wolfe/), Tor.com. I'm still working on rereading Iain M. Banks's Culture novels, but Wolfe is on the list to read through someday.\n\n[To the Moon](https://www.creativenonfiction.org/brevity/past%20issues/brev16/handler_moon.htm), Jessica Handler, Brevity. Jessica is an instructor and patio drummer at Wildacres, the writing workshop we attend each summer. She posted this older piece in honor of the Apollo anniversary. From another Wildacres instructor, John Kessel, a reminder to all writers that \"the moon is not an ornament.\"\n",
 				"date_published": "2019-07-21T11:21:44-05:00",
 				"url": "https://msmprojects.com/2019/07/20/sunday-reading.html"
@@ -975,7 +983,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/06/30/sunday-reading.html",
 				"title": "Sunday Reading 2019-06-30",
-				"content_html": "\n\n<h2 id=\"fiction\">Fiction</h2>\n\n<p><a href=\"http://www.rudyrucker.com/blog/2019/06/24/juicy-ghost/\">Juicy Ghost</a>, Rudy Rucker. I like to see a good plan come together, but I don&rsquo;t know how I feel about one that comes together so easily. The conflict here, under the political satire, is subtle. Also, see Rucker&rsquo;s <a href=\"http://www.rudyrucker.com/transrealbooks/completestories/\">Complete Stories</a>, which I think most authors ought to do.</p>\n\n<p><a href=\"https://www.tor.com/2019/05/15/long-is-the-way-carrie-vaughn-sage-walker/\">Long is the Way</a>, Carrie Vaughn &amp; Sage Walker. Any day a new Wild Cards story comes out is a good day.</p>\n\n<h2 id=\"non-fiction\">Non-Fiction</h2>\n\n<p><a href=\"https://lithub.com/what-its-like-to-teach-writing-when-everyones-a-writer/\">What It&rsquo;s Like to Teach Writing When Everyone is a Writer</a>, Janet Burroway. One of the most important textbooks in my college years was an edition of Burroway&rsquo;s <em>Writing Fiction</em>. I know people who work with Burroway now on the later editions of the book.</p>\n\n<p><a href=\"https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/\">All-American Despair</a>, Stephen Roderick. &ldquo;For the past two decades, a suicide epidemic fueled by guns, poverty and isolation has swept across the West, with middle-aged men dying in record numbers.&rdquo; Bleak. Probably not what we want to hear these days, but maybe what at least someone needs to hear.</p>\n\n<h2 id=\"ancient-history\">Ancient History</h2>\n\n<p><a href=\"https://www.esquire.com/news-politics/a638/frank-sinatra-has-a-cold-gay-talese/\">Frank Sinatra Has a Cold</a>, Gay Talese. One of the classics of New Journalism or Creative Nonfiction or whatever the kids are calling it these days. With bonus cameo appearance by Harlan Ellison.</p>\n",
+				"content_html": "<h2 id=\"fiction\">Fiction</h2>\n<p><a href=\"http://www.rudyrucker.com/blog/2019/06/24/juicy-ghost/\">Juicy Ghost</a>, Rudy Rucker. I like to see a good plan come together, but I don&rsquo;t know how I feel about one that comes together so easily. The conflict here, under the political satire, is subtle. Also, see Rucker&rsquo;s <a href=\"http://www.rudyrucker.com/transrealbooks/completestories/\">Complete Stories</a>, which I think most authors ought to do.</p>\n<p><a href=\"https://www.tor.com/2019/05/15/long-is-the-way-carrie-vaughn-sage-walker/\">Long is the Way</a>, Carrie Vaughn &amp; Sage Walker. Any day a new Wild Cards story comes out is a good day.</p>\n<h2 id=\"non-fiction\">Non-Fiction</h2>\n<p><a href=\"https://lithub.com/what-its-like-to-teach-writing-when-everyones-a-writer/\">What It&rsquo;s Like to Teach Writing When Everyone is a Writer</a>, Janet Burroway. One of the most important textbooks in my college years was an edition of Burroway&rsquo;s <em>Writing Fiction</em>. I know people who work with Burroway now on the later editions of the book.</p>\n<p><a href=\"https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/\">All-American Despair</a>, Stephen Roderick. &ldquo;For the past two decades, a suicide epidemic fueled by guns, poverty and isolation has swept across the West, with middle-aged men dying in record numbers.&rdquo; Bleak. Probably not what we want to hear these days, but maybe what at least someone needs to hear.</p>\n<h2 id=\"ancient-history\">Ancient History</h2>\n<p><a href=\"https://www.esquire.com/news-politics/a638/frank-sinatra-has-a-cold-gay-talese/\">Frank Sinatra Has a Cold</a>, Gay Talese. One of the classics of New Journalism or Creative Nonfiction or whatever the kids are calling it these days. With bonus cameo appearance by Harlan Ellison.</p>\n",
 				"content_text": "## Fiction\n\n[Juicy Ghost](http://www.rudyrucker.com/blog/2019/06/24/juicy-ghost/), Rudy Rucker. I like to see a good plan come together, but I don't know how I feel about one that comes together so easily. The conflict here, under the political satire, is subtle. Also, see Rucker's [Complete Stories](http://www.rudyrucker.com/transrealbooks/completestories/), which I think most authors ought to do.\n\n[Long is the Way](https://www.tor.com/2019/05/15/long-is-the-way-carrie-vaughn-sage-walker/), Carrie Vaughn & Sage Walker. Any day a new Wild Cards story comes out is a good day.\n\n## Non-Fiction\n\n[What It's Like to Teach Writing When Everyone is a Writer](https://lithub.com/what-its-like-to-teach-writing-when-everyones-a-writer/), Janet Burroway. One of the most important textbooks in my college years was an edition of Burroway's _Writing Fiction_. I know people who work with Burroway now on the later editions of the book. \n\n[All-American Despair](https://www.rollingstone.com/culture/culture-features/suicide-rate-america-white-men-841576/), Stephen Roderick. \"For the past two decades, a suicide epidemic fueled by guns, poverty and isolation has swept across the West, with middle-aged men dying in record numbers.\" Bleak. Probably not what we want to hear these days, but maybe what at least someone needs to hear.\n\n## Ancient History\n\n[Frank Sinatra Has a Cold](https://www.esquire.com/news-politics/a638/frank-sinatra-has-a-cold-gay-talese/), Gay Talese. One of the classics of New Journalism or Creative Nonfiction or whatever the kids are calling it these days. With bonus cameo appearance by Harlan Ellison.\n",
 				"date_published": "2019-06-30T20:20:15-05:00",
 				"url": "https://msmprojects.com/2019/06/30/sunday-reading.html"
@@ -983,7 +991,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/06/23/sunday-reading.html",
 				"title": "Sunday Reading 2019-06-23",
-				"content_html": "\n\n<p>A new experiment. Bookmarking a few of the interesting things I&rsquo;ve come across during the week. Hoping to curate this with a little more diversity in the future than is evident in this first pass.</p>\n\n<h2 id=\"essay\">Essay</h2>\n\n<p><a href=\"https://longreads.com/2019/06/13/we-could-have-had-electric-cars-from-the-very-beginning/\">We Could Have Had Electric Cars From the Beginning</a>, Dan Albert. Rambles a bit, but eventually gets to the point of what caused the internal combustion engine to win out over the electric motor during the dawn of happy motoring. <em>Spoiler: It was the appeal to American individualism and unchecked masculinity constantly put forth by Capitalism.</em></p>\n\n<h2 id=\"interview\">Interview</h2>\n\n<p><a href=\"https://lithub.com/t-c-boyle-is-most-certainly-living-his-best-life/\">T.C. Boyle is Most Certainly Living His Best Life</a>, Peter Nowogrodzki. Seven conversations with the writer whose story, &ldquo;Greasy Lake,&rdquo; got me started down the writing path when I was a dumb, young kid. I still love his work as a dumb, old dude.</p>\n\n<h2 id=\"fiction\">Fiction</h2>\n\n<p><a href=\"https://www.tor.com/2019/06/19/the-new-prometheus-michael-swanwick/\">The New Prometheus</a>, Michael Swanwick. A new story in the Mongolian Wizard universe which crosses over with <em>Frankenstein</em>, which is in danger of becoming its own subgenre. <em>Victorpunk</em>, anyone?</p>\n\n<h2 id=\"technology\">Technology</h2>\n\n<p><a href=\"https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/\">Things I Learnt The Hard Way (in 30 Years of Software Development)</a>, Julio Biason. YMMV, but probably not too much.</p>\n\n<h2 id=\"poetry\">Poetry</h2>\n\n<p><a href=\"https://www.tor.com/2012/04/29/aquaman-and-the-duality-of-selfother-america-1985/\">Aquaman and the Duality of Self/Other, America, 1985</a>, Catherynne M. Valente. If you want to completely overdose on <em>Hitchhiker&rsquo;s Guide/Good Omens</em> style comedy, go read Valente’s novel, <a href=\"https://amzn.to/2tKQUgr\">Space Opera</a>. (Amazon link benefits the author, not me.)</p>\n\n<h2 id=\"comics\">Comics</h2>\n\n<p><img src=\"https://66.media.tumblr.com/5116b9b034843d901a65ceeacd988a11/tumblr_ptjqevblw61rwkrdbo1_500.jpg\" alt=\"Tom Gauld\" /></p>\n\n<p>From the always wonderful <a href=\"https://myjetpack.tumblr.com/post/185789702090/for-yesterdays-guardian-review\">Tom Gauld</a>.</p>\n\n<h2 id=\"black-label-indeed\">Black Label, Indeed.</h2>\n\n<p><a href=\"https://www.dccomics.com/blog/2019/06/21/dc-doubles-down-on-its-brand-unites-all-publishing-under-a-single-banner\">Vertigo Publishing Imprint to be Sunset at the End of the Year</a>, DC Comics. Sigh. For those of us who haunted comics shops in the early 90s, this puts a cap on one of the best runs ever. I&rsquo;ll write about this more sometime, maybe. Though I figured Vertigo for dead when they moved John Constantine into the DCU proper and stuck him in this mistake called Justice League Dark.</p>\n",
+				"content_html": "<p>A new experiment. Bookmarking a few of the interesting things I&rsquo;ve come across during the week. Hoping to curate this with a little more diversity in the future than is evident in this first pass.</p>\n<h2 id=\"essay\">Essay</h2>\n<p><a href=\"https://longreads.com/2019/06/13/we-could-have-had-electric-cars-from-the-very-beginning/\">We Could Have Had Electric Cars From the Beginning</a>, Dan Albert. Rambles a bit, but eventually gets to the point of what caused the internal combustion engine to win out over the electric motor during the dawn of happy motoring. <em>Spoiler: It was the appeal to American individualism and unchecked masculinity constantly put forth by Capitalism.</em></p>\n<h2 id=\"interview\">Interview</h2>\n<p><a href=\"https://lithub.com/t-c-boyle-is-most-certainly-living-his-best-life/\">T.C. Boyle is Most Certainly Living His Best Life</a>, Peter Nowogrodzki. Seven conversations with the writer whose story, &ldquo;Greasy Lake,&rdquo; got me started down the writing path when I was a dumb, young kid. I still love his work as a dumb, old dude.</p>\n<h2 id=\"fiction\">Fiction</h2>\n<p><a href=\"https://www.tor.com/2019/06/19/the-new-prometheus-michael-swanwick/\">The New Prometheus</a>, Michael Swanwick. A new story in the Mongolian Wizard universe which crosses over with <em>Frankenstein</em>, which is in danger of becoming its own subgenre. <em>Victorpunk</em>, anyone?</p>\n<h2 id=\"technology\">Technology</h2>\n<p><a href=\"https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/\">Things I Learnt The Hard Way (in 30 Years of Software Development)</a>, Julio Biason. YMMV, but probably not too much.</p>\n<h2 id=\"poetry\">Poetry</h2>\n<p><a href=\"https://www.tor.com/2012/04/29/aquaman-and-the-duality-of-selfother-america-1985/\">Aquaman and the Duality of Self/Other, America, 1985</a>, Catherynne M. Valente. If you want to completely overdose on <em>Hitchhiker&rsquo;s Guide/Good Omens</em> style comedy, go read Valente’s novel, <a href=\"https://amzn.to/2tKQUgr\">Space Opera</a>. (Amazon link benefits the author, not me.)</p>\n<h2 id=\"comics\">Comics</h2>\n<p><img src=\"https://66.media.tumblr.com/5116b9b034843d901a65ceeacd988a11/tumblr_ptjqevblw61rwkrdbo1_500.jpg\" alt=\"Tom Gauld\"></p>\n<p>From the always wonderful <a href=\"https://myjetpack.tumblr.com/post/185789702090/for-yesterdays-guardian-review\">Tom Gauld</a>.</p>\n<h2 id=\"black-label-indeed\">Black Label, Indeed.</h2>\n<p><a href=\"https://www.dccomics.com/blog/2019/06/21/dc-doubles-down-on-its-brand-unites-all-publishing-under-a-single-banner\">Vertigo Publishing Imprint to be Sunset at the End of the Year</a>, DC Comics. Sigh. For those of us who haunted comics shops in the early 90s, this puts a cap on one of the best runs ever. I&rsquo;ll write about this more sometime, maybe. Though I figured Vertigo for dead when they moved John Constantine into the DCU proper and stuck him in this mistake called Justice League Dark.</p>\n",
 				"content_text": "A new experiment. Bookmarking a few of the interesting things I've come across during the week. Hoping to curate this with a little more diversity in the future than is evident in this first pass.\n\n## Essay\n\n[We Could Have Had Electric Cars From the Beginning](https://longreads.com/2019/06/13/we-could-have-had-electric-cars-from-the-very-beginning/), Dan Albert. Rambles a bit, but eventually gets to the point of what caused the internal combustion engine to win out over the electric motor during the dawn of happy motoring. _Spoiler: It was the appeal to American individualism and unchecked masculinity constantly put forth by Capitalism._\n\n## Interview\n\n[T.C. Boyle is Most Certainly Living His Best Life](https://lithub.com/t-c-boyle-is-most-certainly-living-his-best-life/), Peter Nowogrodzki. Seven conversations with the writer whose story, \"Greasy Lake,\" got me started down the writing path when I was a dumb, young kid. I still love his work as a dumb, old dude.\n\n## Fiction\n\n[The New Prometheus](https://www.tor.com/2019/06/19/the-new-prometheus-michael-swanwick/), Michael Swanwick. A new story in the Mongolian Wizard universe which crosses over with _Frankenstein_, which is in danger of becoming its own subgenre. _Victorpunk_, anyone? \n\n## Technology\n\n[Things I Learnt The Hard Way (in 30 Years of Software Development)](https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/), Julio Biason. YMMV, but probably not too much.\n\n## Poetry\n\n[Aquaman and the Duality of Self/Other, America, 1985](https://www.tor.com/2012/04/29/aquaman-and-the-duality-of-selfother-america-1985/), Catherynne M. Valente. If you want to completely overdose on _Hitchhiker's Guide/Good Omens_ style comedy, go read Valente’s novel, [Space Opera](https://amzn.to/2tKQUgr). (Amazon link benefits the author, not me.)\n\n## Comics\n\n![Tom Gauld](https://66.media.tumblr.com/5116b9b034843d901a65ceeacd988a11/tumblr_ptjqevblw61rwkrdbo1_500.jpg)\n\nFrom the always wonderful [Tom Gauld](https://myjetpack.tumblr.com/post/185789702090/for-yesterdays-guardian-review).\n\n## Black Label, Indeed.\n\n[Vertigo Publishing Imprint to be Sunset at the End of the Year](https://www.dccomics.com/blog/2019/06/21/dc-doubles-down-on-its-brand-unites-all-publishing-under-a-single-banner), DC Comics. Sigh. For those of us who haunted comics shops in the early 90s, this puts a cap on one of the best runs ever. I'll write about this more sometime, maybe. Though I figured Vertigo for dead when they moved John Constantine into the DCU proper and stuck him in this mistake called Justice League Dark. \n",
 				"date_published": "2019-06-23T19:49:57-05:00",
 				"url": "https://msmprojects.com/2019/06/23/sunday-reading.html"
@@ -1031,7 +1039,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/26/and-i-thought.html",
 				
-				"content_html": "<p>And I thought the show couldn&rsquo;t get more tortuous.</p>\n\n<p>&lt;<a href=\"https://www.cracked.com/article_26335_behold-official-sesame-streetgame-thrones-crossover.html\">www.cracked.com/article_2&hellip;</a>&gt;</p>\n",
+				"content_html": "<p>And I thought the show couldn&rsquo;t get more tortuous.</p>\n<p>&lt;<a href=\"https://www.cracked.com/article_26335_behold-official-sesame-streetgame-thrones-crossover.html\">www.cracked.com/article_2&hellip;</a>&gt;</p>\n",
 				"content_text": "And I thought the show couldn't get more tortuous. \n\n<[www.cracked.com/article_2...](https://www.cracked.com/article_26335_behold-official-sesame-streetgame-thrones-crossover.html)>\n",
 				"date_published": "2019-04-26T10:44:44-05:00",
 				"url": "https://msmprojects.com/2019/04/26/and-i-thought.html"
@@ -1039,8 +1047,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/20/early-bedtime-for.html",
 				
-				"content_html": "<p>Early bedtime for these boys.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/5a1897e582.jpg\"><img src=\"uploads/2019/5a1897e582.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/f67a65ac3c.jpg\"><img src=\"uploads/2019/f67a65ac3c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Early bedtime for these boys. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/5a1897e582.jpg\"><img src=\"uploads/2019/5a1897e582.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/f67a65ac3c.jpg\"><img src=\"uploads/2019/f67a65ac3c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Early bedtime for these boys.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Early bedtime for these boys. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/5a1897e582.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/5a1897e582.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://michaelsmanley.micro.blog/uploads/2019/f67a65ac3c.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/f67a65ac3c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-20T20:58:42-05:00",
 				"url": "https://msmprojects.com/2019/04/20/early-bedtime-for.html",
 				"tags": ["photos"]
@@ -1088,8 +1096,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/09/bad-apple-news.html",
 				
-				"content_html": "<p>Bad Apple News! Bad!</p>\n\n<p><img src=\"uploads/2019/10407729a5.jpg\" width=\"238\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bad Apple News! Bad!\n\n<img src=\"uploads/2019/10407729a5.jpg\" width=\"238\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bad Apple News! Bad!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bad Apple News! Bad!\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2019/10407729a5.jpg\" width=\"238\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-09T19:24:45-05:00",
 				"url": "https://msmprojects.com/2019/04/09/bad-apple-news.html",
 				"tags": ["photos"]
@@ -1097,8 +1105,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/09/tfw-you-cant.html",
 				
-				"content_html": "<p>TFW you can’t tell if the description of a software package is a buzzword bingo joke, or if you’ve finally reached your own technical decrepitude, or both.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/fc2e92b1f4.jpg\"><img src=\"uploads/2019/fc2e92b1f4.jpg\" width=\"600\" height=\"166\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "TFW you can’t tell if the description of a software package is a buzzword bingo joke, or if you’ve finally reached your own technical decrepitude, or both. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/fc2e92b1f4.jpg\"><img src=\"uploads/2019/fc2e92b1f4.jpg\" width=\"600\" height=\"166\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>TFW you can’t tell if the description of a software package is a buzzword bingo joke, or if you’ve finally reached your own technical decrepitude, or both.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "TFW you can’t tell if the description of a software package is a buzzword bingo joke, or if you’ve finally reached your own technical decrepitude, or both. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/fc2e92b1f4.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/fc2e92b1f4.jpg\" width=\"600\" height=\"166\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-09T10:02:16-05:00",
 				"url": "https://msmprojects.com/2019/04/09/tfw-you-cant.html",
 				"tags": ["photos"]
@@ -1106,8 +1114,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/07/this-looks-like.html",
 				
-				"content_html": "<p>This looks like the most boring Jack Kirby comic book ever.</p>\n\n<p><img src=\"uploads/2019/b2b83aa98b.jpg\" width=\"454\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This looks like the most boring Jack Kirby comic book ever.\n\n<img src=\"uploads/2019/b2b83aa98b.jpg\" width=\"454\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This looks like the most boring Jack Kirby comic book ever.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This looks like the most boring Jack Kirby comic book ever.\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2019/b2b83aa98b.jpg\" width=\"454\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-07T11:07:46-05:00",
 				"url": "https://msmprojects.com/2019/04/07/this-looks-like.html",
 				"tags": ["photos"]
@@ -1115,8 +1123,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/06/experience-the-plight.html",
 				
-				"content_html": "<p>EXPERIENCE the plight of the poor humans treated like the machines that will replace them. MARVEL at the lack of economic security! WONDER at the absence of any labor gains made by over a century of unionization! BOOK YOUR POVERTY TOUR TODAY!</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/393c2b4844.jpg\"><img src=\"uploads/2019/393c2b4844.jpg\" width=\"556\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "EXPERIENCE the plight of the poor humans treated like the machines that will replace them. MARVEL at the lack of economic security! WONDER at the absence of any labor gains made by over a century of unionization! BOOK YOUR POVERTY TOUR TODAY!\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/393c2b4844.jpg\"><img src=\"uploads/2019/393c2b4844.jpg\" width=\"556\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>EXPERIENCE the plight of the poor humans treated like the machines that will replace them. MARVEL at the lack of economic security! WONDER at the absence of any labor gains made by over a century of unionization! BOOK YOUR POVERTY TOUR TODAY!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "EXPERIENCE the plight of the poor humans treated like the machines that will replace them. MARVEL at the lack of economic security! WONDER at the absence of any labor gains made by over a century of unionization! BOOK YOUR POVERTY TOUR TODAY!\n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/393c2b4844.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/393c2b4844.jpg\" width=\"556\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-06T07:23:31-05:00",
 				"url": "https://msmprojects.com/2019/04/06/experience-the-plight.html",
 				"tags": ["photos"]
@@ -1124,8 +1132,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/03/til-the-etymology.html",
 				
-				"content_html": "<p>TIL the etymology of the word &ldquo;cliché.&rdquo; H/T to Eve Batey (🐦 @eveb), the &ldquo;Inside Media&rdquo; newsletter editor. How I got this far, given my interests, and never knew this, surprises me.</p>\n\n<p><img src=\"uploads/2019/1487bbd788.jpg\" width=\"600\" height=\"366\" alt=\"\" /></p>\n",
-				"content_text": "TIL the etymology of the word \"cliché.\" H/T to Eve Batey (🐦 @eveb), the \"Inside Media\" newsletter editor. How I got this far, given my interests, and never knew this, surprises me. \n\n<img src=\"uploads/2019/1487bbd788.jpg\" width=\"600\" height=\"366\" alt=\"\" />\n",
+				"content_html": "<p>TIL the etymology of the word &ldquo;cliché.&rdquo; H/T to Eve Batey (🐦 @eveb), the &ldquo;Inside Media&rdquo; newsletter editor. How I got this far, given my interests, and never knew this, surprises me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "TIL the etymology of the word \"cliché.\" H/T to Eve Batey (🐦 @eveb), the \"Inside Media\" newsletter editor. How I got this far, given my interests, and never knew this, surprises me. \n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2019/1487bbd788.jpg\" width=\"600\" height=\"366\" alt=\"\" />\n",
 				"date_published": "2019-04-03T13:47:19-05:00",
 				"url": "https://msmprojects.com/2019/04/03/til-the-etymology.html",
 				"tags": ["photos"]
@@ -1141,8 +1149,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/04/01/no-no-i.html",
 				
-				"content_html": "<p>No, no. I don’t think I would like any of those things, but thanks for the suggestion</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/69935101b0.jpg\"><img src=\"uploads/2019/69935101b0.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "No, no. I don’t think I would like any of those things, but thanks for the suggestion \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/69935101b0.jpg\"><img src=\"uploads/2019/69935101b0.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>No, no. I don’t think I would like any of those things, but thanks for the suggestion</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "No, no. I don’t think I would like any of those things, but thanks for the suggestion \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/69935101b0.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/69935101b0.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-01T17:41:31-05:00",
 				"url": "https://msmprojects.com/2019/04/01/no-no-i.html",
 				"tags": ["photos"]
@@ -1166,8 +1174,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/03/29/someone-had-a.html",
 				
-				"content_html": "<p>Someone had a big day meeting the new walker.</p>\n\n<p><a href=\"https://michaelsmanley.micro.blog/uploads/2019/20eda45311.jpg\"><img src=\"uploads/2019/20eda45311.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Someone had a big day meeting the new walker. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/20eda45311.jpg\"><img src=\"uploads/2019/20eda45311.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>Someone had a big day meeting the new walker.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Someone had a big day meeting the new walker. \n\n<a href=\"https://michaelsmanley.micro.blog/uploads/2019/20eda45311.jpg\"><img src=\"https://michaelsmanley.micro.blog/uploads/2019/20eda45311.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-29T17:10:55-05:00",
 				"url": "https://msmprojects.com/2019/03/29/someone-had-a.html",
 				"tags": ["photos"]
@@ -1255,7 +1263,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/03/08/only-took-like.html",
 				"title": "Only took like 38 years...",
-				"content_html": "<p>Speaking of programming: Most of my life, I&rsquo;ve sort of fudged understanding the difference between a statement and expression, since no text I ever read described either clearly. Until today. From <a href=\"http://craftinginterpreters.com/the-lox-language.html#statements\">Crafting Interpreters</a>:</p>\n\n<blockquote>\n<p>Where an expression’s main job is to produce a value, a statement’s job is to produce an effect. Since, by definition, statements don’t evaluate to a value, to be useful they have to otherwise change the world in some way—usually modifying some state, reading input, or producing output.</p>\n</blockquote>\n",
+				"content_html": "<p>Speaking of programming: Most of my life, I&rsquo;ve sort of fudged understanding the difference between a statement and expression, since no text I ever read described either clearly. Until today. From <a href=\"http://craftinginterpreters.com/the-lox-language.html#statements\">Crafting Interpreters</a>:</p>\n<blockquote>\n<p>Where an expression’s main job is to produce a value, a statement’s job is to produce an effect. Since, by definition, statements don’t evaluate to a value, to be useful they have to otherwise change the world in some way—usually modifying some state, reading input, or producing output.</p>\n</blockquote>\n",
 				"content_text": "Speaking of programming: Most of my life, I've sort of fudged understanding the difference between a statement and expression, since no text I ever read described either clearly. Until today. From [Crafting Interpreters](http://craftinginterpreters.com/the-lox-language.html#statements): \n\n>Where an expression’s main job is to produce a value, a statement’s job is to produce an effect. Since, by definition, statements don’t evaluate to a value, to be useful they have to otherwise change the world in some way—usually modifying some state, reading input, or producing output.\n",
 				"date_published": "2019-03-08T20:24:43-05:00",
 				"url": "https://msmprojects.com/2019/03/08/only-took-like.html"
@@ -1279,8 +1287,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/02/22/bad-enough-that.html",
 				
-				"content_html": "<p>Bad enough that the AARP mailings started the day I turned 50, but this morning the clerk looked me right in the eye and punched that damn button.</p>\n\n<p><img src=\"uploads/2019/b73b682d44.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bad enough that the AARP mailings started the day I turned 50, but this morning the clerk looked me right in the eye and punched that damn button.\n\n<img src=\"uploads/2019/b73b682d44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bad enough that the AARP mailings started the day I turned 50, but this morning the clerk looked me right in the eye and punched that damn button.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bad enough that the AARP mailings started the day I turned 50, but this morning the clerk looked me right in the eye and punched that damn button.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2019/b73b682d44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-02-22T10:24:46-05:00",
 				"url": "https://msmprojects.com/2019/02/22/bad-enough-that.html",
 				"tags": ["photos"]
@@ -1304,7 +1312,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/12/29/i-dont-hold.html",
 				
-				"content_html": "<p>I don&rsquo;t hold out much hope for “Big Data&rdquo; or any form of machine intelligence when most human intelligence apparently can&rsquo;t even do a damned mail merge correctly.</p>\n",
+				"content_html": "<p>I don&rsquo;t hold out much hope for “Big Data&quot; or any form of machine intelligence when most human intelligence apparently can&rsquo;t even do a damned mail merge correctly.</p>\n",
 				"content_text": "I don't hold out much hope for “Big Data\" or any form of machine intelligence when most human intelligence apparently can't even do a damned mail merge correctly.\n",
 				"date_published": "2018-12-29T15:42:05-05:00",
 				"url": "https://msmprojects.com/2018/12/29/i-dont-hold.html"
@@ -1312,7 +1320,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/12/25/142400.html",
 				
-				"content_html": "<p>Today’s nightmare: <a href=\"I Used to Write for _Sports Illustrated_. Now I Deliver Packages for Amazon.\">https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/</a></p>\n",
+				"content_html": "<p>Today’s nightmare: [https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/](I Used to Write for <em>Sports Illustrated</em>. Now I Deliver Packages for Amazon.)</p>\n",
 				"content_text": "Today’s nightmare: [https://www.theatlantic.com/ideas/archive/2018/12/what-its-like-to-deliver-packages-for-amazon/578986/](I Used to Write for _Sports Illustrated_. Now I Deliver Packages for Amazon.)\n",
 				"date_published": "2018-12-25T09:24:00-05:00",
 				"url": "https://msmprojects.com/2018/12/25/142400.html"
@@ -1344,8 +1352,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/12/02/for-national-mutt.html",
 				
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d08d484078.jpg\"><img src=\"uploads/2018/d08d484078.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>For National Mutt Day, I present our two goofballs, seen here about to leap into action, or at least to inhale a couple of treats.</p>\n",
-				"content_text": "<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d08d484078.jpg\"><img src=\"uploads/2018/d08d484078.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFor National Mutt Day, I present our two goofballs, seen here about to leap into action, or at least to inhale a couple of treats. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>For National Mutt Day, I present our two goofballs, seen here about to leap into action, or at least to inhale a couple of treats.</p>\n",
+				"content_text": "<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d08d484078.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/d08d484078.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nFor National Mutt Day, I present our two goofballs, seen here about to leap into action, or at least to inhale a couple of treats. \n\n",
 				"date_published": "2018-12-02T16:04:13-05:00",
 				"url": "https://msmprojects.com/2018/12/02/for-national-mutt.html",
 				"tags": ["photos"]
@@ -1361,8 +1369,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/24/more-kentucky-art.html",
 				
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/5af002b41b.jpg\"><img src=\"uploads/2018/5af002b41b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d9e529ffaf.jpg\"><img src=\"uploads/2018/d9e529ffaf.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/a3cb42688c.jpg\"><img src=\"uploads/2018/a3cb42688c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b14f1e1823.jpg\"><img src=\"uploads/2018/b14f1e1823.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/70c3ac5df0.jpg\"><img src=\"uploads/2018/70c3ac5df0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>More Kentucky: Art with Ronnie edition.</p>\n",
-				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/5af002b41b.jpg\"><img src=\"uploads/2018/5af002b41b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d9e529ffaf.jpg\"><img src=\"uploads/2018/d9e529ffaf.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/a3cb42688c.jpg\"><img src=\"uploads/2018/a3cb42688c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b14f1e1823.jpg\"><img src=\"uploads/2018/b14f1e1823.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/70c3ac5df0.jpg\"><img src=\"uploads/2018/70c3ac5df0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky: Art with Ronnie edition. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>More Kentucky: Art with Ronnie edition.</p>\n",
+				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/5af002b41b.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/5af002b41b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d9e529ffaf.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/d9e529ffaf.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/a3cb42688c.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/a3cb42688c.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b14f1e1823.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/b14f1e1823.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/70c3ac5df0.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/70c3ac5df0.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky: Art with Ronnie edition. \n\n",
 				"date_published": "2018-11-23T21:55:01-05:00",
 				"url": "https://msmprojects.com/2018/11/23/more-kentucky-art.html",
 				"tags": ["photos"]
@@ -1370,8 +1378,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/22/more-kentucky-magnolia.html",
 				
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d86d5d1afd.jpg\"><img src=\"uploads/2018/d86d5d1afd.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e67277c04.jpg\"><img src=\"uploads/2018/0e67277c04.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/9322b66708.jpg\"><img src=\"uploads/2018/9322b66708.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cb8bccdebb.jpg\"><img src=\"uploads/2018/cb8bccdebb.jpg\" width=\"337\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c6670f5d7b.jpg\"><img src=\"uploads/2018/c6670f5d7b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>More Kentucky: 610 Magnolia, 21c, Churchill Downs.</p>\n",
-				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d86d5d1afd.jpg\"><img src=\"uploads/2018/d86d5d1afd.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e67277c04.jpg\"><img src=\"uploads/2018/0e67277c04.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/9322b66708.jpg\"><img src=\"uploads/2018/9322b66708.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cb8bccdebb.jpg\"><img src=\"uploads/2018/cb8bccdebb.jpg\" width=\"337\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c6670f5d7b.jpg\"><img src=\"uploads/2018/c6670f5d7b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky: 610 Magnolia, 21c, Churchill Downs. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>More Kentucky: 610 Magnolia, 21c, Churchill Downs.</p>\n",
+				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d86d5d1afd.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/d86d5d1afd.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e67277c04.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/0e67277c04.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/9322b66708.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/9322b66708.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cb8bccdebb.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/cb8bccdebb.jpg\" width=\"337\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c6670f5d7b.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/c6670f5d7b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky: 610 Magnolia, 21c, Churchill Downs. \n\n",
 				"date_published": "2018-11-22T13:46:01-05:00",
 				"url": "https://msmprojects.com/2018/11/22/more-kentucky-magnolia.html",
 				"tags": ["photos"]
@@ -1379,8 +1387,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/21/more-kentucky.html",
 				
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/871a7e8657.jpg\"><img src=\"uploads/2018/871a7e8657.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/ab45e7a380.jpg\"><img src=\"uploads/2018/ab45e7a380.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cac2dd9b09.jpg\"><img src=\"uploads/2018/cac2dd9b09.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1da6a0b142.jpg\"><img src=\"uploads/2018/1da6a0b142.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>More Kentucky.</p>\n",
-				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/871a7e8657.jpg\"><img src=\"uploads/2018/871a7e8657.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/ab45e7a380.jpg\"><img src=\"uploads/2018/ab45e7a380.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cac2dd9b09.jpg\"><img src=\"uploads/2018/cac2dd9b09.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1da6a0b142.jpg\"><img src=\"uploads/2018/1da6a0b142.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>More Kentucky.</p>\n",
+				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/871a7e8657.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/871a7e8657.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/ab45e7a380.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/ab45e7a380.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cac2dd9b09.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/cac2dd9b09.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1da6a0b142.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/1da6a0b142.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nMore Kentucky. \n\n",
 				"date_published": "2018-11-21T17:13:44-05:00",
 				"url": "https://msmprojects.com/2018/11/21/more-kentucky.html",
 				"tags": ["photos"]
@@ -1388,8 +1396,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/21/kentucky-thus-far.html",
 				
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/d5a54ef38a.jpg\"><img src=\"uploads/2018/d5a54ef38a.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/19047b2c37.jpg\"><img src=\"uploads/2018/19047b2c37.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/69812d0241.jpg\"><img src=\"uploads/2018/69812d0241.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cc3f14b780.jpg\"><img src=\"uploads/2018/cc3f14b780.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/07fc8c95d7.jpg\"><img src=\"uploads/2018/07fc8c95d7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1a272ea898.jpg\"><img src=\"uploads/2018/1a272ea898.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b27aeebbe2.jpg\"><img src=\"uploads/2018/b27aeebbe2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/43be4bc25f.jpg\"><img src=\"uploads/2018/43be4bc25f.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>Kentucky thus far.</p>\n",
-				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d5a54ef38a.jpg\"><img src=\"uploads/2018/d5a54ef38a.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/19047b2c37.jpg\"><img src=\"uploads/2018/19047b2c37.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/69812d0241.jpg\"><img src=\"uploads/2018/69812d0241.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cc3f14b780.jpg\"><img src=\"uploads/2018/cc3f14b780.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/07fc8c95d7.jpg\"><img src=\"uploads/2018/07fc8c95d7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1a272ea898.jpg\"><img src=\"uploads/2018/1a272ea898.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b27aeebbe2.jpg\"><img src=\"uploads/2018/b27aeebbe2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/43be4bc25f.jpg\"><img src=\"uploads/2018/43be4bc25f.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nKentucky thus far. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Kentucky thus far.</p>\n",
+				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/d5a54ef38a.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/d5a54ef38a.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/19047b2c37.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/19047b2c37.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/69812d0241.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/69812d0241.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/cc3f14b780.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/cc3f14b780.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/07fc8c95d7.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/07fc8c95d7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/1a272ea898.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/1a272ea898.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/b27aeebbe2.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/b27aeebbe2.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/43be4bc25f.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/43be4bc25f.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nKentucky thus far. \n\n",
 				"date_published": "2018-11-21T11:49:38-05:00",
 				"url": "https://msmprojects.com/2018/11/21/kentucky-thus-far.html",
 				"tags": ["photos"]
@@ -1405,7 +1413,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/14/i-guess-sometimes.html",
 				
-				"content_html": "<p>I guess sometimes we all benefit when billionaires get into a pissing match.</p>\n\n<p><a href=\"https://twitter.com/jeffbarr/status/1062703353417756672?s=21\">twitter.com/jeffbarr/&hellip;</a></p>\n",
+				"content_html": "<p>I guess sometimes we all benefit when billionaires get into a pissing match.</p>\n<p><a href=\"https://twitter.com/jeffbarr/status/1062703353417756672?s=21\">twitter.com/jeffbarr/&hellip;</a></p>\n",
 				"content_text": "I guess sometimes we all benefit when billionaires get into a pissing match. \n\n[twitter.com/jeffbarr/...](https://twitter.com/jeffbarr/status/1062703353417756672?s=21)\n",
 				"date_published": "2018-11-14T09:13:50-05:00",
 				"url": "https://msmprojects.com/2018/11/14/i-guess-sometimes.html"
@@ -1413,8 +1421,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/12/excelsior.html",
 				
-				"content_html": "<p>Excelsior.</p>\n\n<p><img src=\"uploads/2018/c6db5bdf95.jpg\" width=\"276\" height=\"565\" /></p>\n",
-				"content_text": "Excelsior.\r\n\r\n\n\n<img src=\"uploads/2018/c6db5bdf95.jpg\" width=\"276\" height=\"565\" />\n",
+				"content_html": "<p>Excelsior.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Excelsior.\r\n\r\n\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/c6db5bdf95.jpg\" width=\"276\" height=\"565\" />\n",
 				"date_published": "2018-11-12T15:52:05-05:00",
 				"url": "https://msmprojects.com/2018/11/12/excelsior.html",
 				"tags": ["photos"]
@@ -1422,7 +1430,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/10/i-glean-from.html",
 				
-				"content_html": "<p>I glean from this story further evidence that the institutions our culture has built “work&rdquo; only out of sheer bulk and inertia and fail catastrophically far too often. The 3rd largest cause of death in the US is medical error? Horrific. <a href=\"https://www.bostonglobe.com/magazine/2018/11/03/losing-laura/WJrAFwMTYs1zwPfH5nTvGM/story.html\">Losing Laura</a> from The Boston Globe. 📚</p>\n",
+				"content_html": "<p>I glean from this story further evidence that the institutions our culture has built “work&quot; only out of sheer bulk and inertia and fail catastrophically far too often. The 3rd largest cause of death in the US is medical error? Horrific. <a href=\"https://www.bostonglobe.com/magazine/2018/11/03/losing-laura/WJrAFwMTYs1zwPfH5nTvGM/story.html\">Losing Laura</a> from The Boston Globe. 📚</p>\n",
 				"content_text": "I glean from this story further evidence that the institutions our culture has built “work\" only out of sheer bulk and inertia and fail catastrophically far too often. The 3rd largest cause of death in the US is medical error? Horrific. [Losing Laura](https://www.bostonglobe.com/magazine/2018/11/03/losing-laura/WJrAFwMTYs1zwPfH5nTvGM/story.html) from The Boston Globe. 📚\n",
 				"date_published": "2018-11-09T20:25:14-05:00",
 				"url": "https://msmprojects.com/2018/11/09/i-glean-from.html"
@@ -1438,8 +1446,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/08/also-meetings-are.html",
 				
-				"content_html": "<p>Also, meetings are now facilitated by Mr. Grandy, who also teaches gym class and Driver&rsquo;s Ed and who has worn the same dark blue windbreaker twenty-two semesters in a row. Mr. Grandy doesn&rsquo;t want to catch any of you punks spitballing in here, either.</p>\n\n<p><img src=\"uploads/2018/4eb8adc1ca.jpg\" width=\"600\" height=\"64\" /></p>\n",
-				"content_text": "Also, meetings are now facilitated by Mr. Grandy, who also teaches gym class and Driver's Ed and who has worn the same dark blue windbreaker twenty-two semesters in a row. Mr. Grandy doesn't want to catch any of you punks spitballing in here, either.\n\n<img src=\"uploads/2018/4eb8adc1ca.jpg\" width=\"600\" height=\"64\" />\n",
+				"content_html": "<p>Also, meetings are now facilitated by Mr. Grandy, who also teaches gym class and Driver&rsquo;s Ed and who has worn the same dark blue windbreaker twenty-two semesters in a row. Mr. Grandy doesn&rsquo;t want to catch any of you punks spitballing in here, either.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Also, meetings are now facilitated by Mr. Grandy, who also teaches gym class and Driver's Ed and who has worn the same dark blue windbreaker twenty-two semesters in a row. Mr. Grandy doesn't want to catch any of you punks spitballing in here, either.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/4eb8adc1ca.jpg\" width=\"600\" height=\"64\" />\n",
 				"date_published": "2018-11-08T13:49:49-05:00",
 				"url": "https://msmprojects.com/2018/11/08/also-meetings-are.html",
 				"tags": ["photos"]
@@ -1479,8 +1487,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/31/happy-halloween.html",
 				
-				"content_html": "<p>Happy Halloween.</p>\n\n<p><img src=\"uploads/2018/4c3c2a3646.jpg\" width=\"266\" height=\"266\" /></p>\n",
-				"content_text": "Happy Halloween.\r\n\r\n\n\n<img src=\"uploads/2018/4c3c2a3646.jpg\" width=\"266\" height=\"266\" />\n",
+				"content_html": "<p>Happy Halloween.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Halloween.\r\n\r\n\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/4c3c2a3646.jpg\" width=\"266\" height=\"266\" />\n",
 				"date_published": "2018-10-31T16:24:17-05:00",
 				"url": "https://msmprojects.com/2018/10/31/happy-halloween.html",
 				"tags": ["photos"]
@@ -1552,7 +1560,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/22/what-im-thinking.html",
 				"title": "What I'm thinking about today: constraints and accountability",
-				"content_html": "<p>On a recent episode of <a href=\"https://www.patreon.com/comiclab\">ComicLab</a>, Jake Parker of <a href=\"https://inktober.com/\">Inktober.com</a> suggested that constraints and accountability make for better art. The former I have long agreed with, which is why I prefer writing flash (non)fiction to traditional stories now. The latter I had not considered as much, but thinking about it, I do realize I write better work with a deadline in place or a group expecting to see the work, or preferably both.</p>\n\n<p>I suspect this is also true for writing software. In the past, constraints would have provided some of the drive behind the <a href=\"http://ada.untergrund.net\">Amiga demoscene</a>, <a href=\"http://www.arrl.org/qrp-low-power-operating\">QRP</a> radio operation, <a href=\"http://www.anti-theory.com/soundart/circuitbend/cb01.html\">circuit bending</a> hacks. Today, we play <a href=\"http://perlgolf.sourceforge.net\">Perl Golf</a>, or run <a href=\"https://js1k.com\">JS1k</a> competitions.</p>\n\n<p>Without constraints and accountability, I think we risk indulgent art. I am certain we risk indulgent programming. You hold in your pocket more computing power than the whole planet used in WWII, and yet the applications on that device and the services they talk to are more a collection of bloated practices than elegance or correctness. In art, or at least in the art I&rsquo;m most familiar with, we see doorstop-sized tomes of fantasy retreads, or endless series of comfortable episodic mind candy.</p>\n\n<p>Constraints and accountablility could be read as code words for the threats of scarcity and violence.  I do like my episodic mind candy, and I do use my phone and tablet and laptop as much as any other 21st century screen junkie. I wouldn&rsquo;t want to enforce constraint for moral reasons. I would not want accountability in these fields to come with the threat of deprivation of any sort.</p>\n\n<p>But I do wonder what better practice can arise from the intentional, explicit identification and application of constraints, and the identification and consideration of accountability in both writing and programming.</p>\n",
+				"content_html": "<p>On a recent episode of <a href=\"https://www.patreon.com/comiclab\">ComicLab</a>, Jake Parker of <a href=\"https://inktober.com/\">Inktober.com</a> suggested that constraints and accountability make for better art. The former I have long agreed with, which is why I prefer writing flash (non)fiction to traditional stories now. The latter I had not considered as much, but thinking about it, I do realize I write better work with a deadline in place or a group expecting to see the work, or preferably both.</p>\n<p>I suspect this is also true for writing software. In the past, constraints would have provided some of the drive behind the <a href=\"http://ada.untergrund.net\">Amiga demoscene</a>, <a href=\"http://www.arrl.org/qrp-low-power-operating\">QRP</a> radio operation, <a href=\"http://www.anti-theory.com/soundart/circuitbend/cb01.html\">circuit bending</a> hacks. Today, we play <a href=\"http://perlgolf.sourceforge.net\">Perl Golf</a>, or run <a href=\"https://js1k.com\">JS1k</a> competitions.</p>\n<p>Without constraints and accountability, I think we risk indulgent art. I am certain we risk indulgent programming. You hold in your pocket more computing power than the whole planet used in WWII, and yet the applications on that device and the services they talk to are more a collection of bloated practices than elegance or correctness. In art, or at least in the art I&rsquo;m most familiar with, we see doorstop-sized tomes of fantasy retreads, or endless series of comfortable episodic mind candy.</p>\n<p>Constraints and accountablility could be read as code words for the threats of scarcity and violence.  I do like my episodic mind candy, and I do use my phone and tablet and laptop as much as any other 21st century screen junkie. I wouldn&rsquo;t want to enforce constraint for moral reasons. I would not want accountability in these fields to come with the threat of deprivation of any sort.</p>\n<p>But I do wonder what better practice can arise from the intentional, explicit identification and application of constraints, and the identification and consideration of accountability in both writing and programming.</p>\n",
 				"content_text": "On a recent episode of [ComicLab](https://www.patreon.com/comiclab), Jake Parker of [Inktober.com](https://inktober.com/) suggested that constraints and accountability make for better art. The former I have long agreed with, which is why I prefer writing flash (non)fiction to traditional stories now. The latter I had not considered as much, but thinking about it, I do realize I write better work with a deadline in place or a group expecting to see the work, or preferably both.\n\nI suspect this is also true for writing software. In the past, constraints would have provided some of the drive behind the [Amiga demoscene](http://ada.untergrund.net), [QRP](http://www.arrl.org/qrp-low-power-operating) radio operation, [circuit bending](http://www.anti-theory.com/soundart/circuitbend/cb01.html) hacks. Today, we play [Perl Golf](http://perlgolf.sourceforge.net), or run [JS1k](https://js1k.com) competitions.\n\nWithout constraints and accountability, I think we risk indulgent art. I am certain we risk indulgent programming. You hold in your pocket more computing power than the whole planet used in WWII, and yet the applications on that device and the services they talk to are more a collection of bloated practices than elegance or correctness. In art, or at least in the art I'm most familiar with, we see doorstop-sized tomes of fantasy retreads, or endless series of comfortable episodic mind candy.\n\nConstraints and accountablility could be read as code words for the threats of scarcity and violence.  I do like my episodic mind candy, and I do use my phone and tablet and laptop as much as any other 21st century screen junkie. I wouldn't want to enforce constraint for moral reasons. I would not want accountability in these fields to come with the threat of deprivation of any sort. \n\nBut I do wonder what better practice can arise from the intentional, explicit identification and application of constraints, and the identification and consideration of accountability in both writing and programming.\n",
 				"date_published": "2018-10-22T16:27:58-05:00",
 				"url": "https://msmprojects.com/2018/10/22/what-im-thinking.html"
@@ -1584,8 +1592,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/10/in-case-anyone.html",
 				
-				"content_html": "<p>In case anyone wants to know why people are picketing the Lyric Opera building, it appears that the organization would prefer to be an opera company in name only. Maybe if they used the blockchain or innovated to disrupt operatics, our culture would value them.</p>\n\n<p><img src=\"uploads/2018/fc28132199.jpg\" width=\"450\" height=\"600\" /></p>\n",
-				"content_text": "In case anyone wants to know why people are picketing the Lyric Opera building, it appears that the organization would prefer to be an opera company in name only. Maybe if they used the blockchain or innovated to disrupt operatics, our culture would value them.\n\n\n<img src=\"uploads/2018/fc28132199.jpg\" width=\"450\" height=\"600\" />\n",
+				"content_html": "<p>In case anyone wants to know why people are picketing the Lyric Opera building, it appears that the organization would prefer to be an opera company in name only. Maybe if they used the blockchain or innovated to disrupt operatics, our culture would value them.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In case anyone wants to know why people are picketing the Lyric Opera building, it appears that the organization would prefer to be an opera company in name only. Maybe if they used the blockchain or innovated to disrupt operatics, our culture would value them.\n\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/fc28132199.jpg\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2018-10-10T15:19:36-05:00",
 				"url": "https://msmprojects.com/2018/10/10/in-case-anyone.html",
 				"tags": ["photos"]
@@ -1593,7 +1601,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/09/sometimes-you-get.html",
 				
-				"content_html": "<p>Sometimes you get burned by a <a href=\"https://www.delish.com/cooking/recipe-ideas/recipes/a55760/healthy-chicken-casserole-recipe/\">recipe</a> that should work even when you fix its wonky ratios (&frac12; tsp paprika? &frac14; c broth? 6 freaking cups of rice?). Guess what my lunch is this week.</p>\n",
+				"content_html": "<p>Sometimes you get burned by a <a href=\"https://www.delish.com/cooking/recipe-ideas/recipes/a55760/healthy-chicken-casserole-recipe/\">recipe</a> that should work even when you fix its wonky ratios (1/2 tsp paprika? 1/4 c broth? 6 freaking cups of rice?). Guess what my lunch is this week.</p>\n",
 				"content_text": "Sometimes you get burned by a [recipe](https://www.delish.com/cooking/recipe-ideas/recipes/a55760/healthy-chicken-casserole-recipe/) that should work even when you fix its wonky ratios (1/2 tsp paprika? 1/4 c broth? 6 freaking cups of rice?). Guess what my lunch is this week.\n",
 				"date_published": "2018-10-08T21:07:36-05:00",
 				"url": "https://msmprojects.com/2018/10/08/sometimes-you-get.html"
@@ -1601,8 +1609,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/07/and-this-is.html",
 				
-				"content_html": "<p>And this is when you know it might be time to unsubscribe to a newsletter.</p>\n\n<p><img src=\"uploads/2018/09ab6486af.jpg\" width=\"600\" height=\"231\" /></p>\n",
-				"content_text": "And this is when you know it might be time to unsubscribe to a newsletter.\n\n<img src=\"uploads/2018/09ab6486af.jpg\" width=\"600\" height=\"231\" />\n",
+				"content_html": "<p>And this is when you know it might be time to unsubscribe to a newsletter.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "And this is when you know it might be time to unsubscribe to a newsletter.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/09ab6486af.jpg\" width=\"600\" height=\"231\" />\n",
 				"date_published": "2018-10-07T14:20:28-05:00",
 				"url": "https://msmprojects.com/2018/10/07/and-this-is.html",
 				"tags": ["photos"]
@@ -1618,8 +1626,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/10/02/neighbors-doing-the.html",
 				
-				"content_html": "<p>Neighbors doing the season old school.</p>\n\n<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/3b52e0676c.jpg\"><img src=\"uploads/2018/3b52e0676c.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bf50fba3a5.jpg\"><img src=\"uploads/2018/bf50fba3a5.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e95eac4ee.jpg\"><img src=\"uploads/2018/0e95eac4ee.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/271b19ace7.jpg\"><img src=\"uploads/2018/271b19ace7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Neighbors doing the season old school. \n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/3b52e0676c.jpg\"><img src=\"uploads/2018/3b52e0676c.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bf50fba3a5.jpg\"><img src=\"uploads/2018/bf50fba3a5.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e95eac4ee.jpg\"><img src=\"uploads/2018/0e95eac4ee.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/271b19ace7.jpg\"><img src=\"uploads/2018/271b19ace7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"content_html": "<p>Neighbors doing the season old school.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Neighbors doing the season old school. \n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/3b52e0676c.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/3b52e0676c.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bf50fba3a5.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/bf50fba3a5.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/0e95eac4ee.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/0e95eac4ee.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/271b19ace7.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/271b19ace7.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2018-10-02T10:31:35-05:00",
 				"url": "https://msmprojects.com/2018/10/02/neighbors-doing-the.html",
 				"tags": ["photos"]
@@ -1651,7 +1659,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/09/27/there-would-come.html",
 				
-				"content_html": "<p>There would come a day at the end of every spring, just before the weather grew hot and the days long, when fathers who had sons whose voices had finally cracked over the winter would call the young men into their offices. First thing in the morning, before the children disappeared into the chauffeured cars for the drive to school, the mothers or the maids or an older brother, if there were one, would let the boy know.</p>\n\n<p>The boy would stand, nervous, never before having been allowed into his father&rsquo;s office except for punishment, never having seen his father sit behind the vast, polished desk looking so serious, with such bloodshot eyes. His father&rsquo;s hand would rest atop a flecked, gray box, like the ones his mother received from the stationer&rsquo;s every holiday season. The old man would nod for the boy to sit, and then he would silently push the box forward.</p>\n\n<p>“Open it,&rdquo; the old man would say.</p>\n\n<p>The boy would lift the lid off the box and stare, puzzled, at the contents.</p>\n\n<p>“Calendars?” he would say. Bound with green spirals of wire, they would sag awkwardly in a stack that would last for years. “What are these for?&rdquo;</p>\n\n<p>“Someday, son,&rdquo; his father would sigh, staring past the boy into the hallway beyond the close, stuffy office. He would pull a sleek, silver pen from a pocket and hold it out. “Someday, you are going to need an alibi.”</p>\n",
+				"content_html": "<p>There would come a day at the end of every spring, just before the weather grew hot and the days long, when fathers who had sons whose voices had finally cracked over the winter would call the young men into their offices. First thing in the morning, before the children disappeared into the chauffeured cars for the drive to school, the mothers or the maids or an older brother, if there were one, would let the boy know.</p>\n<p>The boy would stand, nervous, never before having been allowed into his father&rsquo;s office except for punishment, never having seen his father sit behind the vast, polished desk looking so serious, with such bloodshot eyes. His father&rsquo;s hand would rest atop a flecked, gray box, like the ones his mother received from the stationer&rsquo;s every holiday season. The old man would nod for the boy to sit, and then he would silently push the box forward.</p>\n<p>“Open it,&quot; the old man would say.</p>\n<p>The boy would lift the lid off the box and stare, puzzled, at the contents.</p>\n<p>“Calendars?” he would say. Bound with green spirals of wire, they would sag awkwardly in a stack that would last for years. “What are these for?&quot;</p>\n<p>“Someday, son,&quot; his father would sigh, staring past the boy into the hallway beyond the close, stuffy office. He would pull a sleek, silver pen from a pocket and hold it out. “Someday, you are going to need an alibi.”</p>\n",
 				"content_text": "There would come a day at the end of every spring, just before the weather grew hot and the days long, when fathers who had sons whose voices had finally cracked over the winter would call the young men into their offices. First thing in the morning, before the children disappeared into the chauffeured cars for the drive to school, the mothers or the maids or an older brother, if there were one, would let the boy know.\n\nThe boy would stand, nervous, never before having been allowed into his father's office except for punishment, never having seen his father sit behind the vast, polished desk looking so serious, with such bloodshot eyes. His father's hand would rest atop a flecked, gray box, like the ones his mother received from the stationer's every holiday season. The old man would nod for the boy to sit, and then he would silently push the box forward. \n\n“Open it,\" the old man would say. \n\nThe boy would lift the lid off the box and stare, puzzled, at the contents.\n\n“Calendars?” he would say. Bound with green spirals of wire, they would sag awkwardly in a stack that would last for years. “What are these for?\"\n\n“Someday, son,\" his father would sigh, staring past the boy into the hallway beyond the close, stuffy office. He would pull a sleek, silver pen from a pocket and hold it out. “Someday, you are going to need an alibi.”\n",
 				"date_published": "2018-09-27T16:50:15-05:00",
 				"url": "https://msmprojects.com/2018/09/27/there-would-come.html"
@@ -1675,7 +1683,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/09/21/papa-johns-may.html",
 				
-				"content_html": "<p>“Papa John&rsquo;s may soon go by the name Papa Johns, a minor grammatical tweak that says a lot about the state of the brand.” Yeah, that the brand is in the toilet. <a href=\"PAPA JOHN'S IS COOKING UP A NEW APOSTROPHE-LESS LOGO\">https://adage.com/article/cmo-strategy/papa-john-s-cooking-a-apostrophe-logo/314976/</a></p>\n",
+				"content_html": "<p>“Papa John&rsquo;s may soon go by the name Papa Johns, a minor grammatical tweak that says a lot about the state of the brand.” Yeah, that the brand is in the toilet. [https://adage.com/article/cmo-strategy/papa-john-s-cooking-a-apostrophe-logo/314976/](PAPA JOHN&rsquo;S IS COOKING UP A NEW APOSTROPHE-LESS LOGO)</p>\n",
 				"content_text": "“Papa John's may soon go by the name Papa Johns, a minor grammatical tweak that says a lot about the state of the brand.” Yeah, that the brand is in the toilet. [https://adage.com/article/cmo-strategy/papa-john-s-cooking-a-apostrophe-logo/314976/](PAPA JOHN'S IS COOKING UP A NEW APOSTROPHE-LESS LOGO)\n",
 				"date_published": "2018-09-20T20:52:47-05:00",
 				"url": "https://msmprojects.com/2018/09/20/papa-johns-may.html"
@@ -1707,7 +1715,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/09/02/thanks-to-the.html",
 				
-				"content_html": "<p>Thanks to the editor of @101fiction for including my little domesticated werewolf ditty, “Suburban&rdquo; in the latest issue.</p>\n\n<p><a href=\"http://www.101fiction.com/2018/09/suburban.html\">Suburban</a></p>\n",
+				"content_html": "<p>Thanks to the editor of @101fiction for including my little domesticated werewolf ditty, “Suburban&quot; in the latest issue.</p>\n<p><a href=\"http://www.101fiction.com/2018/09/suburban.html\">Suburban</a></p>\n",
 				"content_text": "Thanks to the editor of @101fiction for including my little domesticated werewolf ditty, “Suburban\" in the latest issue.\n\n[Suburban](http://www.101fiction.com/2018/09/suburban.html)\n",
 				"date_published": "2018-09-02T09:52:46-05:00",
 				"url": "https://msmprojects.com/2018/09/02/thanks-to-the.html"
@@ -1723,7 +1731,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/31/on-mbti-and.html",
 				"title": "📚On MBTI and Other Distractions",
-				"content_html": "<p>Reading this got me to thinking about some things:</p>\n\n<p><a href=\"https://theoutline.com/post/6071/the-personality-brokers-review-myers-briggs-type-indicator\">THE MOST POPULAR PERSONALITY TEST IN THE WORLD IS A JOKE</a></p>\n\n<p>I find myself not surprised at all about the MBTI&rsquo;s dubious utility. Back in the dotcom boom, after I pointed out to upper management (with impolite candor that I&rsquo;d be mortified by today) that a couple of consultants we&rsquo;d hired were not much better than con artists, I was forced to attend “executive training” sessions with a corporate psychologist who, if I&rsquo;d written them into a story, would have been editorially questioned as a poor caricature of afternoon TV host ambition. During those grinding weeks, I took the MBTI and a couple other scantronnesque tests, and while on the surface their results appealed to my sense of self and identity, I soon got the same feeling I&rsquo;d had as a kid when I&rsquo;d figured out the scam behind the funny page’s daily horoscope column.</p>\n\n<p>Another employer wasted months on DISC assessments for everyone in management roles, and then wasted more time getting everyone to understand RA(S)CI grids, both of which dropped from use within weeks. All of that felt to me like RPG character generation for people who’d feel embarrassed to call themselves a chaotic-neutral half-Elf ranger but still wanted to fit into a set of little scored boxes.</p>\n\n<p>I eventually realized similar lessons about Agile, Lean, Kanban and pretty much every other methodology and tool used to manage any kind of contemporary thought-driven work. They’re leaky abstractions. They devolve into dogma and ceremony because humans are lazy.</p>\n\n<p>What works for me:</p>\n\n<p>Pick something to keep track of the state of the team’s current and planned efforts: a shared spreadsheet, <a href=\"https://agilepad.com/\">AgilePad</a>, <a href=\"https://basecamp.com/\">Basecamp</a>, <a href=\"https://trello.com/\">Trello</a>, an <a href=\"https://sifterapp.com\">issue/bug tracker</a>, <a href=\"https://manuscript.com/\">whatever</a>. Make it easy for team members to contribute to and navigate within this information. Don&rsquo;t get hung up on points or sizing or metrics: they&rsquo;ll drive the team to wasteful games.</p>\n\n<p>Don&rsquo;t try to use a <a href=\"https://www.zendesk.com/\">customer support tool</a> for this. Those are geared towards question/answer exchanges and getting people satisfied and on their way as fast as possible, not for collaboration.</p>\n\n<p>Keep track of the state of the product, whether that&rsquo;s a software application or a playbook for daily business: A <a href=\"https://wiki.js.org\">wiki</a>, a shared document folder, a Git repository of <a href=\"https://commonmark.org\">Markdown</a> files, whatever. This documentation provides team memory and helps bring new team members up to speed. Try to strike a balance here between some pure, crystalline structure and a junk drawer. Make it easy for people to contribute and bake in time for documentation in your planning.</p>\n\n<p>In my experience, Slack, or any of the Slack-alikes, will fail as a tool for both tracking and documenting a team&rsquo;s work. Email fails as well. There&rsquo;s a world of difference between notification channels and information storage.</p>\n\n<p>Keep track of your personal To Do list: your calendar, email, favorite GTD app, notebook, whatever. Don&rsquo;t overthink this, but do make it a habit to write stuff down and check your list often.</p>\n\n<p>Everything else should be conversations. The cards in Trello are reminders to have conversations. The pages in the wiki are records of conversations. The channels in Slack (which will proliferate like kudzu if you&rsquo;re not careful) or threads in email are thin, poor substitutes for conversations.</p>\n\n<p>Find your team&rsquo;s natural cadence and balance somewhere between constant interruption and half-day blocks of meetings, whether that&rsquo;s daily stands or weekly check-ins or quaterly lunches. There&rsquo;s little more powerful than a handful of human brains networked face-to-face around a table, but too many people at once diminishes returns quickly. For planned conversations, provide an agenda ahead of time, even if it is a single question to answer. Distribute notes immediately after, or store them in one of your team&rsquo;s tools.</p>\n\n<p>If you manage someone, at least schedule a weekly one-on-one conversation, even if it is only fifteen minutes long and you both beg off three times out of four.</p>\n\n<p>Just don&rsquo;t overthink any of it. That’s all I know.</p>\n",
+				"content_html": "<p>Reading this got me to thinking about some things:</p>\n<p><a href=\"https://theoutline.com/post/6071/the-personality-brokers-review-myers-briggs-type-indicator\">THE MOST POPULAR PERSONALITY TEST IN THE WORLD IS A JOKE</a></p>\n<p>I find myself not surprised at all about the MBTI&rsquo;s dubious utility. Back in the dotcom boom, after I pointed out to upper management (with impolite candor that I&rsquo;d be mortified by today) that a couple of consultants we&rsquo;d hired were not much better than con artists, I was forced to attend “executive training” sessions with a corporate psychologist who, if I&rsquo;d written them into a story, would have been editorially questioned as a poor caricature of afternoon TV host ambition. During those grinding weeks, I took the MBTI and a couple other scantronnesque tests, and while on the surface their results appealed to my sense of self and identity, I soon got the same feeling I&rsquo;d had as a kid when I&rsquo;d figured out the scam behind the funny page’s daily horoscope column.</p>\n<p>Another employer wasted months on DISC assessments for everyone in management roles, and then wasted more time getting everyone to understand RA(S)CI grids, both of which dropped from use within weeks. All of that felt to me like RPG character generation for people who’d feel embarrassed to call themselves a chaotic-neutral half-Elf ranger but still wanted to fit into a set of little scored boxes.</p>\n<p>I eventually realized similar lessons about Agile, Lean, Kanban and pretty much every other methodology and tool used to manage any kind of contemporary thought-driven work. They’re leaky abstractions. They devolve into dogma and ceremony because humans are lazy.</p>\n<p>What works for me:</p>\n<p>Pick something to keep track of the state of the team’s current and planned efforts: a shared spreadsheet, <a href=\"https://agilepad.com/\">AgilePad</a>, <a href=\"https://basecamp.com/\">Basecamp</a>, <a href=\"https://trello.com/\">Trello</a>, an <a href=\"https://sifterapp.com\">issue/bug tracker</a>, <a href=\"https://manuscript.com/\">whatever</a>. Make it easy for team members to contribute to and navigate within this information. Don&rsquo;t get hung up on points or sizing or metrics: they&rsquo;ll drive the team to wasteful games.</p>\n<p>Don&rsquo;t try to use a <a href=\"https://www.zendesk.com/\">customer support tool</a> for this. Those are geared towards question/answer exchanges and getting people satisfied and on their way as fast as possible, not for collaboration.</p>\n<p>Keep track of the state of the product, whether that&rsquo;s a software application or a playbook for daily business: A <a href=\"https://wiki.js.org\">wiki</a>, a shared document folder, a Git repository of <a href=\"https://commonmark.org\">Markdown</a> files, whatever. This documentation provides team memory and helps bring new team members up to speed. Try to strike a balance here between some pure, crystalline structure and a junk drawer. Make it easy for people to contribute and bake in time for documentation in your planning.</p>\n<p>In my experience, Slack, or any of the Slack-alikes, will fail as a tool for both tracking and documenting a team&rsquo;s work. Email fails as well. There&rsquo;s a world of difference between notification channels and information storage.</p>\n<p>Keep track of your personal To Do list: your calendar, email, favorite GTD app, notebook, whatever. Don&rsquo;t overthink this, but do make it a habit to write stuff down and check your list often.</p>\n<p>Everything else should be conversations. The cards in Trello are reminders to have conversations. The pages in the wiki are records of conversations. The channels in Slack (which will proliferate like kudzu if you&rsquo;re not careful) or threads in email are thin, poor substitutes for conversations.</p>\n<p>Find your team&rsquo;s natural cadence and balance somewhere between constant interruption and half-day blocks of meetings, whether that&rsquo;s daily stands or weekly check-ins or quaterly lunches. There&rsquo;s little more powerful than a handful of human brains networked face-to-face around a table, but too many people at once diminishes returns quickly. For planned conversations, provide an agenda ahead of time, even if it is a single question to answer. Distribute notes immediately after, or store them in one of your team&rsquo;s tools.</p>\n<p>If you manage someone, at least schedule a weekly one-on-one conversation, even if it is only fifteen minutes long and you both beg off three times out of four.</p>\n<p>Just don&rsquo;t overthink any of it. That’s all I know.</p>\n",
 				"content_text": "Reading this got me to thinking about some things:\n\n[THE MOST POPULAR PERSONALITY TEST IN THE WORLD IS A JOKE](https://theoutline.com/post/6071/the-personality-brokers-review-myers-briggs-type-indicator)\n\nI find myself not surprised at all about the MBTI's dubious utility. Back in the dotcom boom, after I pointed out to upper management (with impolite candor that I'd be mortified by today) that a couple of consultants we'd hired were not much better than con artists, I was forced to attend “executive training” sessions with a corporate psychologist who, if I'd written them into a story, would have been editorially questioned as a poor caricature of afternoon TV host ambition. During those grinding weeks, I took the MBTI and a couple other scantronnesque tests, and while on the surface their results appealed to my sense of self and identity, I soon got the same feeling I'd had as a kid when I'd figured out the scam behind the funny page’s daily horoscope column.\n\nAnother employer wasted months on DISC assessments for everyone in management roles, and then wasted more time getting everyone to understand RA(S)CI grids, both of which dropped from use within weeks. All of that felt to me like RPG character generation for people who’d feel embarrassed to call themselves a chaotic-neutral half-Elf ranger but still wanted to fit into a set of little scored boxes.\n\nI eventually realized similar lessons about Agile, Lean, Kanban and pretty much every other methodology and tool used to manage any kind of contemporary thought-driven work. They’re leaky abstractions. They devolve into dogma and ceremony because humans are lazy.\n\nWhat works for me:\n\nPick something to keep track of the state of the team’s current and planned efforts: a shared spreadsheet, [AgilePad](https://agilepad.com/), [Basecamp](https://basecamp.com/), [Trello](https://trello.com/), an [issue/bug tracker](https://sifterapp.com), [whatever](https://manuscript.com/). Make it easy for team members to contribute to and navigate within this information. Don't get hung up on points or sizing or metrics: they'll drive the team to wasteful games.\n\nDon't try to use a [customer support tool](https://www.zendesk.com/) for this. Those are geared towards question/answer exchanges and getting people satisfied and on their way as fast as possible, not for collaboration.\n\nKeep track of the state of the product, whether that's a software application or a playbook for daily business: A [wiki](https://wiki.js.org), a shared document folder, a Git repository of [Markdown](https://commonmark.org) files, whatever. This documentation provides team memory and helps bring new team members up to speed. Try to strike a balance here between some pure, crystalline structure and a junk drawer. Make it easy for people to contribute and bake in time for documentation in your planning.\n\nIn my experience, Slack, or any of the Slack-alikes, will fail as a tool for both tracking and documenting a team's work. Email fails as well. There's a world of difference between notification channels and information storage.\n\nKeep track of your personal To Do list: your calendar, email, favorite GTD app, notebook, whatever. Don't overthink this, but do make it a habit to write stuff down and check your list often.\n\nEverything else should be conversations. The cards in Trello are reminders to have conversations. The pages in the wiki are records of conversations. The channels in Slack (which will proliferate like kudzu if you're not careful) or threads in email are thin, poor substitutes for conversations.\n\nFind your team's natural cadence and balance somewhere between constant interruption and half-day blocks of meetings, whether that's daily stands or weekly check-ins or quaterly lunches. There's little more powerful than a handful of human brains networked face-to-face around a table, but too many people at once diminishes returns quickly. For planned conversations, provide an agenda ahead of time, even if it is a single question to answer. Distribute notes immediately after, or store them in one of your team's tools.\n\nIf you manage someone, at least schedule a weekly one-on-one conversation, even if it is only fifteen minutes long and you both beg off three times out of four.\n\nJust don't overthink any of it. That’s all I know.\n\n",
 				"date_published": "2018-08-31T12:37:44-05:00",
 				"url": "https://msmprojects.com/2018/08/31/on-mbti-and.html"
@@ -1747,8 +1755,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/24/noelle-nashville.html",
 				"title": "Noelle, Nashville",
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/6a18c8473c.jpg\"><img src=\"uploads/2018/6a18c8473c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bce24dff11.jpg\"><img src=\"uploads/2018/bce24dff11.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c4a100d67b.jpg\"><img src=\"uploads/2018/c4a100d67b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n\n<p>At the Noelle rooftop bar, Rare Bird, for R’s birthday trip.</p>\n",
-				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/6a18c8473c.jpg\"><img src=\"uploads/2018/6a18c8473c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bce24dff11.jpg\"><img src=\"uploads/2018/bce24dff11.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c4a100d67b.jpg\"><img src=\"uploads/2018/c4a100d67b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nAt the Noelle rooftop bar, Rare Bird, for R’s birthday trip. \n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>At the Noelle rooftop bar, Rare Bird, for R’s birthday trip.</p>\n",
+				"content_text": "\n\n<a href=\"http://michaelsmanley.micro.blog/uploads/2018/6a18c8473c.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/6a18c8473c.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/bce24dff11.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/bce24dff11.jpg\" width=\"600\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://michaelsmanley.micro.blog/uploads/2018/c4a100d67b.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/c4a100d67b.jpg\" width=\"450\" height=\"600\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nAt the Noelle rooftop bar, Rare Bird, for R’s birthday trip. \n\n",
 				"date_published": "2018-08-24T17:23:23-05:00",
 				"url": "https://msmprojects.com/2018/08/24/noelle-nashville.html",
 				"tags": ["photos"]
@@ -1756,8 +1764,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/19/another-ig-test.html",
 				
-				"content_html": "<p>Another IG test.</p>\n\n<p><img src=\"uploads/2018/d3361680c1.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Another IG test.\n\n<img src=\"uploads/2018/d3361680c1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Another IG test.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another IG test.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/d3361680c1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-19T15:07:05-05:00",
 				"url": "https://msmprojects.com/2018/08/19/another-ig-test.html",
 				"tags": ["photos"]
@@ -1765,7 +1773,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/19/applenews-evil-billionaires.html",
 				
-				"content_html": "<p><a href=\"https://apple.news/AIbh00cbRSle0UvGsJLji3g\">apple.news</a></p>\n\n<blockquote>\n<p>Evil Billionaires Play a Board Game Where They Pretend to Have Total Control Over the American Political System Ha Ha Ha Ha Ha - Jezebel</p>\n</blockquote>\n",
+				"content_html": "<p><a href=\"https://apple.news/AIbh00cbRSle0UvGsJLji3g\">apple.news</a></p>\n<blockquote>\n<p>Evil Billionaires Play a Board Game Where They Pretend to Have Total Control Over the American Political System Ha Ha Ha Ha Ha - Jezebel</p>\n</blockquote>\n",
 				"content_text": " [apple.news](https://apple.news/AIbh00cbRSle0UvGsJLji3g)\n\n> Evil Billionaires Play a Board Game Where They Pretend to Have Total Control Over the American Political System Ha Ha Ha Ha Ha - Jezebel\n",
 				"date_published": "2018-08-19T09:30:56-05:00",
 				"url": "https://msmprojects.com/2018/08/19/applenews-evil-billionaires.html"
@@ -1773,7 +1781,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/18/ive-finally-put.html",
 				
-				"content_html": "<p>I&rsquo;ve finally put together a new version of <a href=\"my site\">https://michael.manley.org/</a>, including an archive of the writing I&rsquo;ve published. Assembled without a CMS, using micro.blog as the engine for daily updates, photos, and social media syndication.</p>\n",
+				"content_html": "<p>I&rsquo;ve finally put together a new version of [https://michael.manley.org/](my site), including an archive of the writing I&rsquo;ve published. Assembled without a CMS, using micro.blog as the engine for daily updates, photos, and social media syndication.</p>\n",
 				"content_text": "I've finally put together a new version of [https://michael.manley.org/](my site), including an archive of the writing I've published. Assembled without a CMS, using micro.blog as the engine for daily updates, photos, and social media syndication.\n",
 				"date_published": "2018-08-17T20:26:47-05:00",
 				"url": "https://msmprojects.com/2018/08/17/ive-finally-put.html"
@@ -1789,8 +1797,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/17/220303.html",
 				
-				"content_html": "<p>This is a test post from Micro.blog syndicated to TW, FB, and LI.</p>\n\n<p><img src=\"uploads/2018/0a5818651c.jpg\" width=\"498\" height=\"600\" /></p>\n",
-				"content_text": "This is a test post from Micro.blog syndicated to TW, FB, and LI. \r\n\r\n\n\n<img src=\"uploads/2018/0a5818651c.jpg\" width=\"498\" height=\"600\" />\n",
+				"content_html": "<p>This is a test post from Micro.blog syndicated to TW, FB, and LI.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is a test post from Micro.blog syndicated to TW, FB, and LI. \r\n\r\n\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/0a5818651c.jpg\" width=\"498\" height=\"600\" />\n",
 				"date_published": "2018-08-17T17:03:03-05:00",
 				"url": "https://msmprojects.com/2018/08/17/220303.html",
 				"tags": ["photos"]
@@ -1798,8 +1806,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/17/this-is-a.html",
 				
-				"content_html": "<p>This is a test to see if a photo makes it from IG to Micro.blog to the other channels.</p>\n\n<p><img src=\"uploads/2018/326975687f.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "This is a test to see if a photo makes it from IG to Micro.blog to the other channels.\n\n<img src=\"uploads/2018/326975687f.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>This is a test to see if a photo makes it from IG to Micro.blog to the other channels.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is a test to see if a photo makes it from IG to Micro.blog to the other channels.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/326975687f.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-17T15:56:00-05:00",
 				"url": "https://msmprojects.com/2018/08/17/this-is-a.html",
 				"tags": ["photos"]
@@ -1807,8 +1815,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/17/rembert.html",
 				"title": "Rembert",
-				"content_html": "<p><a href=\"http://michaelsmanley.micro.blog/uploads/2018/9dedc4e748.jpg\"><img src=\"uploads/2018/9dedc4e748.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>This is a test post from Sunlit. <br /></p>\n",
-				"content_text": "<a href=\"http://michaelsmanley.micro.blog/uploads/2018/9dedc4e748.jpg\"><img src=\"uploads/2018/9dedc4e748.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nThis is a test post from Sunlit. <br />\n\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>This is a test post from Sunlit. <!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"http://michaelsmanley.micro.blog/uploads/2018/9dedc4e748.jpg\"><img src=\"http://michaelsmanley.micro.blog/uploads/2018/9dedc4e748.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nThis is a test post from Sunlit. <br />\n\n",
 				"date_published": "2018-08-17T15:48:20-05:00",
 				"url": "https://msmprojects.com/2018/08/17/rembert.html",
 				"tags": ["photos"]
@@ -1816,7 +1824,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/11/my-new-ventrachicago.html",
 				
-				"content_html": "<p>My new VentraChicago card expires in the middle of 2038. I guess someone at the CTA offices believes they&rsquo;ve adequately prepared for the <a href=\"[en.wikipedia.org/wiki/Year...](https://en.wikipedia.org/wiki/Year_2038_problem)\">Unix epoch problem</a>. And they must feel optimistic about the shelf-life of American technological civilization.</p>\n",
+				"content_html": "<p>My new VentraChicago card expires in the middle of 2038. I guess someone at the CTA offices believes they&rsquo;ve adequately prepared for the <a href=\"%5Ben.wikipedia.org/wiki/Year...%5D(https://en.wikipedia.org/wiki/Year_2038_problem)\">Unix epoch problem</a>. And they must feel optimistic about the shelf-life of American technological civilization.</p>\n",
 				"content_text": "My new VentraChicago card expires in the middle of 2038. I guess someone at the CTA offices believes they've adequately prepared for the [Unix epoch problem]([en.wikipedia.org/wiki/Year...](https://en.wikipedia.org/wiki/Year_2038_problem) ). And they must feel optimistic about the shelf-life of American technological civilization.\n",
 				"date_published": "2018-08-11T13:22:46-05:00",
 				"url": "https://msmprojects.com/2018/08/11/my-new-ventrachicago.html"
@@ -1960,8 +1968,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/05/29/rembert-hopes-you.html",
 				
-				"content_html": "<p>Rembert hopes you all had a very nice holiday weekend.</p>\n\n<p><img src=\"uploads/2018/57c7bca272.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Rembert hopes you all had a very nice holiday weekend.\n\n<img src=\"uploads/2018/57c7bca272.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Rembert hopes you all had a very nice holiday weekend.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rembert hopes you all had a very nice holiday weekend.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/57c7bca272.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-28T19:51:00-05:00",
 				"url": "https://msmprojects.com/2018/05/28/rembert-hopes-you.html",
 				"tags": ["photos"]
@@ -1993,8 +2001,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/04/29/great-time-at.html",
 				
-				"content_html": "<p>Great time at Chicago Magic Lounge tonight watching Ronnie assist the magicians. Thanks Kim for getting us all together.</p>\n\n<p><img src=\"uploads/2018/a9a87520bf.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Great time at Chicago Magic Lounge tonight watching Ronnie assist the magicians. Thanks Kim for getting us all together.\n\n<img src=\"uploads/2018/a9a87520bf.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Great time at Chicago Magic Lounge tonight watching Ronnie assist the magicians. Thanks Kim for getting us all together.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Great time at Chicago Magic Lounge tonight watching Ronnie assist the magicians. Thanks Kim for getting us all together.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/a9a87520bf.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-28T23:02:01-05:00",
 				"url": "https://msmprojects.com/2018/04/28/great-time-at.html",
 				"tags": ["photos"]
@@ -2026,8 +2034,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/04/15/you-know-it.html",
 				
-				"content_html": "<p>You know it is a real dragon roll when it arrives at the table on fire. Highly recommended goodies at Raisu.</p>\n\n<p><img src=\"uploads/2018/927c9cb6e3.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "You know it is a real dragon roll when it arrives at the table on fire. Highly recommended goodies at Raisu.\n\n<img src=\"uploads/2018/927c9cb6e3.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>You know it is a real dragon roll when it arrives at the table on fire. Highly recommended goodies at Raisu.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "You know it is a real dragon roll when it arrives at the table on fire. Highly recommended goodies at Raisu.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/927c9cb6e3.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-14T21:16:57-05:00",
 				"url": "https://msmprojects.com/2018/04/14/you-know-it.html",
 				"tags": ["photos"]
@@ -2043,7 +2051,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/04/12/t984468937541849090.html",
 				
-				"content_html": "<p>Every day I find I sympathize a bit more with the precepts of E Prime (<a href=\"https://t.co/AVklA2QoMQ\">https://t.co/AVklA2QoMQ</a>). At the very least, I&rsquo;d strike 9 out 10 uses of &ldquo;to be&rdquo; from most things I read and write.</p>\n",
+				"content_html": "<p>Every day I find I sympathize a bit more with the precepts of E Prime (<a href=\"https://t.co/AVklA2QoMQ)\">https://t.co/AVklA2QoMQ)</a>. At the very least, I&rsquo;d strike 9 out 10 uses of &ldquo;to be&rdquo; from most things I read and write.</p>\n",
 				"content_text": "Every day I find I sympathize a bit more with the precepts of E Prime (https://t.co/AVklA2QoMQ). At the very least, I'd strike 9 out 10 uses of \"to be\" from most things I read and write.\n",
 				"date_published": "2018-04-12T11:30:59-05:00",
 				"url": "https://msmprojects.com/2018/04/12/t984468937541849090.html"
@@ -2067,7 +2075,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/03/31/t980183038037504000.html",
 				
-				"content_html": "<p>Hey #writers: Do me a favor? If you happen upon a pre-2004 copy of any Writers Market book, please destroy it with fire as you might exterminate a plague rat. I just got a phone call asking about a magazine I shut down 14 years ago.</p>\n\n<p>Not that I want anyone to start burning books. Those market guides actually represent databases from the era when shipping dead trees cost less than shipping bits. 21st-century toxic waste.</p>\n",
+				"content_html": "<p>Hey #writers: Do me a favor? If you happen upon a pre-2004 copy of any Writers Market book, please destroy it with fire as you might exterminate a plague rat. I just got a phone call asking about a magazine I shut down 14 years ago.</p>\n<p>Not that I want anyone to start burning books. Those market guides actually represent databases from the era when shipping dead trees cost less than shipping bits. 21st-century toxic waste.</p>\n",
 				"content_text": "Hey #writers: Do me a favor? If you happen upon a pre-2004 copy of any Writers Market book, please destroy it with fire as you might exterminate a plague rat. I just got a phone call asking about a magazine I shut down 14 years ago.\n\nNot that I want anyone to start burning books. Those market guides actually represent databases from the era when shipping dead trees cost less than shipping bits. 21st-century toxic waste.\n",
 				"date_published": "2018-03-31T15:40:21-05:00",
 				"url": "https://msmprojects.com/2018/03/31/t980183038037504000.html"
@@ -2115,8 +2123,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/03/09/dinner-at-alinea.html",
 				
-				"content_html": "<p>Dinner at Alinea to celebrate Ronnie’s promotion. Very proud of my girl and always happy to do a fancy dinner together.</p>\n\n<p><img src=\"uploads/2018/19012643a4.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/1e14fbcdc6.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/7c14422cac.jpg\" width=\"600\" height=\"599\" /></p>\n",
-				"content_text": "Dinner at Alinea to celebrate Ronnie’s promotion. Very proud of my girl and always happy to do a fancy dinner together.\n\n<img src=\"uploads/2018/19012643a4.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/1e14fbcdc6.jpg\" width=\"600\" height=\"599\" /><img src=\"uploads/2018/7c14422cac.jpg\" width=\"600\" height=\"599\" />\n",
+				"content_html": "<p>Dinner at Alinea to celebrate Ronnie’s promotion. Very proud of my girl and always happy to do a fancy dinner together.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Dinner at Alinea to celebrate Ronnie’s promotion. Very proud of my girl and always happy to do a fancy dinner together.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/19012643a4.jpg\" width=\"600\" height=\"599\" /><img src=\"http://michaelsmanley.micro.blog/uploads/2018/1e14fbcdc6.jpg\" width=\"600\" height=\"599\" /><img src=\"http://michaelsmanley.micro.blog/uploads/2018/7c14422cac.jpg\" width=\"600\" height=\"599\" />\n",
 				"date_published": "2018-03-08T22:09:58-05:00",
 				"url": "https://msmprojects.com/2018/03/08/dinner-at-alinea.html",
 				"tags": ["photos"]
@@ -2140,8 +2148,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/02/18/ronnie-started-our.html",
 				
-				"content_html": "<p>Ronnie started our Sunday right.</p>\n\n<p><img src=\"uploads/2018/a39445b6fd.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Ronnie started our Sunday right.\n\n<img src=\"uploads/2018/a39445b6fd.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Ronnie started our Sunday right.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ronnie started our Sunday right.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/a39445b6fd.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-02-18T12:09:47-05:00",
 				"url": "https://msmprojects.com/2018/02/18/ronnie-started-our.html",
 				"tags": ["photos"]
@@ -2197,8 +2205,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/01/28/after-days-in.html",
 				
-				"content_html": "<p>After 19 days in a row of work helping people understand Medicare, figured she needed a good time, so we hit neighbor hidden gem Arjun’s Thai for their 12-course tasting menu and wine pairings. So happy.</p>\n\n<p><img src=\"uploads/2018/35f3972910.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "After 19 days in a row of work helping people understand Medicare, figured she needed a good time, so we hit neighbor hidden gem Arjun’s Thai for their 12-course tasting menu and wine pairings. So happy.\n\n<img src=\"uploads/2018/35f3972910.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>After 19 days in a row of work helping people understand Medicare, figured she needed a good time, so we hit neighbor hidden gem Arjun’s Thai for their 12-course tasting menu and wine pairings. So happy.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After 19 days in a row of work helping people understand Medicare, figured she needed a good time, so we hit neighbor hidden gem Arjun’s Thai for their 12-course tasting menu and wine pairings. So happy.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/35f3972910.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-27T22:19:11-05:00",
 				"url": "https://msmprojects.com/2018/01/27/after-days-in.html",
 				"tags": ["photos"]
@@ -2254,7 +2262,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/12/18/t942550858755203073.html",
 				
-				"content_html": "<p>Chicago friends: Watch out for the scam artists claiming to work for @DirectEnergy going door to door in the north side neighborhoods tonight.</p>\n\n<p><a href=\"https://t.co/GKuIafZikl\">t.co/GKuIafZik&hellip;</a></p>\n",
+				"content_html": "<p>Chicago friends: Watch out for the scam artists claiming to work for @DirectEnergy going door to door in the north side neighborhoods tonight.</p>\n<p><a href=\"https://t.co/GKuIafZikl\">t.co/GKuIafZik&hellip;</a></p>\n",
 				"content_text": "Chicago friends: Watch out for the scam artists claiming to work for @DirectEnergy going door to door in the north side neighborhoods tonight.\n\n[t.co/GKuIafZik...](https://t.co/GKuIafZikl)\n",
 				"date_published": "2017-12-17T19:23:31-05:00",
 				"url": "https://msmprojects.com/2017/12/17/t942550858755203073.html"
@@ -2302,8 +2310,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/10/18/pretty-certain-ronnie.html",
 				
-				"content_html": "<p>Pretty certain Ronnie wants us to buy a boat now.</p>\n\n<p><img src=\"uploads/2018/84f1735647.jpg\" width=\"600\" height=\"598\" /></p>\n",
-				"content_text": "Pretty certain Ronnie wants us to buy a boat now.\n\n<img src=\"uploads/2018/84f1735647.jpg\" width=\"600\" height=\"598\" />\n",
+				"content_html": "<p>Pretty certain Ronnie wants us to buy a boat now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pretty certain Ronnie wants us to buy a boat now.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/84f1735647.jpg\" width=\"600\" height=\"598\" />\n",
 				"date_published": "2017-10-18T12:23:47-05:00",
 				"url": "https://msmprojects.com/2017/10/18/pretty-certain-ronnie.html",
 				"tags": ["photos"]
@@ -2399,8 +2407,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/08/26/today-is-nationaldogday.html",
 				
-				"content_html": "<p>Today is #nationaldogday and @ronniecraig&rsquo;s birthday. Here are her two favorite boys having a chat while they wait for her.</p>\n\n<p><img src=\"uploads/2018/dbd8d2c865.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "Today is #nationaldogday and @ronniecraig's birthday. Here are her two favorite boys having a chat while they wait for her.\n\n<img src=\"uploads/2018/dbd8d2c865.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>Today is #nationaldogday and @ronniecraig&rsquo;s birthday. Here are her two favorite boys having a chat while they wait for her.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today is #nationaldogday and @ronniecraig's birthday. Here are her two favorite boys having a chat while they wait for her.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/dbd8d2c865.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-08-26T13:14:42-05:00",
 				"url": "https://msmprojects.com/2017/08/26/today-is-nationaldogday.html",
 				"tags": ["photos"]
@@ -2464,8 +2472,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/08/07/the-view-from.html",
 				
-				"content_html": "<p>The view from our skylight.</p>\n\n<p><img src=\"uploads/2018/764bad8090.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "The view from our skylight.\n\n<img src=\"uploads/2018/764bad8090.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>The view from our skylight.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The view from our skylight.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/764bad8090.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-08-06T21:40:54-05:00",
 				"url": "https://msmprojects.com/2017/08/06/the-view-from.html",
 				"tags": ["photos"]
@@ -2473,8 +2481,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/07/30/a-giant-cheeto.html",
 				
-				"content_html": "<p>A giant Cheeto trying to distract from the drink infiltrated by Russian (vodka) influences. Of course it is called a Commander-in-Chief.</p>\n\n<p><img src=\"uploads/2018/80613f1c65.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "A giant Cheeto trying to distract from the drink infiltrated by Russian (vodka) influences. Of course it is called a Commander-in-Chief.\n\n<img src=\"uploads/2018/80613f1c65.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>A giant Cheeto trying to distract from the drink infiltrated by Russian (vodka) influences. Of course it is called a Commander-in-Chief.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A giant Cheeto trying to distract from the drink infiltrated by Russian (vodka) influences. Of course it is called a Commander-in-Chief.\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/80613f1c65.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-07-30T17:14:52-05:00",
 				"url": "https://msmprojects.com/2017/07/30/a-giant-cheeto.html",
 				"tags": ["photos"]
@@ -2522,8 +2530,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/06/08/how-had-we.html",
 				
-				"content_html": "<p>How had we not gotten to this tasting menu yet?</p>\n\n<p><img src=\"uploads/2018/8f8f4b071c.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "How had we not gotten to this tasting menu yet?\n\n<img src=\"uploads/2018/8f8f4b071c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>How had we not gotten to this tasting menu yet?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "How had we not gotten to this tasting menu yet?\n\n<img src=\"http://michaelsmanley.micro.blog/uploads/2018/8f8f4b071c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-06-08T18:16:40-05:00",
 				"url": "https://msmprojects.com/2017/06/08/how-had-we.html",
 				"tags": ["photos"]
@@ -2539,8 +2547,8 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2017/05/31/httpmanleyorg-this-is.html",
 				
-				"content_html": "<p><img src=\"uploads/2018/7f4edccf02.jpg\" width=\"600\" height=\"600\" /></p>\n",
-				"content_text": "<img src=\"uploads/2018/7f4edccf02.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"http://michaelsmanley.micro.blog/uploads/2018/7f4edccf02.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-05-31T18:48:16-05:00",
 				"url": "https://msmprojects.com/2017/05/31/httpmanleyorg-this-is.html",
 				"tags": ["photos"]
@@ -2980,7 +2988,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2016/11/21/t800817072150286336.html",
 				
-				"content_html": "<p>So apparently the ruling class doesn&rsquo;t know that cameras these days can read fingerprints let alone Times New Roman. <a href=\"https://www.esquire.com/news-politics/news/a50890/kris-kobach-homeland-security-plan-photo/\">Maybe Next Time Use The Folder</a></p>\n\n<p>Or maybe they do know and want this to be the next distraction while they rob some more people or sell the country to the oligarchs. Dunno.</p>\n",
+				"content_html": "<p>So apparently the ruling class doesn&rsquo;t know that cameras these days can read fingerprints let alone Times New Roman. <a href=\"https://www.esquire.com/news-politics/news/a50890/kris-kobach-homeland-security-plan-photo/\">Maybe Next Time Use The Folder</a></p>\n<p>Or maybe they do know and want this to be the next distraction while they rob some more people or sell the country to the oligarchs. Dunno.</p>\n",
 				"content_text": "So apparently the ruling class doesn't know that cameras these days can read fingerprints let alone Times New Roman. [Maybe Next Time Use The Folder](https://www.esquire.com/news-politics/news/a50890/kris-kobach-homeland-security-plan-photo/)\n\nOr maybe they do know and want this to be the next distraction while they rob some more people or sell the country to the oligarchs. Dunno.\n",
 				"date_published": "2016-11-21T16:44:03-05:00",
 				"url": "https://msmprojects.com/2016/11/21/t800817072150286336.html"
@@ -3468,7 +3476,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2016/07/06/t750792192923275264.html",
 				
-				"content_html": "<p>7/ Though if I find Hills&rsquo; book to be prescriptivist on this re-read, it&rsquo;ll go in the &ldquo;Yeah, that&rsquo;s nice for you. Congrats&rdquo; pile.</p>\n",
+				"content_html": "<p>7/ Though if I find Hills' book to be prescriptivist on this re-read, it&rsquo;ll go in the &ldquo;Yeah, that&rsquo;s nice for you. Congrats&rdquo; pile.</p>\n",
 				"content_text": "7/ Though if I find Hills' book to be prescriptivist on this re-read, it'll go in the \"Yeah, that's nice for you. Congrats\" pile.\n",
 				"date_published": "2016-07-06T15:43:02-05:00",
 				"url": "https://msmprojects.com/2016/07/06/t750792192923275264.html"
@@ -3484,7 +3492,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2016/07/06/t750791043436539904.html",
 				
-				"content_html": "<p>5/ So I guess that&rsquo;s saved me a few bucks &amp;amp; some time and provided me an impetus to go back and re-read Rust Hills&rsquo; book on the short story.</p>\n",
+				"content_html": "<p>5/ So I guess that&rsquo;s saved me a few bucks &amp;amp; some time and provided me an impetus to go back and re-read Rust Hills' book on the short story.</p>\n",
 				"content_text": "5/ So I guess that's saved me a few bucks &amp;amp; some time and provided me an impetus to go back and re-read Rust Hills' book on the short story.\n",
 				"date_published": "2016-07-06T15:38:28-05:00",
 				"url": "https://msmprojects.com/2016/07/06/t750791043436539904.html"
@@ -3556,7 +3564,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2016/06/15/t743104542892380160.html",
 				
-				"content_html": "<p>Ain&rsquo;t this the truth.</p>\n\n<p><a href=\"https://t.co/qJqIuJ99AQ\">t.co/qJqIuJ99A&hellip;</a></p>\n",
+				"content_html": "<p>Ain&rsquo;t this the truth.</p>\n<p><a href=\"https://t.co/qJqIuJ99AQ\">t.co/qJqIuJ99A&hellip;</a></p>\n",
 				"content_text": "Ain't this the truth.\n\n[t.co/qJqIuJ99A...](https://t.co/qJqIuJ99AQ)\n",
 				"date_published": "2016-06-15T10:35:03-05:00",
 				"url": "https://msmprojects.com/2016/06/15/t743104542892380160.html"
@@ -3780,7 +3788,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2016/05/01/t726924026744967168.html",
 				
-				"content_html": "<p>In other news, such glee from @RonnieCraig when she bought out @chicagocomics&rsquo; entire inventory of Dazzler #comics from the 80s today.</p>\n",
+				"content_html": "<p>In other news, such glee from @RonnieCraig when she bought out @chicagocomics' entire inventory of Dazzler #comics from the 80s today.</p>\n",
 				"content_text": "In other news, such glee from @RonnieCraig when she bought out @chicagocomics' entire inventory of Dazzler #comics from the 80s today.\n",
 				"date_published": "2016-05-01T18:59:28-05:00",
 				"url": "https://msmprojects.com/2016/05/01/t726924026744967168.html"
@@ -4460,7 +4468,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2015/08/16/t632989399337185280.html",
 				
-				"content_html": "<p>I really enjoyed Shadow Unit (<a href=\"http://t.co/tiztzSuJnh\">http://t.co/tiztzSuJnh</a>), so I&rsquo;m looking forward to following @serialboxpub &amp;amp; their new serial fiction.</p>\n",
+				"content_html": "<p>I really enjoyed Shadow Unit (<a href=\"http://t.co/tiztzSuJnh)\">http://t.co/tiztzSuJnh)</a>, so I&rsquo;m looking forward to following @serialboxpub &amp;amp; their new serial fiction.</p>\n",
 				"content_text": "I really enjoyed Shadow Unit (http://t.co/tiztzSuJnh), so I'm looking forward to following @serialboxpub &amp;amp; their new serial fiction.\n",
 				"date_published": "2015-08-16T13:56:47-05:00",
 				"url": "https://msmprojects.com/2015/08/16/t632989399337185280.html"
@@ -4972,7 +4980,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2014/07/14/t488495814012960769.html",
 				
-				"content_html": "<p>The Bojeffries Saga: Alan Moore &amp;amp; Steve Parkhouse do Mad Magazine x The Aadams Family &amp;amp; show some loathe for merry ol&rsquo; England. #comics</p>\n",
+				"content_html": "<p>The Bojeffries Saga: Alan Moore &amp;amp; Steve Parkhouse do Mad Magazine x The Aadams Family &amp;amp; show some loathe for merry ol' England. #comics</p>\n",
 				"content_text": "The Bojeffries Saga: Alan Moore &amp;amp; Steve Parkhouse do Mad Magazine x The Aadams Family &amp;amp; show some loathe for merry ol' England. #comics\n",
 				"date_published": "2014-07-13T20:30:52-05:00",
 				"url": "https://msmprojects.com/2014/07/13/t488495814012960769.html"
@@ -5100,7 +5108,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2014/04/14/t455788505520959488.html",
 				
-				"content_html": "<p>J.G. Ballard and @tomgauld all in one spot. My day is complete. You should read both authors&rsquo; books. <a href=\"http://t.co/lMlXI1fC4m\">t.co/lMlXI1fC4&hellip;</a> #comics #books</p>\n",
+				"content_html": "<p>J.G. Ballard and @tomgauld all in one spot. My day is complete. You should read both authors' books. <a href=\"http://t.co/lMlXI1fC4m\">t.co/lMlXI1fC4&hellip;</a> #comics #books</p>\n",
 				"content_text": "J.G. Ballard and @tomgauld all in one spot. My day is complete. You should read both authors' books. [t.co/lMlXI1fC4...](http://t.co/lMlXI1fC4m) #comics #books\n",
 				"date_published": "2014-04-14T14:23:42-05:00",
 				"url": "https://msmprojects.com/2014/04/14/t455788505520959488.html"
@@ -5196,7 +5204,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2014/03/07/t442080281840062464.html",
 				
-				"content_html": "<p>Looking for True Detective&rsquo;s references? Read Robert W. Chambers&rsquo; &ldquo;The King in Yellow&rdquo; <a href=\"http://t.co/c7LXOk0OkH\">t.co/c7LXOk0Ok&hellip;</a></p>\n",
+				"content_html": "<p>Looking for True Detective&rsquo;s references? Read Robert W. Chambers' &ldquo;The King in Yellow&rdquo; <a href=\"http://t.co/c7LXOk0OkH\">t.co/c7LXOk0Ok&hellip;</a></p>\n",
 				"content_text": "Looking for True Detective's references? Read Robert W. Chambers' \"The King in Yellow\" [t.co/c7LXOk0Ok...](http://t.co/c7LXOk0OkH)\n",
 				"date_published": "2014-03-07T18:32:07-05:00",
 				"url": "https://msmprojects.com/2014/03/07/t442080281840062464.html"
@@ -5452,7 +5460,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2013/05/21/t336921596218441731.html",
 				
-				"content_html": "<p>My reviews page at 3G1B.</p>\n\n<p>Michael Manley @ Three Guys One Book <a href=\"http://t.co/tSNTziLwT4\">t.co/tSNTziLwT&hellip;</a></p>\n",
+				"content_html": "<p>My reviews page at 3G1B.</p>\n<p>Michael Manley @ Three Guys One Book <a href=\"http://t.co/tSNTziLwT4\">t.co/tSNTziLwT&hellip;</a></p>\n",
 				"content_text": "My reviews page at 3G1B. \n\nMichael Manley @ Three Guys One Book [t.co/tSNTziLwT...](http://t.co/tSNTziLwT4)\n",
 				"date_published": "2013-05-21T14:09:02-05:00",
 				"url": "https://msmprojects.com/2013/05/21/t336921596218441731.html"
@@ -5476,7 +5484,7 @@
 			{
 				"id": "http://michaelsmanley.micro.blog/2013/05/21/t336750757577641985.html",
 				
-				"content_html": "<p>Promoting this a little late. My first review for 3G1B: The World&rsquo; Strongest Librarian by Josh Hanagarne  <a href=\"http://t.co/2Btaq2rmrV\">t.co/2Btaq2rmr&hellip;</a></p>\n",
+				"content_html": "<p>Promoting this a little late. My first review for 3G1B: The World' Strongest Librarian by Josh Hanagarne  <a href=\"http://t.co/2Btaq2rmrV\">t.co/2Btaq2rmr&hellip;</a></p>\n",
 				"content_text": "Promoting this a little late. My first review for 3G1B: The World' Strongest Librarian by Josh Hanagarne  [t.co/2Btaq2rmr...](http://t.co/2Btaq2rmrV)\n",
 				"date_published": "2013-05-21T02:50:11-05:00",
 				"url": "https://msmprojects.com/2013/05/21/t336750757577641985.html"
