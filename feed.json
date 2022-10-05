@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2022/10/05/im-not-saying.html",
+				
+				"content_html": "<p>I&rsquo;m not saying this is <em>just</em> a Big Trak for (mostly wealthy, I suppose) Gen-Xers, but it sure pushed those buttons for me: <a href=\"https://www.kickstarter.com/projects/yarbo/yarbo-an-intelligent-yard-robot-to-meet-all-yard-care-needs\">Yarbo Yard Robot</a></p>\n",
+				"content_text": "I'm not saying this is *just* a Big Trak for (mostly wealthy, I suppose) Gen-Xers, but it sure pushed those buttons for me: [Yarbo Yard Robot](https://www.kickstarter.com/projects/yarbo/yarbo-an-intelligent-yard-robot-to-meet-all-yard-care-needs)\n",
+				"date_published": "2022-10-05T16:29:09-05:00",
+				"url": "https://msmprojects.com/2022/10/05/im-not-saying.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2022/09/20/currently-reading-nova.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553904291\">Nova Swing</a> by M. John Harrison 📚</p>\n",
