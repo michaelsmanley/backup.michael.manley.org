@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2022/12/20/what-part-of.html",
+				
+				"content_html": "<p>What part of the Gartner Hype Cycle are we in now for ML? Is it the Burning of Megatons of Cash or the Accidental Destruction of Innocent Bystanders? Let me know when we get to the Plateau of Standing Around in the Ashes Saying &ldquo;Who Could Have Predicted This?&rdquo;</p>\n",
+				"content_text": "What part of the Gartner Hype Cycle are we in now for ML? Is it the Burning of Megatons of Cash or the Accidental Destruction of Innocent Bystanders? Let me know when we get to the Plateau of Standing Around in the Ashes Saying \"Who Could Have Predicted This?\"\n",
+				"date_published": "2022-12-20T11:25:26-06:00",
+				"url": "https://msmprojects.com/2022/12/20/what-part-of.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2022/12/18/i-generally-dont.html",
+				
+				"content_html": "<p>I generally don&rsquo;t pay attention to Bird Site shenanigans these days, but I just learned they&rsquo;ve banned links to a specific set of other social media. Ok, whatever. But one of those is Nostr, and as far as I know, you can&rsquo;t even link to Nostr. They added that for hipster cred.</p>\n",
+				"content_text": "I generally don't pay attention to Bird Site shenanigans these days, but I just learned they've banned links to a specific set of other social media. Ok, whatever. But one of those is Nostr, and as far as I know, you can't even link to Nostr. They added that for hipster cred.\n",
+				"date_published": "2022-12-18T16:45:33-06:00",
+				"url": "https://msmprojects.com/2022/12/18/i-generally-dont.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2022/12/18/the-daily-s.html",
+				
+				"content_html": "<p>The daily 🐶s</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The daily 🐶s\n\n<img src=\"uploads/2022/9629f58a92.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-18T09:51:06-06:00",
+				"url": "https://msmprojects.com/2022/12/18/the-daily-s.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2022/12/17/143530.html",
+				
+				"content_html": "<p>🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐶\n\n<img src=\"uploads/2022/591372965e.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-17T14:35:30-06:00",
+				"url": "https://msmprojects.com/2022/12/17/143530.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2022/12/15/i-believe-talking.html",
 				
 				"content_html": "<p>I believe <a href=\"https://arxiv.org/abs/2212.03551\">Talking About Large Language Models</a> by Murray Shanahan should be required reading for anyone working with LLMs. You really must understand what you&rsquo;re actually asking of a system vs. what it looks like you&rsquo;re asking of a system.</p>\n",
