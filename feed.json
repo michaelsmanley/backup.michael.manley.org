@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/11/finished-reading-nobody.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781616954871\">Nobody Walks</a> by Mick Herron 📚</p>\n",
+				"content_text": "Finished reading: [Nobody Walks](https://micro.blog/books/9781616954871) by Mick Herron 📚\n",
+				"date_published": "2023-01-11T17:51:50-06:00",
+				"url": "https://msmprojects.com/2023/01/11/finished-reading-nobody.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/07/fresh-from-the.html",
+				
+				"content_html": "<p>🐶Fresh from the salon.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐶Fresh from the salon.\n\n<img src=\"uploads/2023/5407774a56.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-07T12:01:12-06:00",
+				"url": "https://msmprojects.com/2023/01/07/fresh-from-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/05/this-horrifies-me.html",
+				
+				"content_html": "<p>This horrifies me: The creeator of the web editor <a href=\"https://hypertext.plus\">Hypertext Plus</a>, has lost his home: <a href=\"https://www.russellbeattie.com/notes/posts/im-selling-my-name.html\">I&rsquo;m Selling My Name</a> by Russell Beattie.</p>\n",
+				"content_text": "This horrifies me: The creeator of the web editor [Hypertext Plus](https://hypertext.plus), has lost his home: [I'm Selling My Name](https://www.russellbeattie.com/notes/posts/im-selling-my-name.html) by Russell Beattie.\n",
+				"date_published": "2023-01-05T08:41:51-06:00",
+				"url": "https://msmprojects.com/2023/01/05/this-horrifies-me.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/03/currently-reading-nobody.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781616954871\">Nobody Walks</a> by Mick Herron 📚</p>\n",
+				"content_text": "Currently reading: [Nobody Walks](https://micro.blog/books/9781616954871) by Mick Herron 📚\n",
+				"date_published": "2023-01-03T12:00:32-06:00",
+				"url": "https://msmprojects.com/2023/01/03/currently-reading-nobody.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/03/finished-reading-lovecraft.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062292087\">Lovecraft Country</a> by Matt Ruff 📚</p>\n",
+				"content_text": "Finished reading: [Lovecraft Country](https://micro.blog/books/9780062292087) by Matt Ruff 📚\n",
+				"date_published": "2023-01-03T12:00:16-06:00",
+				"url": "https://msmprojects.com/2023/01/03/finished-reading-lovecraft.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2022/12/31/the-last-funky.html",
 				
 				"content_html": "<p><a href=\"https://comicskingdom.com/funky-winkerbean/2022-12-31\">The last Funky Winkerbean</a> actually happened on Sunday, Dec 25, 2022 so that Tom Batiuk could go out the way Sparky Schulz did with <em>Peanuts</em>. This last week of John Byrne guest strips is just contractual obligation. 💬</p>\n",
