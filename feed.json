@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/21/a-week-or.html",
+				
+				"content_html": "<p>A week or so ago there was a spate of discussion about &ldquo;likes&rdquo; on the micro.blog platform. Today I ran into someone who appears to have drafted the Simplest Thing That Might Work with the <a href=\"https://github.com/dddddddddzzzz/OpenHeart\">Open Heart Protocol</a> on the back end and a <a href=\"https://github.com/dddddddddzzzz/open-heart-element\">web component</a> for the front end.</p>\n",
+				"content_text": "A week or so ago there was a spate of discussion about \"likes\" on the micro.blog platform. Today I ran into someone who appears to have drafted the Simplest Thing That Might Work with the [Open Heart Protocol](https://github.com/dddddddddzzzz/OpenHeart) on the back end and a [web component](https://github.com/dddddddddzzzz/open-heart-element) for the front end.\n",
+				"date_published": "2023-01-21T18:53:06-06:00",
+				"url": "https://msmprojects.com/2023/01/21/a-week-or.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/12/currently-reading-white.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781440674471\">White Noise</a> by Don DeLillo. Enjoyed the movie quite a bit. Haven&rsquo;t read DeLillo since graduate school. 📚</p>\n",
+				"content_text": "Currently reading: [White Noise](https://micro.blog/books/9781440674471) by Don DeLillo. Enjoyed the movie quite a bit. Haven't read DeLillo since graduate school. 📚\n",
+				"date_published": "2023-01-12T05:22:48-06:00",
+				"url": "https://msmprojects.com/2023/01/12/currently-reading-white.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/12/finished-reading-this.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781616959777\">This Is What Happened</a> by Mick Herron. The first of his books that I didn&rsquo;t particularly enjoy. 📚</p>\n",
+				"content_text": "Finished reading: [This Is What Happened](https://micro.blog/books/9781616959777) by Mick Herron. The first of his books that I didn't particularly enjoy. 📚\n",
+				"date_published": "2023-01-12T05:21:17-06:00",
+				"url": "https://msmprojects.com/2023/01/12/finished-reading-this.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/11/currently-reading-this.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781616959777\">This Is What Happened</a> by Mick Herron 📚</p>\n",
+				"content_text": "Currently reading: [This Is What Happened](https://micro.blog/books/9781616959777) by Mick Herron 📚\n",
+				"date_published": "2023-01-11T17:52:56-06:00",
+				"url": "https://msmprojects.com/2023/01/11/currently-reading-this.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/01/11/finished-reading-nobody.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781616954871\">Nobody Walks</a> by Mick Herron 📚</p>\n",
