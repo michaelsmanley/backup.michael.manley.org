@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/01/26/prof-james-mickens.html",
+				
+				"content_html": "<p><a href=\"https://www.usenix.org/conference/usenixsecurity18/presentation/mickens\">Prof. James Mickens' 2018 USENIX keynote</a> takes some wild and occasionally nerdy/cringey turns, but ultimately speaks clearly to a question I&rsquo;ve had often lately: Do we really know what questions we ask, assumptions we adopt, and consequences we ignore when we write software?</p>\n",
+				"content_text": "[Prof. James Mickens' 2018 USENIX keynote](https://www.usenix.org/conference/usenixsecurity18/presentation/mickens) takes some wild and occasionally nerdy/cringey turns, but ultimately speaks clearly to a question I've had often lately: Do we really know what questions we ask, assumptions we adopt, and consequences we ignore when we write software?\n",
+				"date_published": "2023-01-26T20:00:49-06:00",
+				"url": "https://msmprojects.com/2023/01/26/prof-james-mickens.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/01/21/a-week-or.html",
 				
 				"content_html": "<p>A week or so ago there was a spate of discussion about &ldquo;likes&rdquo; on the micro.blog platform. Today I ran into someone who appears to have drafted the Simplest Thing That Might Work with the <a href=\"https://github.com/dddddddddzzzz/OpenHeart\">Open Heart Protocol</a> on the back end and a <a href=\"https://github.com/dddddddddzzzz/open-heart-element\">web component</a> for the front end.</p>\n",
