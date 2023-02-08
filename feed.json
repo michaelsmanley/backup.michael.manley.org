@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/02/07/230232.html",
+				
+				"content_html": "<p><img src=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-02-07&amp;l=eaikltv&amp;p=164&amp;r=Genius&amp;c=80bd4ecaeb57f7a69440adb3cebba6ad&amp;smid=url-share\" alt=\"\"></p>\n",
+				"content_text": "![](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-02-07&l=eaikltv&p=164&r=Genius&c=80bd4ecaeb57f7a69440adb3cebba6ad&smid=url-share)\n",
+				"date_published": "2023-02-07T23:02:32-06:00",
+				"url": "https://msmprojects.com/2023/02/07/230232.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/01/26/prof-james-mickens.html",
 				
 				"content_html": "<p><a href=\"https://www.usenix.org/conference/usenixsecurity18/presentation/mickens\">Prof. James Mickens' 2018 USENIX keynote</a> takes some wild and occasionally nerdy/cringey turns, but ultimately speaks clearly to a question I&rsquo;ve had often lately: Do we really know what questions we ask, assumptions we adopt, and consequences we ignore when we write software?</p>\n",
