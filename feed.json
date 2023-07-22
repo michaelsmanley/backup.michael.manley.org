@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/07/07/giant-mushroom-in.html",
+				
+				"content_html": "<p>Giant mushroom in roadside cemetery, NC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Giant mushroom in roadside cemetery, NC. \n\n<img src=\"uploads/2023/e12a481829.jpg\" width=\"451\" height=\"600\" alt=\"Large, glossy, white mushroom surrounded by grass with water pooling in its upturned cup. \">\n",
+				"date_published": "2023-07-07T09:15:08-05:00",
+				"url": "https://msmprojects.com/2023/07/07/giant-mushroom-in.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/01/26/prof-james-mickens.html",
 				
 				"content_html": "<p><a href=\"https://www.usenix.org/conference/usenixsecurity18/presentation/mickens\">Prof. James Mickens' 2018 USENIX keynote</a> takes some wild and occasionally nerdy/cringey turns, but ultimately speaks clearly to a question I&rsquo;ve had often lately: Do we really know what questions we ask, assumptions we adopt, and consequences we ignore when we write software?</p>\n",
@@ -521,7 +530,7 @@
 				"id": "http://michaelsmanley.micro.blog/2021/01/26/i-spend-entirely.html",
 				
 				"content_html": "<p>I spend entirely too much time thinking about the &ldquo;Six-Fingered Hand&rdquo; storyline in &ldquo;The Defenders&rdquo; from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I spend entirely too much time thinking about the \"Six-Fingered Hand\" storyline in \"The Defenders\" from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.\n\n<img src=\"uploads/2021/ce77cf350b.jpg\" width=\"355\" height=\"311\" alt=\"\" />\n",
+				"content_text": "I spend entirely too much time thinking about the \"Six-Fingered Hand\" storyline in \"The Defenders\" from 1981. Shown here, IIRC: The entire town of Citrusville, FL is sent to Hell, leaving only a steaming crater.\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2021/ce77cf350b.jpg\" width=\"355\" height=\"311\" alt=\"\" />\n",
 				"date_published": "2021-01-26T14:19:01-05:00",
 				"url": "https://msmprojects.com/2021/01/26/i-spend-entirely.html",
 				"tags": ["photos"]
