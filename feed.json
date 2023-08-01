@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/01/connections-puzzle.html",
+				
+				"content_html": "<p>Connections\nPuzzle #51\n🟨🟨🟨🟨\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩</p>\n",
+				"content_text": "Connections \nPuzzle #51\n🟨🟨🟨🟨\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩\n",
+				"date_published": "2023-08-01T05:20:15-05:00",
+				"url": "https://msmprojects.com/2023/08/01/connections-puzzle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/07/21/finished-reading-code.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780802161918\">Code of the Hills</a> by Chris Offutt 📚</p>\n",
+				"content_text": "Finished reading: [Code of the Hills](https://micro.blog/books/9780802161918) by Chris Offutt 📚\n",
+				"date_published": "2023-07-21T19:05:18-05:00",
+				"url": "https://msmprojects.com/2023/07/21/finished-reading-code.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/07/21/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250228062\">The Terraformers</a> by Annalee Newitz 📚</p>\n",
+				"content_text": "Currently reading: [The Terraformers](https://micro.blog/books/9781250228062) by Annalee Newitz 📚\n",
+				"date_published": "2023-07-21T19:04:39-05:00",
+				"url": "https://msmprojects.com/2023/07/21/currently-reading-the.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/07/07/giant-mushroom-in.html",
 				
 				"content_html": "<p>Giant mushroom in roadside cemetery, NC.</p>\n<!-- raw HTML omitted -->\n",
@@ -336,7 +360,7 @@
 				"id": "http://michaelsmanley.micro.blog/2022/09/16/202439.html",
 				
 				"content_html": "<p>🐶\n<!-- raw HTML omitted --></p>\n",
-				"content_text": "🐶\n<img src=\"uploads/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
+				"content_text": "🐶\n<img src=\"https://cdn.uploads.micro.blog/351/2022/2895ee9457.jpg\" width=\"600\" height=\"569\" alt=\"\" />\n",
 				"date_published": "2022-09-16T20:24:39-05:00",
 				"url": "https://msmprojects.com/2022/09/16/202439.html",
 				"tags": ["dogs","photos"]
@@ -433,7 +457,7 @@
 				"id": "http://michaelsmanley.micro.blog/2021/03/31/new-shirt-old.html",
 				"title": "New Shirt, Old Memories",
 				"content_html": "<p>Prior to <a href=\"https://www.holidayworld.com/\">Holiday World</a>, my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour &ndash; minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) &ndash; swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, <a href=\"https://michael.manley.org/writing/fiction/believing_in_santa_claus/\">“Believing in Santa Claus”</a>, that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.</p>\n<p>So when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Prior to [Holiday World](https://www.holidayworld.com/), my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour -- minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) -- swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, [“Believing in Santa Claus”](https://michael.manley.org/writing/fiction/believing_in_santa_claus/), that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.\n\nSo when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.\n\n\n<img src=\"uploads/2021/2b899f9a07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Prior to [Holiday World](https://www.holidayworld.com/), my jobs had all been farm work, putting up hay or working tobacco for neighbors and getting paid in cash out of a farmer’s wallet at the end of the week. In the summer of 1987, I made $3.35 an hour -- minus taxes and the rent on 5 SaniClean uniforms a week (name in a blue oval patch over the breast and everything) -- swinging a weedeater or pushing a lawnmower or occasionally digging out the icy, knee-deep clay next to a leaking room-sized freezer, from a few hours before the park opened until a few hours before it closed. By the end of the summer, I was about fifty pounds lighter and had no problem breathing through a respirator mask all day in the humid Southern Indiana summer air. I don’t think I’m violating any kind of NDA by reporting that Santa Claus’s real name back then was Ray, though I might be misremembering that. The experience of that summer inspired the first story I selected for my MA thesis, and a second story, [“Believing in Santa Claus”](https://michael.manley.org/writing/fiction/believing_in_santa_claus/), that became one of the first pieces of fiction I ever published. I still think about that job any time I see a ditch that someone has left unmown.\n\nSo when they offered up these shirts for sale earlier this year, I broke my usual rule about no clothing with words or pictures or patterns and snapped one up. Showed up in the mail today. Happy anniversary, y’all.\n\n\n<img src=\"https://michaelsmanley.micro.blog/uploads/2021/2b899f9a07.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-31T20:00:19-05:00",
 				"url": "https://msmprojects.com/2021/03/31/new-shirt-old.html",
 				"tags": ["photos"]
