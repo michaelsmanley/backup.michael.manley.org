@@ -7,6 +7,126 @@
 	"items": [
 		
 			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/11/wordle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 783 5/6\n\n⬜⬜⬜⬜🟨\n⬜🟩⬜🟩⬜\n⬜🟩⬜🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nWordle 783 5/6\n\n⬜⬜⬜⬜🟨\n⬜🟩⬜🟩⬜\n⬜🟩⬜🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-11T10:21:13-05:00",
+				"url": "https://msmprojects.com/2023/08/11/wordle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/10/192740.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-10&amp;l=oabekln&amp;p=119&amp;r=Genius&amp;c=45c3586c5c8a8b060c32e6d959b6ae2d&amp;smid=url-share\">www.nytimes.com/badges/ga&hellip;</a></p>\n",
+				"content_text": "[www.nytimes.com/badges/ga...](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-10&l=oabekln&p=119&r=Genius&c=45c3586c5c8a8b060c32e6d959b6ae2d&smid=url-share)\n",
+				"date_published": "2023-08-10T19:27:40-05:00",
+				"url": "https://msmprojects.com/2023/08/10/192740.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/10/wordle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 782 3/6\n\n⬜⬜⬜⬜🟨\n⬜🟨⬜🟩⬜\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nWordle 782 3/6\n\n⬜⬜⬜⬜🟨\n⬜🟨⬜🟩⬜\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-10T08:20:12-05:00",
+				"url": "https://msmprojects.com/2023/08/10/wordle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/10/connections-puzzle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Connections \nPuzzle #60\n🟨🟨🟨🟨\n🟩🟩🟩🟩\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n</code></pre>",
+				"content_text": "```\nConnections \nPuzzle #60\n🟨🟨🟨🟨\n🟩🟩🟩🟩\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n```\n",
+				"date_published": "2023-08-10T06:59:41-05:00",
+				"url": "https://msmprojects.com/2023/08/10/connections-puzzle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/09/200247.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-09&amp;l=nadelyz&amp;p=135&amp;r=Genius&amp;c=19a2fd05ae7e15bbfc73c6e8c0aceaac&amp;smid=url-share\">www.nytimes.com/badges/ga&hellip;</a></p>\n",
+				"content_text": "[www.nytimes.com/badges/ga...](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-09&l=nadelyz&p=135&r=Genius&c=19a2fd05ae7e15bbfc73c6e8c0aceaac&smid=url-share)\n",
+				"date_published": "2023-08-09T20:02:47-05:00",
+				"url": "https://msmprojects.com/2023/08/09/200247.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/09/wordle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 781 5/6\n\n⬜⬜⬜⬜🟨\n⬜⬜🟨🟨⬜\n🟩🟨⬜🟨⬜\n🟩🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nWordle 781 5/6\n\n⬜⬜⬜⬜🟨\n⬜⬜🟨🟨⬜\n🟩🟨⬜🟨⬜\n🟩🟩⬜🟩🟩\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-09T08:45:11-05:00",
+				"url": "https://msmprojects.com/2023/08/09/wordle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/09/connections-puzzle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Connections \nPuzzle #59\n🟨🟨🟨🟨\n🟦🟦🟩🟦\n🟦🟦🟦🟦\n🟩🟩🟩🟩\n🟪🟪🟪🟪\n</code></pre>",
+				"content_text": "```\nConnections \nPuzzle #59\n🟨🟨🟨🟨\n🟦🟦🟩🟦\n🟦🟦🟦🟦\n🟩🟩🟩🟩\n🟪🟪🟪🟪\n```\n",
+				"date_published": "2023-08-09T08:36:03-05:00",
+				"url": "https://msmprojects.com/2023/08/09/connections-puzzle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/08/175828.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-08&amp;l=gadentu&amp;p=168&amp;r=Genius&amp;c=b003e49c3851ee92dc85cc672d2ec6bc&amp;smid=url-share\">www.nytimes.com/badges/ga&hellip;</a></p>\n",
+				"content_text": "[www.nytimes.com/badges/ga...](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-08&l=gadentu&p=168&r=Genius&c=b003e49c3851ee92dc85cc672d2ec6bc&smid=url-share)\n",
+				"date_published": "2023-08-08T17:58:28-05:00",
+				"url": "https://msmprojects.com/2023/08/08/175828.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/08/wordle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 780 5/6\n\n⬜⬜🟨⬜⬜\n⬜⬜⬜🟨⬜\n🟩🟩⬜🟩⬜\n🟩🟩⬜🟩⬜\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nWordle 780 5/6\n\n⬜⬜🟨⬜⬜\n⬜⬜⬜🟨⬜\n🟩🟩⬜🟩⬜\n🟩🟩⬜🟩⬜\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-08T17:39:19-05:00",
+				"url": "https://msmprojects.com/2023/08/08/wordle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/08/connections-puzzle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Connections \nPuzzle #58\n🟨🟨🟨🟨\n🟩🟩🟪🟩\n🟩🟩🟩🟪\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nConnections \nPuzzle #58\n🟨🟨🟨🟨\n🟩🟩🟪🟩\n🟩🟩🟩🟪\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-08T07:59:44-05:00",
+				"url": "https://msmprojects.com/2023/08/08/connections-puzzle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/07/181053.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-07&amp;l=loyadhi&amp;p=110&amp;r=Genius&amp;c=52a00965dea79aaaafa6f7ca8f625fa2&amp;smid=url-share\">www.nytimes.com/badges/ga&hellip;</a></p>\n",
+				"content_text": "[www.nytimes.com/badges/ga...](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-07&l=loyadhi&p=110&r=Genius&c=52a00965dea79aaaafa6f7ca8f625fa2&smid=url-share)\n",
+				"date_published": "2023-08-07T18:10:53-05:00",
+				"url": "https://msmprojects.com/2023/08/07/181053.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/07/wordle.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 779 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜🟩🟩⬜\n⬜🟩🟩🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩\n</code></pre>",
+				"content_text": "```\nWordle 779 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜🟩🟩⬜\n⬜🟩🟩🟩⬜\n⬜🟩🟩🟩⬜\n🟩🟩🟩🟩🟩\n```\n",
+				"date_published": "2023-08-07T14:18:39-05:00",
+				"url": "https://msmprojects.com/2023/08/07/wordle.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/07/connections-puzzle-lesson.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Connections \nPuzzle #57\n🟩🟩🟩🟩\n🟦🟪🟦🟦\n🟦🟦🟪🟦\n🟦🟨🟨🟨\n🟨🟨🟨🟨\n🟪🟪🟪🟪\n🟦🟦🟦🟦\n</code></pre><p>Lesson: slow down.</p>\n",
+				"content_text": "```\nConnections \nPuzzle #57\n🟩🟩🟩🟩\n🟦🟪🟦🟦\n🟦🟦🟪🟦\n🟦🟨🟨🟨\n🟨🟨🟨🟨\n🟪🟪🟪🟪\n🟦🟦🟦🟦\n```\n\nLesson: slow down. \n",
+				"date_published": "2023-08-07T09:05:36-05:00",
+				"url": "https://msmprojects.com/2023/08/07/connections-puzzle-lesson.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/06/095209.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-06&amp;l=ladghin&amp;p=219&amp;r=Genius&amp;c=ee4a8275b75a7a6291ff2a0630b7b8fc&amp;smid=url-share\">www.nytimes.com/badges/ga&hellip;</a></p>\n",
+				"content_text": "[www.nytimes.com/badges/ga...](https://www.nytimes.com/badges/games/v1/bee.html?d=2023-08-06&l=ladghin&p=219&r=Genius&c=ee4a8275b75a7a6291ff2a0630b7b8fc&smid=url-share)\n",
+				"date_published": "2023-08-06T09:52:09-05:00",
+				"url": "https://msmprojects.com/2023/08/06/095209.html"
+			},
+			{
+				"id": "http://michaelsmanley.micro.blog/2023/08/06/wordle-i-think.html",
+				
+				"content_html": "<pre tabindex=\"0\"><code>Wordle 778 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜🟨🟨⬜⬜\n🟨🟩⬜⬜🟨\n🟩🟩🟩🟩🟩\n</code></pre><p>I think they might be running out of 5-letter.words.</p>\n",
+				"content_text": "```\nWordle 778 5/6\n\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜\n⬜🟨🟨⬜⬜\n🟨🟩⬜⬜🟨\n🟩🟩🟩🟩🟩\n```\n\nI think they might be running out of 5-letter.words. \n",
+				"date_published": "2023-08-06T08:01:57-05:00",
+				"url": "https://msmprojects.com/2023/08/06/wordle-i-think.html"
+			},
+			{
 				"id": "http://michaelsmanley.micro.blog/2023/08/06/connections-puzzle.html",
 				
 				"content_html": "<pre tabindex=\"0\"><code>Connections \nPuzzle #56\n🟨🟨🟨🟨\n🟦🟦🟦🟦\n🟩🟩🟩🟩\n🟪🟪🟪🟪\n</code></pre>",
@@ -18,7 +138,7 @@
 				"id": "http://michaelsmanley.micro.blog/2023/08/05/morning-bubbas.html",
 				
 				"content_html": "<p>Morning bubbas. 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning bubbas. 🐶\n\n<img src=\"uploads/2023/e2363a8cb9.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "Morning bubbas. 🐶\n\n<img src=\"https://cdn.uploads.micro.blog/351/2023/e2363a8cb9.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-05T09:17:58-05:00",
 				"url": "https://msmprojects.com/2023/08/05/morning-bubbas.html",
 				"tags": ["photos"]
