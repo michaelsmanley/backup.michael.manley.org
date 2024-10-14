@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Michael S. Manley",
-	"icon": "https://micro.blog/michaelsmanley/avatar.jpg",
+	"icon": "https://micro.blog/msmprojectsllc/avatar.jpg",
 	"home_page_url": "https://michaelsmanley.micro.blog/",
 	"feed_url": "https://michaelsmanley.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://michaelsmanley.micro.blog/2024/10/14/wealth-distribution-in.html",
+				
+				"content_html": "<p><a href=\"https://www.righto.com/2024/10/wealth-distribution-in-united-states.html\">Wealth distribution in the United States</a></p>\n<p>I don&rsquo;t think it is a perfect illustration, but I do think it is a pretty good illustration of why the folks who are mad at the world have been told to be mad at the wrong people, mostly by the people they really should be mad at.</p>\n",
+				"content_text": "[Wealth distribution in the United States](https://www.righto.com/2024/10/wealth-distribution-in-united-states.html)\r\n\r\nI don't think it is a perfect illustration, but I do think it is a pretty good illustration of why the folks who are mad at the world have been told to be mad at the wrong people, mostly by the people they really should be mad at.\n",
+				"date_published": "2024-10-14T10:27:49-05:00",
+				"url": "https://michaelsmanley.micro.blog/2024/10/14/wealth-distribution-in.html"
+			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2023/07/07/giant-mushroom-in.html",
 				
@@ -32,42 +40,10 @@
 				"url": "https://michaelsmanley.micro.blog/2023/01/21/a-week-or.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/12/currently-reading-white.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781440674471\">White Noise</a> by Don DeLillo. Enjoyed the movie quite a bit. Haven&rsquo;t read DeLillo since graduate school. 📚</p>\n",
-				"content_text": "Currently reading: [White Noise](https://micro.blog/books/9781440674471) by Don DeLillo. Enjoyed the movie quite a bit. Haven't read DeLillo since graduate school. 📚\n",
-				"date_published": "2023-01-12T06:22:48-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/12/currently-reading-white.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/12/finished-reading-this.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781616959777\">This Is What Happened</a> by Mick Herron. The first of his books that I didn&rsquo;t particularly enjoy. 📚</p>\n",
-				"content_text": "Finished reading: [This Is What Happened](https://micro.blog/books/9781616959777) by Mick Herron. The first of his books that I didn't particularly enjoy. 📚\n",
-				"date_published": "2023-01-12T06:21:17-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/12/finished-reading-this.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/11/currently-reading-this.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781616959777\">This Is What Happened</a> by Mick Herron 📚</p>\n",
-				"content_text": "Currently reading: [This Is What Happened](https://micro.blog/books/9781616959777) by Mick Herron 📚\n",
-				"date_published": "2023-01-11T18:52:56-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/11/currently-reading-this.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/11/finished-reading-nobody.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781616954871\">Nobody Walks</a> by Mick Herron 📚</p>\n",
-				"content_text": "Finished reading: [Nobody Walks](https://micro.blog/books/9781616954871) by Mick Herron 📚\n",
-				"date_published": "2023-01-11T18:51:50-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/11/finished-reading-nobody.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2023/01/07/fresh-from-the.html",
 				
 				"content_html": "<p>🐶Fresh from the salon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🐶Fresh from the salon.\n\n<img src=\"https://cdn.uploads.micro.blog/351/2023/5407774a56.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
+				"content_text": "🐶Fresh from the salon.\n\n<img src=\"uploads/2023/5407774a56.jpg\" width=\"451\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-07T13:01:12-05:00",
 				"url": "https://michaelsmanley.micro.blog/2023/01/07/fresh-from-the.html",
 				"tags": ["photos"]
@@ -79,22 +55,6 @@
 				"content_text": "This horrifies me: The creeator of the web editor [Hypertext Plus](https://hypertext.plus), has lost his home: [I'm Selling My Name](https://www.russellbeattie.com/notes/posts/im-selling-my-name.html) by Russell Beattie.\n",
 				"date_published": "2023-01-05T09:41:51-05:00",
 				"url": "https://michaelsmanley.micro.blog/2023/01/05/this-horrifies-me.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/03/currently-reading-nobody.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781616954871\">Nobody Walks</a> by Mick Herron 📚</p>\n",
-				"content_text": "Currently reading: [Nobody Walks](https://micro.blog/books/9781616954871) by Mick Herron 📚\n",
-				"date_published": "2023-01-03T13:00:32-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/03/currently-reading-nobody.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2023/01/03/finished-reading-lovecraft.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062292087\">Lovecraft Country</a> by Matt Ruff 📚</p>\n",
-				"content_text": "Finished reading: [Lovecraft Country](https://micro.blog/books/9780062292087) by Matt Ruff 📚\n",
-				"date_published": "2023-01-03T13:00:16-05:00",
-				"url": "https://michaelsmanley.micro.blog/2023/01/03/finished-reading-lovecraft.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2022/12/31/the-last-funky.html",
@@ -119,30 +79,6 @@
 				"content_text": "A good, nerdy deep-dive into the details: [Stranger Things and the Amiga 1000](https://www.datagubbe.se/stranger/)\n",
 				"date_published": "2022-12-29T14:15:57-05:00",
 				"url": "https://michaelsmanley.micro.blog/2022/12/29/a-good-nerdy.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/23/finished-reading-viriconium.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780307418692\">Viriconium</a> by M. John Harrison. Now I think I need to go read criticism of the book so I have a shot at understanding what it says. 📚</p>\n",
-				"content_text": "Finished reading: [Viriconium](https://micro.blog/books/9780307418692) by M. John Harrison. Now I think I need to go read criticism of the book so I have a shot at understanding what it says. 📚\n",
-				"date_published": "2022-12-23T13:29:08-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/23/finished-reading-viriconium.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/23/currently-reading-lovecraft.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780062292087\">Lovecraft Country</a> by Matt Ruff 📚</p>\n",
-				"content_text": "Currently reading: [Lovecraft Country](https://micro.blog/books/9780062292087) by Matt Ruff 📚\n",
-				"date_published": "2022-12-23T13:28:04-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/23/currently-reading-lovecraft.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/21/finished-reading-attack.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250757524\">Attack Surface</a> by Cory Doctorow. As usual, I agree with Doctorow&rsquo;s tech/political thinking a large part of the time, but I almost always have questions about choices he makes in constructing his fiction. 📚</p>\n",
-				"content_text": "Finished reading: [Attack Surface](https://micro.blog/books/9781250757524) by Cory Doctorow. As usual, I agree with Doctorow's tech/political thinking a large part of the time, but I almost always have questions about choices he makes in constructing his fiction. 📚\n",
-				"date_published": "2022-12-21T11:26:32-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/21/finished-reading-attack.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2022/12/21/ive-waited-for.html",
@@ -195,30 +131,6 @@
 				"url": "https://michaelsmanley.micro.blog/2022/12/15/i-believe-talking.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/08/currently-reading-attack.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250757524\">Attack Surface</a> by Cory Doctorow 📚</p>\n",
-				"content_text": "Currently reading: [Attack Surface](https://micro.blog/books/9781250757524) by Cory Doctorow 📚\n",
-				"date_published": "2022-12-08T20:41:37-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/08/currently-reading-attack.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/08/finished-reading-shiftys.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780802159984\">Shifty&rsquo;s Boys</a> by Chris Offutt 📚</p>\n",
-				"content_text": "Finished reading: [Shifty's Boys](https://micro.blog/books/9780802159984) by Chris Offutt 📚\n",
-				"date_published": "2022-12-08T19:56:37-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/08/finished-reading-shiftys.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/08/finished-reading-the.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780802159878\">The Killing Hills</a> by Chris Offutt 📚</p>\n",
-				"content_text": "Finished reading: [The Killing Hills](https://micro.blog/books/9780802159878) by Chris Offutt 📚\n",
-				"date_published": "2022-12-08T19:56:25-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/08/finished-reading-the.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2022/12/03/the-model-does.html",
 				"title": "The Model Does Not Think; The Model Predicts",
 				"content_html": "<p>In my day job, we work with transformer models a lot, so I&rsquo;m always interested in how they advance. I played around with the <a href=\"https://chat.openai.com/chat\">OpenAI Chatbot</a> and found the results compelling. Asking it to generate a coding tutorial (&ldquo;How would you create an event sourcing application in PHP 8?&quot;) was pretty great, though I recognized sentences it generated as coming from a couple of the more popular human-written tutorials on that subject.</p>\n<p>The thing to remember about large language models is that they are all about probabilities and correlation. A large enough model &ldquo;knows&rdquo; that in the presence of certain other words &ndash; not exactly semantic context, but close enough for jazz &ndash; the word &ldquo;python&rdquo; and &ldquo;snake&rdquo; are equivalent, while in other contexts, &ldquo;python&rdquo; and &ldquo;programming language&rdquo; are related. Given the presence of words in the prompt, the model can predict what words should probably follow in a response.</p>\n<p>This can lead to sentences that read like actual thought. In many cases, they are the product of thought, just not the machine&rsquo;s. They&rsquo;re the product of human thought, repeated enough times that patterns appear in the data. But probabaility isn&rsquo;t certainty, and the machine can generate perfectly reasonable sentences and plausible &ldquo;arguments&rdquo; that are completely incorrect.</p>\n<p>To wit: Since <a href=\"https://micro.blog/books/9780307418692\">Viriconium</a> is on my mind lately, I asked the machine how that book relates to Harrison&rsquo;s later works. The result was convincing enough that I had to take a look at reviews of the books in question to be sure I hadn&rsquo;t missed something on my recent reading of <em>Light</em> and <em>Travel Arrangements</em>. The concluding paragraph here is 100% completely incorrect, and when asking the chatbot to try again, it generated a response that said the exact opposite.</p>\n<p>Any time you play with one of these technologies, I advise you to keep in mind: The model does not think. It only predicts based on what it has seen in the past. A useful illusion, but still an illusion.</p>\n<!-- raw HTML omitted -->\n",
@@ -226,22 +138,6 @@
 				"date_published": "2022-12-03T21:00:41-05:00",
 				"url": "https://michaelsmanley.micro.blog/2022/12/03/the-model-does.html",
 				"tags": ["photos"]
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/03/currently-reading-when.html",
-				
-				"content_html": "<p>Currently reading (when I need a break from Viriconium): <a href=\"https://micro.blog/books/9780802159878\">The Killing Hills</a> by Chris Offutt. Been a fan of his since his first story collection, Kentucky Straight, in the 1990s.📚</p>\n",
-				"content_text": "Currently reading (when I need a break from Viriconium): [The Killing Hills](https://micro.blog/books/9780802159878) by Chris Offutt. Been a fan of his since his first story collection, Kentucky Straight, in the 1990s.📚\n",
-				"date_published": "2022-12-03T19:53:48-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/03/currently-reading-when.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/12/03/currently-reading-viriconium.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780307418692\">Viriconium</a> by M. John Harrison 📚</p>\n",
-				"content_text": "Currently reading: [Viriconium](https://micro.blog/books/9780307418692) by M. John Harrison 📚\n",
-				"date_published": "2022-12-03T19:51:53-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/12/03/currently-reading-viriconium.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2022/11/26/this-makes-me.html",
@@ -284,22 +180,6 @@
 				"url": "https://michaelsmanley.micro.blog/2022/11/18/funky-winkerbean-is.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2022/11/12/test-post-from.html",
-				"title": "Test Post from Obsidian",
-				"content_html": "<p>This is a test post from Obsidian using the <a href=\"https://obsidian.md/plugins?search=micro.b#\">Micro.Publish</a> plugin.</p>\n",
-				"content_text": "This is a test post from Obsidian using the [Micro.Publish](https://obsidian.md/plugins?search=micro.b#) plugin.\n",
-				"date_published": "2022-11-12T14:57:14-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/11/12/test-post-from.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/11/11/in-the-next.html",
-				
-				"content_html": "<p>In the next chapter of the never-ending search for a note-taking system that I don&rsquo;t end up hating, I&rsquo;m trying out <a href=\"https://obsidian.md/\">Obsidian</a>. It has a <a href=\"https://obsidian.md/plugins?search=micro.publish#\">micro.blog plugin</a>, so that already puts it ahead of most things I&rsquo;ve tried.</p>\n",
-				"content_text": "In the next chapter of the never-ending search for a note-taking system that I don't end up hating, I'm trying out [Obsidian](https://obsidian.md/). It has a [micro.blog plugin](https://obsidian.md/plugins?search=micro.publish#), so that already puts it ahead of most things I've tried.\n",
-				"date_published": "2022-11-11T13:00:54-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/11/11/in-the-next.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2022/10/10/credit-hackaday-ugliest.html",
 				
 				"content_html": "<p><img src=\"https://hackaday.com/wp-content/uploads/2022/10/plane.png?w=800\" alt=\"The Stipa-Caproni Airplane\"></p>\n<p>📷 Credit: <a href=\"https://hackaday.com/2022/10/05/ugliest-airplane-ever-built-predicted-the-future/\">Hackaday: Ugliest Airplane Ever Built Predicted the Future</a></p>\n",
@@ -308,28 +188,12 @@
 				"url": "https://michaelsmanley.micro.blog/2022/10/10/credit-hackaday-ugliest.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2022/10/09/independent-book-bloggers.html",
-				
-				"content_html": "<p>Independent book bloggers I&rsquo;ve found while I&rsquo;m reading <a href=\"https://micro.blog/books/9780575096325\">Empty Space</a> and the preceding two Kefahuchi Tract novels by M. John Harrison: <a href=\"https://jeroenthoughts.wordpress.com/\">A Sky of Books and Movies</a>, <a href=\"https://speculiction.blogspot.com/\">Speculiction</a>, <a href=\"https://formerpeople.wordpress.com/\">Former People</a>, and <a href=\"https://schicksalgemeinschaft.wordpress.com/\">Weighing a Pig Doesn&rsquo;t Fatten It</a>. 📚</p>\n",
-				"content_text": "Independent book bloggers I've found while I'm reading [Empty Space](https://micro.blog/books/9780575096325) and the preceding two Kefahuchi Tract novels by M. John Harrison: [A Sky of Books and Movies](https://jeroenthoughts.wordpress.com/), [Speculiction](https://speculiction.blogspot.com/), [Former People](https://formerpeople.wordpress.com/), and [Weighing a Pig Doesn't Fatten It](https://schicksalgemeinschaft.wordpress.com/). 📚\n",
-				"date_published": "2022-10-09T14:33:20-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/10/09/independent-book-bloggers.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2022/10/05/im-not-saying.html",
 				
 				"content_html": "<p>I&rsquo;m not saying this is <em>just</em> a Big Trak for (mostly wealthy, I suppose) Gen-Xers, but it sure pushed those buttons for me: <a href=\"https://www.kickstarter.com/projects/yarbo/yarbo-an-intelligent-yard-robot-to-meet-all-yard-care-needs\">Yarbo Yard Robot</a></p>\n",
 				"content_text": "I'm not saying this is *just* a Big Trak for (mostly wealthy, I suppose) Gen-Xers, but it sure pushed those buttons for me: [Yarbo Yard Robot](https://www.kickstarter.com/projects/yarbo/yarbo-an-intelligent-yard-robot-to-meet-all-yard-care-needs)\n",
 				"date_published": "2022-10-05T16:29:09-05:00",
 				"url": "https://michaelsmanley.micro.blog/2022/10/05/im-not-saying.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/09/20/currently-reading-nova.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780553904291\">Nova Swing</a> by M. John Harrison 📚</p>\n",
-				"content_text": "Currently reading: [Nova Swing](https://micro.blog/books/9780553904291) by M. John Harrison 📚\n",
-				"date_published": "2022-09-20T11:34:41-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/09/20/currently-reading-nova.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2022/09/16/202439.html",
@@ -363,14 +227,6 @@
 				"content_text": "From /dev/lawyer: [Legal Sources for Not-a-Lawyers](https://writing.kemitchell.com/2022/06/26/Legal-Sources-Not-a-Lawyers)\r\n\r\n> \"It’s your law, people. Don’t let lawyers scare you off of reading it!\"\n",
 				"date_published": "2022-06-26T19:17:09-05:00",
 				"url": "https://michaelsmanley.micro.blog/2022/06/26/from-devlawyer-legal.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2022/04/02/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781466853447\">The Three-Body Problem (Remembrance of Earth&rsquo;s Past Book 1)</a> by Cixin Liu 📚</p>\n",
-				"content_text": "Currently reading: [The Three-Body Problem (Remembrance of Earth's Past Book 1)](https://micro.blog/books/9781466853447) by Cixin Liu 📚\n",
-				"date_published": "2022-04-02T18:40:00-05:00",
-				"url": "https://michaelsmanley.micro.blog/2022/04/02/currently-reading-the.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2021/06/15/i-either-missed.html",
@@ -706,28 +562,12 @@
 				"tags": ["photos"]
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2020/08/19/google-cloud-developers.html",
-				
-				"content_html": "<p>Google Cloud developers: What&rsquo;s the closest equivalent to <a href=\"https://aws.github.io/chalice/index\">AWS Chalice</a> for GCP? Functions Framework seems to cover at least a piece of it. Serverless Framework maybe, but I get the (quite possibly mistaken) impression GCP support lags there.</p>\n",
-				"content_text": "Google Cloud developers: What's the closest equivalent to [AWS Chalice](https://aws.github.io/chalice/index) for GCP? Functions Framework seems to cover at least a piece of it. Serverless Framework maybe, but I get the (quite possibly mistaken) impression GCP support lags there.\n",
-				"date_published": "2020-08-19T19:01:03-05:00",
-				"url": "https://michaelsmanley.micro.blog/2020/08/19/google-cloud-developers.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2020/08/19/worst-historical-reenactment.html",
 				
 				"content_html": "<p><a href=\"https://www.cnn.com/travel/article/blockbuster-airbnb-bend-oregon/index.html\">Worst. Historical. Reenactment. Ever.</a></p>\n",
 				"content_text": "[Worst. Historical. Reenactment. Ever.](https://www.cnn.com/travel/article/blockbuster-airbnb-bend-oregon/index.html)\n",
 				"date_published": "2020-08-19T14:55:32-05:00",
 				"url": "https://michaelsmanley.micro.blog/2020/08/19/worst-historical-reenactment.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2020/07/28/not-long-ago.html",
-				
-				"content_html": "<p>Not long ago, a few of our neighbors lost everything in a freak electrical fire. Our ward is fundraising for the family: <a href=\"https://gf.me/u/ygucrn\">gf.me/u/ygucrn</a></p>\n",
-				"content_text": "Not long ago, a few of our neighbors lost everything in a freak electrical fire. Our ward is fundraising for the family: [gf.me/u/ygucrn](https://gf.me/u/ygucrn)\n",
-				"date_published": "2020-07-28T19:58:50-05:00",
-				"url": "https://michaelsmanley.micro.blog/2020/07/28/not-long-ago.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2020/07/23/cartoon-so-youve.html",
@@ -1006,14 +846,6 @@
 				"url": "https://michaelsmanley.micro.blog/2019/11/11/i-love-good.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2019/10/21/public-good-is.html",
-				
-				"content_html": "<p>Public Good is looking to fill a couple of media positions. See [https://publicgood.com/blog/2019/10/20/join-our-team/](the Public Good blog) or ask and I can forward job descriptions or tell you about the company.</p>\n",
-				"content_text": "Public Good is looking to fill a couple of media positions. See [https://publicgood.com/blog/2019/10/20/join-our-team/](the Public Good blog) or ask and I can forward job descriptions or tell you about the company.\n",
-				"date_published": "2019-10-21T14:04:44-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/10/21/public-good-is.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2019/10/16/capitalism-ruins-everything.html",
 				"title": "Capitalism Ruins Everything: Podcasting's Turn in the Barrel",
 				"content_html": "<p>From <a href=\"https://digiday.com/media/platforms-ad-tech-circle-podcastings-small-beautiful-age-drawing-close/\">As platforms and ad tech circle, podcasting’s small, beautiful age is drawing to a close\n</a>:</p>\n<blockquote>\n<p>[Podcasting] will inevitably become more like the display ad ecosystem: commoditized, automated, audience-driven rather than contextual. The podcast ad world has been craft; it’s destined to be mechanized.”</p>\n</blockquote>\n<p>Mind you, the folks at Digiday see this as a good thing.</p>\n<p>Eventually, every creative utterance will be &ldquo;platformed” if the gray goo of advertising has its way.</p>\n",
@@ -1177,22 +1009,6 @@
 				"url": "https://michaelsmanley.micro.blog/2019/08/20/i-guess-medium.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2019/08/19/currently-reading-across.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780299320980\">Across the Great Lake</a> by Lee Zacharias 📚</p>\n",
-				"content_text": "Currently reading: [Across the Great Lake](https://micro.blog/books/9780299320980) by Lee Zacharias 📚\n",
-				"date_published": "2019-08-19T17:02:00-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/08/19/currently-reading-across.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2019/08/19/finished-reading-evelyn.html",
-				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781944388737\">Evelyn As</a> by Christine Butterworth-McDermott 📚</p>\n",
-				"content_text": "Finished reading: [Evelyn As](https://micro.blog/books/9781944388737) by Christine Butterworth-McDermott 📚\n",
-				"date_published": "2019-08-19T17:00:00-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/08/19/finished-reading-evelyn.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/18/i-have-to.html",
 				
 				"content_html": "<p>I have to assume that Cory Doctorow has his social media on full automation, because I&rsquo;ve made the mistake of following his Mastodon account and it has flooded my feed.</p>\n",
@@ -1237,14 +1053,6 @@
 				"tags": ["photos"]
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2019/08/09/currently-reading-luna.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780765375513\">Luna: New Moon</a> by Ian McDonald 📚</p>\n",
-				"content_text": "Currently reading: [Luna: New Moon](https://micro.blog/books/9780765375513) by Ian McDonald 📚\n",
-				"date_published": "2019-08-09T17:52:39-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/08/09/currently-reading-luna.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2019/08/08/sad-to-see.html",
 				
 				"content_html": "<p>Sad to see that Linux Journal has closed its doors, seemingly for good this time. This has been a monthly read for me for over 20 years. <a href=\"https://www.linuxjournal.com/content/linux-journal-ceases-publication-awkward-goodbye\">Linux Journal Ceases Publication: An Awkward Goodbye</a></p>\n",
@@ -1259,22 +1067,6 @@
 				"content_text": "Knowing that I can follow Mastodon users on my micro.blog account, and knowing that they can follow my micro.blog posts is making me appreciate [@manton](https://micro.blog/manton)'s work on this all the more. This is the promise of IndieWeb actually working!\n",
 				"date_published": "2019-08-07T13:02:07-05:00",
 				"url": "https://michaelsmanley.micro.blog/2019/08/07/knowing-that-i.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2019/08/04/question-for-help.html",
-				
-				"content_html": "<p>Question for <a href=\"https://micro.blog/help\">@help</a>: I attempted to follow my micro.blog account from Mastodon. The Mastodon instance found my micro.blog account fine, but my follow is still pending approval. How do I approve the follow on micro.blog?</p>\n",
-				"content_text": "Question for [@help](https://micro.blog/help): I attempted to follow my micro.blog account from Mastodon. The Mastodon instance found my micro.blog account fine, but my follow is still pending approval. How do I approve the follow on micro.blog? \n",
-				"date_published": "2019-08-04T13:20:52-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/08/04/question-for-help.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2019/08/03/currently-reading-the.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781841496511\">The Night Sessions</a> by Ken MacLeod 📚</p>\n",
-				"content_text": "Currently reading: [The Night Sessions](https://micro.blog/books/9781841496511) by Ken MacLeod 📚\n",
-				"date_published": "2019-08-03T21:21:20-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/08/03/currently-reading-the.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2019/07/23/oh-good-the.html",
@@ -1565,14 +1357,6 @@
 				"url": "https://michaelsmanley.micro.blog/2019/03/17/rip-dick-dale.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2019/03/11/thank-you-to.html",
-				
-				"content_html": "<p>Thank you to @101fiction for including my contribution, “Shore” in the latest issue about maps. <a href=\"http://www.101fiction.com/2019/03/shore.html\">www.101fiction.com/2019/03/s&hellip;</a></p>\n",
-				"content_text": "Thank you to @101fiction for including my contribution, “Shore” in the latest issue about maps. [www.101fiction.com/2019/03/s...](http://www.101fiction.com/2019/03/shore.html)\n",
-				"date_published": "2019-03-11T08:01:27-05:00",
-				"url": "https://michaelsmanley.micro.blog/2019/03/11/thank-you-to.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2019/03/08/only-took-like.html",
 				"title": "Only took like 38 years...",
 				"content_html": "<p>Speaking of programming: Most of my life, I&rsquo;ve sort of fudged understanding the difference between a statement and expression, since no text I ever read described either clearly. Until today. From <a href=\"http://craftinginterpreters.com/the-lox-language.html#statements\">Crafting Interpreters</a>:</p>\n<blockquote>\n<p>Where an expression’s main job is to produce a value, a statement’s job is to produce an effect. Since, by definition, statements don’t evaluate to a value, to be useful they have to otherwise change the world in some way—usually modifying some state, reading input, or producing output.</p>\n</blockquote>\n",
@@ -1721,14 +1505,6 @@
 				"content_text": "As a piece of journalism, this reads like a mess, but then the subject sort of dictates the form: [Inside the Flat Earth Conference](https://www.thedailybeast.com/inside-the-flat-earth-conference-where-the-worlds-oldest-conspiracy-theory-is-hot-again) on The Daily Beast.\n",
 				"date_published": "2018-11-19T12:56:03-05:00",
 				"url": "https://michaelsmanley.micro.blog/2018/11/19/as-a-piece.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2018/11/14/i-guess-sometimes.html",
-				
-				"content_html": "<p>I guess sometimes we all benefit when billionaires get into a pissing match.</p>\n<p><a href=\"https://twitter.com/jeffbarr/status/1062703353417756672?s=21\">twitter.com/jeffbarr/&hellip;</a></p>\n",
-				"content_text": "I guess sometimes we all benefit when billionaires get into a pissing match. \n\n[twitter.com/jeffbarr/...](https://twitter.com/jeffbarr/status/1062703353417756672?s=21)\n",
-				"date_published": "2018-11-14T09:13:50-05:00",
-				"url": "https://michaelsmanley.micro.blog/2018/11/14/i-guess-sometimes.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/11/12/excelsior.html",
@@ -2025,14 +1801,6 @@
 				"url": "https://michaelsmanley.micro.blog/2018/09/15/quick-reminder-for.html"
 			},
 			{
-				"id": "http://michaelsmanley.micro.blog/2018/09/02/thanks-to-the.html",
-				
-				"content_html": "<p>Thanks to the editor of @101fiction for including my little domesticated werewolf ditty, “Suburban&quot; in the latest issue.</p>\n<p><a href=\"http://www.101fiction.com/2018/09/suburban.html\">Suburban</a></p>\n",
-				"content_text": "Thanks to the editor of @101fiction for including my little domesticated werewolf ditty, “Suburban\" in the latest issue.\n\n[Suburban](http://www.101fiction.com/2018/09/suburban.html)\n",
-				"date_published": "2018-09-02T09:52:46-05:00",
-				"url": "https://michaelsmanley.micro.blog/2018/09/02/thanks-to-the.html"
-			},
-			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/31/i-received-all.html",
 				
 				"content_html": "<p>I received all of my 2600 Hacker Digest lifetime subscription archive PDFs today. Seeing all these old issues makes me stupidly happy. Not taking up physical shelf space makes me even happier. 📚</p>\n",
@@ -2047,14 +1815,6 @@
 				"content_text": "Reading this got me to thinking about some things:\n\n[THE MOST POPULAR PERSONALITY TEST IN THE WORLD IS A JOKE](https://theoutline.com/post/6071/the-personality-brokers-review-myers-briggs-type-indicator)\n\nI find myself not surprised at all about the MBTI's dubious utility. Back in the dotcom boom, after I pointed out to upper management (with impolite candor that I'd be mortified by today) that a couple of consultants we'd hired were not much better than con artists, I was forced to attend “executive training” sessions with a corporate psychologist who, if I'd written them into a story, would have been editorially questioned as a poor caricature of afternoon TV host ambition. During those grinding weeks, I took the MBTI and a couple other scantronnesque tests, and while on the surface their results appealed to my sense of self and identity, I soon got the same feeling I'd had as a kid when I'd figured out the scam behind the funny page’s daily horoscope column.\n\nAnother employer wasted months on DISC assessments for everyone in management roles, and then wasted more time getting everyone to understand RA(S)CI grids, both of which dropped from use within weeks. All of that felt to me like RPG character generation for people who’d feel embarrassed to call themselves a chaotic-neutral half-Elf ranger but still wanted to fit into a set of little scored boxes.\n\nI eventually realized similar lessons about Agile, Lean, Kanban and pretty much every other methodology and tool used to manage any kind of contemporary thought-driven work. They’re leaky abstractions. They devolve into dogma and ceremony because humans are lazy.\n\nWhat works for me:\n\nPick something to keep track of the state of the team’s current and planned efforts: a shared spreadsheet, [AgilePad](https://agilepad.com/), [Basecamp](https://basecamp.com/), [Trello](https://trello.com/), an [issue/bug tracker](https://sifterapp.com), [whatever](https://manuscript.com/). Make it easy for team members to contribute to and navigate within this information. Don't get hung up on points or sizing or metrics: they'll drive the team to wasteful games.\n\nDon't try to use a [customer support tool](https://www.zendesk.com/) for this. Those are geared towards question/answer exchanges and getting people satisfied and on their way as fast as possible, not for collaboration.\n\nKeep track of the state of the product, whether that's a software application or a playbook for daily business: A [wiki](https://wiki.js.org), a shared document folder, a Git repository of [Markdown](https://commonmark.org) files, whatever. This documentation provides team memory and helps bring new team members up to speed. Try to strike a balance here between some pure, crystalline structure and a junk drawer. Make it easy for people to contribute and bake in time for documentation in your planning.\n\nIn my experience, Slack, or any of the Slack-alikes, will fail as a tool for both tracking and documenting a team's work. Email fails as well. There's a world of difference between notification channels and information storage.\n\nKeep track of your personal To Do list: your calendar, email, favorite GTD app, notebook, whatever. Don't overthink this, but do make it a habit to write stuff down and check your list often.\n\nEverything else should be conversations. The cards in Trello are reminders to have conversations. The pages in the wiki are records of conversations. The channels in Slack (which will proliferate like kudzu if you're not careful) or threads in email are thin, poor substitutes for conversations.\n\nFind your team's natural cadence and balance somewhere between constant interruption and half-day blocks of meetings, whether that's daily stands or weekly check-ins or quaterly lunches. There's little more powerful than a handful of human brains networked face-to-face around a table, but too many people at once diminishes returns quickly. For planned conversations, provide an agenda ahead of time, even if it is a single question to answer. Distribute notes immediately after, or store them in one of your team's tools.\n\nIf you manage someone, at least schedule a weekly one-on-one conversation, even if it is only fifteen minutes long and you both beg off three times out of four.\n\nJust don't overthink any of it. That’s all I know.\n\n",
 				"date_published": "2018-08-31T12:37:44-05:00",
 				"url": "https://michaelsmanley.micro.blog/2018/08/31/on-mbti-and.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2018/08/29/wish-list-item.html",
-				
-				"content_html": "<p>Wish list item for <a href=\"https://micro.blog/manton\">@manton</a>: Selective syndication. I’d enjoy selecting at post-time which cross-posting µblog performs. I can sort of manage this with IFTTT and conditional feed-to-service integrations, but what gets posted is not nearly as nice as µblog’s integrations.</p>\n",
-				"content_text": "Wish list item for [@manton](https://micro.blog/manton): Selective syndication. I’d enjoy selecting at post-time which cross-posting µblog performs. I can sort of manage this with IFTTT and conditional feed-to-service integrations, but what gets posted is not nearly as nice as µblog’s integrations.\n",
-				"date_published": "2018-08-29T18:32:30-05:00",
-				"url": "https://michaelsmanley.micro.blog/2018/08/29/wish-list-item.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/24/so-disgusted-with.html",
@@ -2148,14 +1908,6 @@
 				"content_text": "Sit back and enjoy a batch of [summertime poems](https://bookriot.com/2018/08/11/best-summer-poems/).\n",
 				"date_published": "2018-08-11T09:30:14-05:00",
 				"url": "https://michaelsmanley.micro.blog/2018/08/11/sit-back-and.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2018/08/03/hey-bloggers-in.html",
-				
-				"content_html": "<p>Hey, µ.bloggers: In addition to Feedbin, the macOS/iOS news aggregator program <a href=\"https://betamagic.nl/products/newsexplorer.html\">News Explorer</a> also reads JSON feeds. I switched to this for all my feed reading months ago and really like it.</p>\n",
-				"content_text": "Hey, µ.bloggers: In addition to Feedbin, the macOS/iOS news aggregator program [News Explorer](https://betamagic.nl/products/newsexplorer.html) also reads JSON feeds. I switched to this for all my feed reading months ago and really like it.\n",
-				"date_published": "2018-08-02T19:28:48-05:00",
-				"url": "https://michaelsmanley.micro.blog/2018/08/02/hey-bloggers-in.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/08/02/currently-reading-the.html",
@@ -2481,14 +2233,6 @@
 				"content_text": "Something about this smells funny. #dungeonsanddragons [t.co/HOhWHfWZH...](https://t.co/HOhWHfWZH4)\n",
 				"date_published": "2018-02-10T16:22:35-05:00",
 				"url": "https://michaelsmanley.micro.blog/2018/02/10/t962436659114586112.html"
-			},
-			{
-				"id": "http://michaelsmanley.micro.blog/2018/02/01/t959109169453420544.html",
-				
-				"content_html": "<p>I presented a paper last fall on behalf of @publicgood at the Bloomberg #D4GX conference about our experiences implementing a machine learning system. Finally got around to writing it up on the PGS blog: <a href=\"https://t.co/9aAIL94wxx\">t.co/9aAIL94wx&hellip;</a> #MachineLearning</p>\n",
-				"content_text": "I presented a paper last fall on behalf of @publicgood at the Bloomberg #D4GX conference about our experiences implementing a machine learning system. Finally got around to writing it up on the PGS blog: [t.co/9aAIL94wx...](https://t.co/9aAIL94wxx) #MachineLearning\n",
-				"date_published": "2018-02-01T12:00:20-05:00",
-				"url": "https://michaelsmanley.micro.blog/2018/02/01/t959109169453420544.html"
 			},
 			{
 				"id": "http://michaelsmanley.micro.blog/2018/02/01/t958918372057649152.html",
